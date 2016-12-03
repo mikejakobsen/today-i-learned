@@ -1,0 +1,18 @@
+---
+title: Copying File Contents To System Paste Buffer
+layout: post
+date: 2016-05-12 09:21:29
+category: Zsh
+tags: [Zsh]
+---
+
+If you need to copy and paste the contents of a file, the `pbcopy` command
+can be one of the best ways to accomplish this. Simply `cat` the file and
+pipe that into `pbcopy` to get the contents of the file into the system
+paste buffer.
+
+```
+$ cat some-file.txt | pbcopy
+```
+
+See `man pbcopy` for more details.
