@@ -11,9 +11,10 @@ productivity increases.
 * **By arrows:** `Ctrl` + `F2` lets you navigate menus with arrow keys.
 * **By typing:** `⌘` `⇧` `/` will get you the help menu.
 
-![Image](./images/osx-keyboard.png)
+![Image](http://imgur.com/a/UyUQd)
 
-### Spotlight/Alfred for menus
+### Spotlight/Alfred for 
+
 The `⌘` `⌥` `/` shortcut is essentially a Spotlight for menu items—it opens the help menu where you can type in the menu item you want. Not all applications support it, though.
 
 ![Spotlight](https://media.giphy.com/media/3o7TKCQtODR8ybioKs/giphy.gif)
@@ -38,11 +39,11 @@ Under the *Keyboard* preference pane, there's an option for *Full Keyboard Acces
 
 | Description       | Key            |
 |-------------------|----------------|
-| End of line       | Cmd - Right    |
-| Beginning of line | Cmd - Left     |
-| End of text       | Cmd - Down     |
-| End of word       | Option - Right |
-| Beginning         | Option - Left  |
-| Delete right      | Fn - Delete    |
-| Delete word       | Opt - Delete   |
+| End of line       | `⌘` - `→`      |
+| Beginning of line | `⌘` - `←`      |
+| End of text       | `⌘` - `↓`      |
+| End of word       | `⌥` - `→`		 |
+| Beginning         | `⌥` - `←`      |
+| Delete right      | `Fn` - `⌫`       |
+| Delete word       | `Opt` - `⌫`      |
 {:.shortcuts}
