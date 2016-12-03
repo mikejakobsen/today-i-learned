@@ -10,8 +10,8 @@ straight, while i do that, is Tmux.
 
 ![VTR-tmux](https://media.giphy.com/media/3oriNYyu4t1G3DdPr2/giphy.gif)
 
-VTR provides a collection of commands and functions that allow Vim to interact with tmux. The primary command is VtrSendCommandToRunner. (Leader+sc) This allows for any command string to be passed to tmux for execution. 
-The command VtrSendLinesToRunner allow for either the current visually selected region or the current line to be sent to the tmux runner pane for execution.
+[VTR](https://github.com/christoomey/vim-tmux-runner) provides a collection of commands and functions that allow Vim to interact with tmux. The primary command is `VtrSendCommandToRunner`. `(Leader+sc)` . This allows for any command string to be passed to tmux for execution. 
+The command `VtrSendLinesToRunner` allow for either the current visually selected region or the current line to be sent to the tmux runner pane for execution.
 
 So simply tapping `<leader>or` and `<leader>kr` has slowly become one of my favorite tools.
 
