@@ -5,15 +5,13 @@ date: 2016-12-04 23:21:29
 category: OSX
 tags: [OSX]
 ---
-
-
-![Image](./images/osx-keyboard.png)
-
+Using the mouse, might be the worst anti-pattern there is. So use the keyboard in stead. You'll be surprised, how your
+productivity increases.
 
 * **By arrows:** `Ctrl` + `F2` lets you navigate menus with arrow keys.
 * **By typing:** `⌘` `⇧` `/` will get you the help menu.
 
-----
+![Image](./images/osx-keyboard.png)
 
 ### Spotlight/Alfred for menus
 The `⌘` `⌥` `/` shortcut is essentially a Spotlight for menu items—it opens the help menu where you can type in the menu item you want. Not all applications support it, though.
