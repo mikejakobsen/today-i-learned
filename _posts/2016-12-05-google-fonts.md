@@ -19,6 +19,13 @@ Here a Gist containing the install script.
 
 {% gist mikejakobsen/e300ae5a67634608db4c2a57102cc73f %}
 
+If you wanna limit yourself to the 40 best fonts. Just run this instead. 
+
+{% highlight ruby %}
+curl https://raw.githubusercontent.com/mikejakobsen/dotfiles/master/fonts/top40.sh | sh
+{% endhighlight %}
+
+
 ## Skyfonts
 
 Another option is [SkyFonts] it's a free font syncing service that puts webfonts into your computer. It works with paid services like [LinoType], [MonoType] and [fonts.com], but also offers unlimited support for Google Fonts.
