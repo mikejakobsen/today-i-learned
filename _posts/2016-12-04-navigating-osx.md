@@ -11,7 +11,7 @@ productivity increases.
 * **By arrows:** `Ctrl` + `F2` lets you navigate menus with arrow keys.
 * **By typing:** `⌘` `⇧` `/` will get you the help menu.
 
-![Image](http://imgur.com/a/UyUQd)
+![Image](https://i.imgur.com/MtP95fm.png)
 
 ### Spotlight/Alfred for 
 
