@@ -35,7 +35,7 @@ Under the *Keyboard* preference pane, there's an option for *Full Keyboard Acces
 | `⌘` `⇧` `/` | Help                        |
 {:.shortcuts}
 
-## Text Shortcur
+## Text Shortcuts
 
 | Description       | Key            |
 |-------------------|----------------|

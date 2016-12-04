@@ -1,7 +1,7 @@
 ---
-title: Make OSX secure
+title: Make MacOS Fireproof
 layout: post
-date: 2016-12-06 23:41:29
+date: 2016-12-04 23:41:29
 category: OSX
 tags: [OSX]
 ---
