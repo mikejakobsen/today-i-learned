@@ -1,9 +1,9 @@
 ---
 title: JavaScript testing dosen't suck anymore
 layout: post
-date: 2016-12-07 18:21:29
-category: JavaScript
-tags: [JavaScript]
+date: 2016-12-06 18:21:29
+category: JavaScript, Testing
+tags: [JavaScript, Testing]
 ---
 
 
