@@ -15,4 +15,14 @@ sudo kill `sudo lsof -t -i:3000`
 
 This gets a list of pids for all the processes and then kills them.
 
-[source](http://stackoverflow.com/questions/9346211/how-to-kill-a-process-on-a-port-on-ubuntu)
+I made a simple script, to contain the script.
+
+```
+portkill 5000
+```
+
+[![asciicast](https://asciinema.org/a/8v9cs8blx1cx47lopk3kpojlf.png)](https://asciinema.org/a/8v9cs8blx1cx47lopk3kpojlf)
+
+Save it to your `Bin` directory.
+
+{% gist mikejakobsen/d5c988a52e8c2b831f95e25c9265647e %}
