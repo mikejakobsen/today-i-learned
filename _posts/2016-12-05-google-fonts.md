@@ -51,7 +51,7 @@ And then you simply install font, like you would normally do with [Caskroom].
 
 	brew cask install font-source-code-pro
 
-![CaskRoom-install](https://media.giphy.com/media/3o7TKTqD8UGu2VAccU/giphy.gif)
+[![asciicast](https://asciinema.org/a/99flrwzbyqqbrofyfvyyzwb79.png)](https://asciinema.org/a/99flrwzbyqqbrofyfvyyzwb79)
 
 Here a small list of Caskroom fonts i can't live without
 

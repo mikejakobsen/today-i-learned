@@ -31,6 +31,8 @@ You may also wish to enable stealth mode:
 
     $ sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setstealthmode on
 
+[![asciicast](https://asciinema.org/a/4tp3i3n47d42olhjtlqvvr27c.png)](https://asciinema.org/a/4tp3i3n47d42olhjtlqvvr27c)
+
 > Computer hackers scan networks so they can attempt to identify computers to attack. You can prevent your computer from responding to some of these scans by using `stealth mode`. When stealth mode is enabled, your computer does not respond to ICMP ping requests, and does not answer to connection attempts from a closed TCP or UDP port. This makes it more difficult for attackers to find your computer.
 
 Finally, you may wish to prevent `built-in software` as well as `code-signed, downloaded software from being whitelisted automatically`:
