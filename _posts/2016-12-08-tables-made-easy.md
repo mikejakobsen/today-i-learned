@@ -1,7 +1,7 @@
 ---
 title: Markdown tables made easy
 layout: post
-date: 2016-12-07 13:21:29
+date: 2016-12-08 10:21:29
 category: Vim, Markdown
 tags: [Vim, Markdown]
 ---
