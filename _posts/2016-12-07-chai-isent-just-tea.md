@@ -1,7 +1,7 @@
 ---
 title: Describe it with Chai
 layout: post
-date: 2016-12-08 13:21:29
+date: 2016-12-07 13:21:29
 category: Javascript, Testing
 tags: [Javascript, Testing]
 ---
