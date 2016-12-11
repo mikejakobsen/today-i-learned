@@ -1,27 +1,29 @@
 a {
+  text-decoration: none;
+  margin: 0 2px;
+  position: relative;
   color: $link-color;
-  background-image: linear-gradient(to top,
-    rgba(0,0,0,0) 13%,
-    rgba($link-color,.8) 13%,
-    rgba($link-color,.8) 18%,
-    rgba(0,0,0,0) 17%
-  );
-  text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
 
-a:hover,
-a:focus,
-a:active {
-  border: 0;
-  color: $link-hover-color;
+a:before {
+  position: absolute;
   text-decoration: none;
-  background-image: linear-gradient(to top,
-    rgba(0,0,0,0) 13%,
-    rgba($link-hover-color,.8) 13%,
-    rgba($link-hover-color,.8) 17%,
-    rgba(0,0,0,0) 17%
-  );
-  text-shadow: white 1px 0px 0px, white -1px 0px 0px;
+  margin: 0 auto;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: $link-hover-color;
+  content: '';
+  opacity: .3;
+  -webkit-transform: scaleX(.9);
+  transition-property: opacity, -webkit-transform;
+  transition-duration: .3s;
+}
+
+a:hover:before {
+  opacity: 1;
+  -webkit-transform: scaleX(1);
 }
 
 // Correct issues with buttons

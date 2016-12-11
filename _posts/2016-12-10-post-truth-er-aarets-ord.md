@@ -8,7 +8,7 @@ tags:
 
 Jeg faldt for nyligt over et læserbrev i Berlingske - "[Skal DR eller forsvaret sikre Danmark?]" Hvor Karsten Pedersen argumenterede ganske glimrende for, at DR har udviklet sig til et monster bestående af 14 TV- og radiokanaler med tilhørende kanalchefer og programchefer. 
 
-Hvilket er et klart eksempel på det Lars Tvede i hans glimrende bog [Det kreative samfund] omtaler som [mission creep] - når offentlig instanser udvikler sig voldsomt, for at iscenesætte dem selv. De udvider simplethen deres opgavedefinition, for fortsat at kunne vokse. Et godt eksempel er EU, der er gået fra at være det økonomiske fællesskab `EF`, til nu at være det bureaukratiske monster EU nu er - hvilket muligvis set i lyset af Brexit, kan blive dets død. 
+Hvilket er et klart eksempel på det Lars Tvede i hans glimrende bog [Det kreative samfund] omtaler som [mission creep] - når offentlig instanser udvikler sig voldsomt, for at iscenesætte dem selv. De udvider simplethen deres opgavedefinition, for fortsat at kunne vokse. Et godt eksempel er EU, der er gået fra at være det økonomiske fællesskab *EF*, til nu at være det bureaukratiske monster EU nu er - hvilket muligvis set i lyset af Brexit, kan blive dets død. 
 
 Er DR ligeledes ved at grave dets egen grav? Den Statsradiofoni, som blev grundlagt i 1925, havde nok ikke drømt om at ende med 14 TV- og radiokanaler.
 
