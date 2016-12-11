@@ -6,8 +6,8 @@ category: OSX, Vim
 tags: [OSX, Vim]
 ---
 
-One of the major flaws in Vim, is the weird way to rename files. 
-
+One of the major flaws in Vim, is the weird way to rename files. Here's how i made the Vim weirdness a strength in my
+workflow.
 
 Vim uses [buffers]. In fact whenever you edit a file, you interact with the buffer, and then when you are done, you save
 it to a file. That approach is different, then any other editor i ever worked with.
