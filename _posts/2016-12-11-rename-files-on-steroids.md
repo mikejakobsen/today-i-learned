@@ -1,7 +1,7 @@
 ---
 title: The rename files function on steroids.
 layout: post
-date: 2016-12-14 13:21:29
+date: 2016-12-12 08:21:29
 category: OSX, Vim
 tags: [OSX, Vim]
 ---
