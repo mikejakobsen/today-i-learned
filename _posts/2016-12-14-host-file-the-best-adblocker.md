@@ -1,8 +1,7 @@
 ---
-
 title: Your hostfile might be the best AdBlocker there is.
 layout: post
-date: 2016-12-15 10:21:29
+date: 2016-12-14 19:21:29
 category: OSX
 tags: [OSX]
 ---
