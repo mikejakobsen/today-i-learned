@@ -1,7 +1,7 @@
 ---
 title: Why i love CSS
 layout: post
-date: 2016-12-11 13:21:29
+date: 2016-12-30 23:21:29
 category: CSS, Workflow
 tags: [CSS, Workflow]
 ---
@@ -15,7 +15,7 @@ device.
 
 
 *“Is the medium breakpoint up to 768px, or including 768? I see… and that’s iPad landscape, or is that ‘large’? Oh, large
-is 768px and up. I see. And small is 320px? What is this range from 0 to 319px? A breakpoint for ants?”* 
+is 768px and up. I see. And small is 320px? What is this range from 0 to 319px? A breakpoint for ants?”*
 
 I think we mix up “boundaries” and “ranges” in our discussions and implementations of breakpoints.
 
@@ -26,7 +26,7 @@ And if it’s the upper boundary then how would you define a breakpoint $large-a
 
 Where is 768px? That's the only device width i remember, and suddenly it's gone?
 
-I always haded the mobile-first approach. We'll basically because, my brain dosen't work mobile-first. When was the last
+I always hated the mobile-first approach. We'll basically because, my brain doesn't work mobile-first. When was the last
 time, you visited a site on your 4-5 inch mobile, and thought to your self. *Wow, that looks great*.. 
 
 And the last time, you started picturing a design in your mind, did you see the mobile version? *Oh', you didn't.*
