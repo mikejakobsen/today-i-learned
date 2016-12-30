@@ -6,8 +6,7 @@ category: CSS, Workflow
 tags: [CSS, Workflow]
 ---
 
-If you're anything like me, you learned CSS by setting a `wrapper` as 980px.
-
+If you're anything like me, you learned CSS by setting a `wrapper` at 980px.
 And back then most people was seeing your page at `1024x768`. Soo.. It looked great.
 
 You're design dosen't break at a specific device width, you're design breaks when your design breaks, not the *fucking*
@@ -27,7 +26,7 @@ And if it’s the upper boundary then how would you define a breakpoint $large-a
 Where is 768px? That's the only device width i remember, and suddenly it's gone?
 
 I always hated the mobile-first approach. We'll basically because, my brain doesn't work mobile-first. When was the last
-time, you visited a site on your 4-5 inch mobile, and thought to your self. *Wow, that looks great*.. 
+time, you visited a site on your 4-5 inch mobile, and thought to your self. *Wow, that looks great*..
 
 And the last time, you started picturing a design in your mind, did you see the mobile version? *Oh', you didn't.*
 
