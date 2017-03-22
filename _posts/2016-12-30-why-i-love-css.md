@@ -6,8 +6,8 @@ category: CSS, Workflow
 tags: [CSS, Workflow]
 ---
 
-If you're anything like me, you learned CSS by setting a `wrapper` at 980px.
-And back then most people was seeing your page at `1024x768`. Soo.. It looked great.
+If you're anything like me, you learned CSS by setting a wrapper at 980px.
+And back then most people was seeing your page at 1024x768. Soo.. It looked great.
 
 You're design dosen't break at a specific device width, you're design breaks when your design breaks, not the *fucking*
 device.
