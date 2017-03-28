@@ -1,0 +1,1538 @@
+ H1 GTHaptikLight	_site/fonts/preview.html	/^<\/h1>$/;"	h
+ H1 GTHaptikLight	fonts/preview.html	/^<\/h1>$/;"	h
+ H2 Donec lacinia, felis nec sagittis feugiat	_site/fonts/preview.html	/^<\/h2>$/;"	i
+ H2 Donec lacinia, felis nec sagittis feugiat	fonts/preview.html	/^<\/h2>$/;"	i
+ H3 Sed ullamcorper tincidunt libero, sed tempus sem rhoncus non.	_site/fonts/preview.html	/^<\/h3>$/;"	j
+ H3 Sed ullamcorper tincidunt libero, sed tempus sem rhoncus non.	fonts/preview.html	/^<\/h3>$/;"	j
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/e1dcb48/
+.anchorjs-link	_site/css/app.css	/^.anchorjs-link {$/;"	c
+.anchorjs-link:active	_site/css/app.css	/^.anchorjs-link:active {$/;"	c
+.anchorjs-link:focus	_site/css/app.css	/^.anchorjs-link:focus,$/;"	c
+.anchorjs-link:hover	_site/css/app.css	/^.anchorjs-link:hover,$/;"	c
+.animated	_site/css/app.css	/^.animated {$/;"	c
+.animated.hinge	_site/css/app.css	/^.animated.hinge {$/;"	c
+.animated.infinite	_site/css/app.css	/^.animated.infinite {$/;"	c
+.bg-blue	_site/css/app.css	/^.bg-blue {$/;"	c
+.bg-dark-gray	_site/css/app.css	/^.bg-dark-gray {$/;"	c
+.bg-darken-1	_site/css/app.css	/^.bg-darken-1 {$/;"	c
+.bg-darken-2	_site/css/app.css	/^.bg-darken-2 {$/;"	c
+.bg-darken-3	_site/css/app.css	/^.bg-darken-3 {$/;"	c
+.bg-darken-4	_site/css/app.css	/^.bg-darken-4 {$/;"	c
+.bg-green	_site/css/app.css	/^.bg-green {$/;"	c
+.bg-light-gray	_site/css/app.css	/^.bg-light-gray {$/;"	c
+.bg-lighter-gray	_site/css/app.css	/^.bg-lighter-gray {$/;"	c
+.bg-mid-gray	_site/css/app.css	/^.bg-mid-gray {$/;"	c
+.bg-orange	_site/css/app.css	/^.bg-orange {$/;"	c
+.bg-red	_site/css/app.css	/^.bg-red {$/;"	c
+.bg-white	_site/css/app.css	/^.bg-white {$/;"	c
+.bg-yellow	_site/css/app.css	/^.bg-yellow {$/;"	c
+.blue	_site/css/app.css	/^.blue {$/;"	c
+.bold	_site/css/app.css	/^.bold {$/;"	c
+.button	_site/css/app.css	/^.button {$/;"	c
+.button-disabled	_site/css/app.css	/^.button-disabled {$/;"	c
+.button-disabled:active	_site/css/app.css	/^.button-disabled:active,$/;"	c
+.button-disabled:focus	_site/css/app.css	/^.button-disabled:focus {$/;"	c
+.button-disabled:hover	_site/css/app.css	/^.button-disabled:hover,$/;"	c
+.button:active	_site/css/app.css	/^.button:active {$/;"	c
+.button:focus	_site/css/app.css	/^.button:focus,$/;"	c
+.button:hover	_site/css/app.css	/^.button:hover {$/;"	c
+.button:hover	_site/css/app.css	/^.button:hover,$/;"	c
+.caps	_site/css/app.css	/^.caps {$/;"	c
+.center	_site/css/app.css	/^.center {$/;"	c
+.checkbox-light	_site/css/app.css	/^.checkbox-light {$/;"	c
+.checkbox-light:focus	_site/css/app.css	/^.checkbox-light:focus {$/;"	c
+.clearfix:after	_site/css/app.css	/^.clearfix:after {$/;"	c
+.clearfix:after	_site/css/app.css	/^.clearfix:before, .clearfix:after {$/;"	c
+.clearfix:before	_site/css/app.css	/^.clearfix:before, .clearfix:after {$/;"	c
+.dark-gray	_site/css/app.css	/^.dark-gray {$/;"	c
+.diff .hljs-change	_site/css/app.css	/^.diff .hljs-change {$/;"	c
+.fade-in-down	_site/css/app.css	/^.fade-in-down {$/;"	c
+.field-light	_site/css/app.css	/^.field-light {$/;"	c
+.field-light.is-error	_site/css/app.css	/^.field-light.is-error {$/;"	c
+.field-light.is-success	_site/css/app.css	/^.field-light.is-success {$/;"	c
+.field-light.is-warning	_site/css/app.css	/^.field-light.is-warning {$/;"	c
+.field-light:disabled	_site/css/app.css	/^.field-light:disabled {$/;"	c
+.field-light:focus	_site/css/app.css	/^.field-light:focus {$/;"	c
+.field-light:invalid	_site/css/app.css	/^.field-light:invalid {$/;"	c
+.field-light:read-only:not(select)	_site/css/app.css	/^.field-light:read-only:not(select) {$/;"	c
+.fieldset-reset	_site/css/app.css	/^.fieldset-reset {$/;"	c
+.fieldset-reset legend	_site/css/app.css	/^.fieldset-reset legend {$/;"	s
+.form-stacked input	_site/css/app.css	/^.form-stacked input,$/;"	s
+.form-stacked select	_site/css/app.css	/^.form-stacked select {$/;"	s
+.form-stacked textarea	_site/css/app.css	/^.form-stacked textarea,$/;"	s
+.gist	_site/css/app.css	/^.gist,$/;"	c
+.gist .highlight .p	_site/css/app.css	/^.gist .highlight .p {$/;"	c
+.gist .lines	_site/css/app.css	/^.gist .lines {$/;"	c
+.green	_site/css/app.css	/^.green {$/;"	c
+.h0	_site/css/app.css	/^.h0 {$/;"	c
+.h0-responsive	_site/css/app.css	/^  .h0-responsive {$/;"	c
+.h00	_site/css/app.css	/^.h00 {$/;"	c
+.h00-responsive	_site/css/app.css	/^  .h00-responsive {$/;"	c
+.h1	_site/css/app.css	/^  .h1 {$/;"	c
+.h1	_site/css/app.css	/^.h1 {$/;"	c
+.h1-responsive	_site/css/app.css	/^  .h1-responsive {$/;"	c
+.h2	_site/css/app.css	/^.h2 {$/;"	c
+.h3	_site/css/app.css	/^.h3 {$/;"	c
+.h4	_site/css/app.css	/^.h4 {$/;"	c
+.h5	_site/css/app.css	/^.h5 {$/;"	c
+.h6	_site/css/app.css	/^.h6 {$/;"	c
+.highlight	_site/css/app.css	/^.highlight {$/;"	c
+.highlight .c	_site/css/app.css	/^.highlight .c,$/;"	c
+.highlight .c1	_site/css/app.css	/^.highlight .c1 {$/;"	c
+.highlight .cm	_site/css/app.css	/^.highlight .cm,$/;"	c
+.highlight .cp	_site/css/app.css	/^.highlight .cp,$/;"	c
+.highlight .cs	_site/css/app.css	/^.highlight .cs,$/;"	c
+.highlight .il	_site/css/app.css	/^.highlight .il {$/;"	c
+.highlight .k	_site/css/app.css	/^.highlight .k {$/;"	c
+.highlight .k	_site/css/app.css	/^.highlight .k,$/;"	c
+.highlight .kc	_site/css/app.css	/^.highlight .kc,$/;"	c
+.highlight .kd	_site/css/app.css	/^.highlight .kd,$/;"	c
+.highlight .kn	_site/css/app.css	/^.highlight .kn,$/;"	c
+.highlight .kp	_site/css/app.css	/^.highlight .kp {$/;"	c
+.highlight .kr	_site/css/app.css	/^.highlight .kr,$/;"	c
+.highlight .kt	_site/css/app.css	/^.highlight .kt,$/;"	c
+.highlight .mi	_site/css/app.css	/^.highlight .mi,$/;"	c
+.highlight .na	_site/css/app.css	/^.highlight .na,$/;"	c
+.highlight .nb	_site/css/app.css	/^.highlight .nb {$/;"	c
+.highlight .nb	_site/css/app.css	/^.highlight .nb,$/;"	c
+.highlight .nc	_site/css/app.css	/^.highlight .nc,$/;"	c
+.highlight .nd	_site/css/app.css	/^.highlight .nd,$/;"	c
+.highlight .ne	_site/css/app.css	/^.highlight .ne,$/;"	c
+.highlight .nf	_site/css/app.css	/^.highlight .nf,$/;"	c
+.highlight .ni	_site/css/app.css	/^.highlight .ni,$/;"	c
+.highlight .nl	_site/css/app.css	/^.highlight .nl,$/;"	c
+.highlight .nn	_site/css/app.css	/^.highlight .nn,$/;"	c
+.highlight .no	_site/css/app.css	/^.highlight .no {$/;"	c
+.highlight .no	_site/css/app.css	/^.highlight .no,$/;"	c
+.highlight .nx	_site/css/app.css	/^.highlight .nx {$/;"	c
+.highlight .o	_site/css/app.css	/^.highlight .o {$/;"	c
+.highlight .p	_site/css/app.css	/^.highlight .p {$/;"	c
+.highlight .s	_site/css/app.css	/^.highlight .s,$/;"	c
+.highlight .s1	_site/css/app.css	/^.highlight .s1 {$/;"	c
+.highlight .s2	_site/css/app.css	/^.highlight .s2,$/;"	c
+.highlight .s3	_site/css/app.css	/^.highlight .s3,$/;"	c
+.highlight .sb	_site/css/app.css	/^.highlight .sb,$/;"	c
+.highlight .sc	_site/css/app.css	/^.highlight .sc,$/;"	c
+.highlight .sd	_site/css/app.css	/^.highlight .sd,$/;"	c
+.highlight .sh	_site/css/app.css	/^.highlight .sh,$/;"	c
+.highlight .si	_site/css/app.css	/^.highlight .si,$/;"	c
+.highlight .sr	_site/css/app.css	/^.highlight .sr {$/;"	c
+.highlight .sr	_site/css/app.css	/^.highlight .sr,$/;"	c
+.highlight .ss	_site/css/app.css	/^.highlight .ss {$/;"	c
+.highlight .ss	_site/css/app.css	/^.highlight .ss,$/;"	c
+.highlight .sx	_site/css/app.css	/^.highlight .sx,$/;"	c
+.hljs-addition	_site/css/app.css	/^.hljs-addition {$/;"	c
+.hljs-built_in	_site/css/app.css	/^.hljs-built_in {$/;"	c
+.hljs-cdata	_site/css/app.css	/^.hljs-cdata {$/;"	c
+.hljs-chunk	_site/css/app.css	/^.hljs-chunk {$/;"	c
+.hljs-deletion	_site/css/app.css	/^.hljs-deletion {$/;"	c
+.hljs-doctype	_site/css/app.css	/^.hljs-doctype,$/;"	c
+.hljs-id	_site/css/app.css	/^.hljs-id,$/;"	c
+.hljs-pi	_site/css/app.css	/^.hljs-pi,$/;"	c
+.hljs-pragma	_site/css/app.css	/^.hljs-pragma,$/;"	c
+.hljs-preprocessor	_site/css/app.css	/^.hljs-preprocessor,$/;"	c
+.hljs-shebang	_site/css/app.css	/^.hljs-shebang,$/;"	c
+.hljs-title	_site/css/app.css	/^.hljs-title,$/;"	c
+.hoverBtn	_site/css/app.css	/^.hoverBtn {$/;"	c
+.hoverBtn-bottom	_site/css/app.css	/^.hoverBtn-bottom {$/;"	c
+.hoverBtn-bottom:after	_site/css/app.css	/^  .hoverBtn-bottom:after {$/;"	c
+.hoverBtn-bottom:before	_site/css/app.css	/^  .hoverBtn-bottom:before {$/;"	c
+.hoverBtn:after	_site/css/app.css	/^  .hoverBtn:after {$/;"	c
+.hoverBtn:before	_site/css/app.css	/^  .hoverBtn:before {$/;"	c
+.italic	_site/css/app.css	/^.italic, .post-footer {$/;"	c
+.justify	_site/css/app.css	/^.justify {$/;"	c
+.left	_site/css/app.css	/^.left {$/;"	c
+.left-align	_site/css/app.css	/^.left-align {$/;"	c
+.light-gray	_site/css/app.css	/^.light-gray {$/;"	c
+.lighter-gray	_site/css/app.css	/^.lighter-gray {$/;"	c
+.list-reset	_site/css/app.css	/^.list-reset {$/;"	c
+.m0	_site/css/app.css	/^.m0 {$/;"	c
+.m1	_site/css/app.css	/^.m1 {$/;"	c
+.m2	_site/css/app.css	/^.m2 {$/;"	c
+.m3	_site/css/app.css	/^.m3 {$/;"	c
+.m4	_site/css/app.css	/^.m4 {$/;"	c
+.mb0	_site/css/app.css	/^.mb0 {$/;"	c
+.mb1	_site/css/app.css	/^.mb1 {$/;"	c
+.mb2	_site/css/app.css	/^.mb2 {$/;"	c
+.mb3	_site/css/app.css	/^.mb3 {$/;"	c
+.mb4	_site/css/app.css	/^.mb4 {$/;"	c
+.measure	_site/css/app.css	/^.measure {$/;"	c
+.meta	_site/css/app.css	/^.meta,$/;"	c
+.mid-gray	_site/css/app.css	/^.mid-gray {$/;"	c
+.ml0	_site/css/app.css	/^.ml0 {$/;"	c
+.ml1	_site/css/app.css	/^.ml1 {$/;"	c
+.ml2	_site/css/app.css	/^.ml2 {$/;"	c
+.ml3	_site/css/app.css	/^.ml3 {$/;"	c
+.ml4	_site/css/app.css	/^.ml4 {$/;"	c
+.mr0	_site/css/app.css	/^.mr0 {$/;"	c
+.mr1	_site/css/app.css	/^.mr1 {$/;"	c
+.mr2	_site/css/app.css	/^.mr2 {$/;"	c
+.mr3	_site/css/app.css	/^.mr3 {$/;"	c
+.mr4	_site/css/app.css	/^.mr4 {$/;"	c
+.mt0	_site/css/app.css	/^.mt0 {$/;"	c
+.mt1	_site/css/app.css	/^.mt1 {$/;"	c
+.mt2	_site/css/app.css	/^.mt2 {$/;"	c
+.mt3	_site/css/app.css	/^.mt3 {$/;"	c
+.mt4	_site/css/app.css	/^.mt4 {$/;"	c
+.mx-auto	_site/css/app.css	/^.mx-auto {$/;"	c
+.mxn1	_site/css/app.css	/^.mxn1 {$/;"	c
+.mxn2	_site/css/app.css	/^.mxn2 {$/;"	c
+.mxn3	_site/css/app.css	/^.mxn3 {$/;"	c
+.mxn4	_site/css/app.css	/^.mxn4 {$/;"	c
+.nowrap	_site/css/app.css	/^.nowrap {$/;"	c
+.orange	_site/css/app.css	/^.orange {$/;"	c
+.p1	_site/css/app.css	/^.p1 {$/;"	c
+.p2	_site/css/app.css	/^.p2 {$/;"	c
+.p3	_site/css/app.css	/^.p3 {$/;"	c
+.p4	_site/css/app.css	/^.p4 {$/;"	c
+.pagination	_site/css/app.css	/^.pagination {$/;"	c
+.pagination .button	_site/css/app.css	/^.pagination .button {$/;"	c
+.pagination .disabled	_site/css/app.css	/^.pagination .disabled, .pagination .pagination-meta {$/;"	c
+.pagination .disabled	_site/css/app.css	/^.pagination a, .pagination .disabled {$/;"	c
+.pagination .pagination-meta	_site/css/app.css	/^.pagination .disabled, .pagination .pagination-meta {$/;"	c
+.pagination .pagination-meta	_site/css/app.css	/^.pagination .pagination-meta {$/;"	c
+.pagination a	_site/css/app.css	/^.pagination a, .pagination .disabled {$/;"	s
+.pagination a:active	_site/css/app.css	/^.pagination a:active {$/;"	s
+.pagination a:focus	_site/css/app.css	/^.pagination a:hover, .pagination a:focus {$/;"	s
+.pagination a:hover	_site/css/app.css	/^.pagination a:hover, .pagination a:focus {$/;"	s
+.post-footer	_site/css/app.css	/^.italic, .post-footer {$/;"	c
+.post-footer	_site/css/app.css	/^.post-footer {$/;"	c
+.post-footer .avatar	_site/css/app.css	/^.post-footer .avatar {$/;"	c
+.post-link .post-title	_site/css/app.css	/^.post-link .post-title {$/;"	c
+.post-link .post-title:before	_site/css/app.css	/^  .post-link .post-title:before {$/;"	c
+.post-meta	_site/css/app.css	/^.post-meta {$/;"	c
+.posts	_site/css/app.css	/^.posts {$/;"	c
+.posts .post	_site/css/app.css	/^.posts .post {$/;"	c
+.posts .post a:hover .post-meta	_site/css/app.css	/^.posts .post a:hover .post-meta,$/;"	c
+.posts .post a:hover .post-summary	_site/css/app.css	/^.posts .post a:hover .post-summary {$/;"	c
+.posts .post a:hover .post-title	_site/css/app.css	/^.posts .post a:hover .post-title,$/;"	c
+.posts .post:last-child	_site/css/app.css	/^.posts .post:last-child {$/;"	c
+.px1	_site/css/app.css	/^.px1 {$/;"	c
+.px2	_site/css/app.css	/^.px2 {$/;"	c
+.px3	_site/css/app.css	/^.px3 {$/;"	c
+.px4	_site/css/app.css	/^.px4 {$/;"	c
+.py1	_site/css/app.css	/^.py1 {$/;"	c
+.py2	_site/css/app.css	/^.py2 {$/;"	c
+.py3	_site/css/app.css	/^.py3 {$/;"	c
+.py4	_site/css/app.css	/^.py4 {$/;"	c
+.radio-light	_site/css/app.css	/^.radio-light {$/;"	c
+.radio-light	_site/css/app.css	/^.radio-light,$/;"	c
+.radio-light:focus	_site/css/app.css	/^.radio-light:focus,$/;"	c
+.red	_site/css/app.css	/^.red {$/;"	c
+.regular	_site/css/app.css	/^.regular {$/;"	c
+.related-post-title	_site/css/app.css	/^.related-post-title {$/;"	c
+.right	_site/css/app.css	/^.right {$/;"	c
+.right-align	_site/css/app.css	/^.right-align {$/;"	c
+.scss .hljs-preprocessor	_site/css/app.css	/^.scss .hljs-preprocessor {$/;"	c
+.site	_site/css/app.css	/^.site {$/;"	c
+.site-header	_site/css/app.css	/^  .site-header {$/;"	c
+.site-header	_site/css/app.css	/^.site-header {$/;"	c
+.site-header .logo	_site/css/app.css	/^.site-header .logo {$/;"	c
+.site-header .site-nav	_site/css/app.css	/^  .site-header .site-nav {$/;"	c
+.site-header .site-nav	_site/css/app.css	/^.site-header .site-nav {$/;"	c
+.site-header .site-title	_site/css/app.css	/^  .site-header .site-title {$/;"	c
+.site-header .site-title	_site/css/app.css	/^.site-header .site-title {$/;"	c
+.site-header .site-title:before	_site/css/app.css	/^  .site-header .site-title:before {$/;"	c
+.site-header a	_site/css/app.css	/^  .site-header a {$/;"	s
+.site-header a	_site/css/app.css	/^.site-header a {$/;"	s
+.site-header a:hover	_site/css/app.css	/^.site-header a:hover,$/;"	s
+.site-header nav a	_site/css/app.css	/^.site-header nav a {$/;"	s
+.site-header nav a:active	_site/css/app.css	/^.site-header nav a:active {$/;"	s
+.site-header nav a:focus	_site/css/app.css	/^.site-header nav a:focus,$/;"	s
+.site-header nav a:hover	_site/css/app.css	/^.site-header nav a:hover,$/;"	s
+.site-nav	_site/css/app.css	/^  .site-nav {$/;"	c
+.site-nav	_site/css/app.css	/^.site-nav {$/;"	c
+.site-nav a + a	_site/css/app.css	/^.site-nav a + a {$/;"	s
+.site-wrap	_site/css/app.css	/^.site-wrap {$/;"	c
+.small	_site/css/app.css	/^.small {$/;"	c
+.social-icons	_site/css/app.css	/^.social-icons {$/;"	c
+.social-icons a.fa	_site/css/app.css	/^.social-icons a.fa {$/;"	c
+.social-icons a.fa:hover	_site/css/app.css	/^.social-icons a.fa:hover {$/;"	c
+.social-icons iframe[title=Flattr]	_site/css/app.css	/^.social-icons iframe[title=Flattr] {$/;"	s
+.social-icons-left	_site/css/app.css	/^  .social-icons-left {$/;"	c
+.social-icons-left	_site/css/app.css	/^.social-icons-left, .social-icons-right {$/;"	c
+.social-icons-right	_site/css/app.css	/^  .social-icons-right {$/;"	c
+.social-icons-right	_site/css/app.css	/^.social-icons-left, .social-icons-right {$/;"	c
+.submit-button	_site/css/app.css	/^.submit-button {$/;"	c
+.submit-button p	_site/css/app.css	/^  .submit-button p {$/;"	s
+.submit-button:hover .hoverBtn-bottom:after	_site/css/app.css	/^  .submit-button:hover .hoverBtn-bottom:before, .submit-button:hover .hoverBtn-bottom:after {$/;"	c
+.submit-button:hover .hoverBtn-bottom:before	_site/css/app.css	/^  .submit-button:hover .hoverBtn-bottom:before, .submit-button:hover .hoverBtn-bottom:after {$/;"	c
+.submit-button:hover .hoverBtn:after	_site/css/app.css	/^  .submit-button:hover .hoverBtn:before, .submit-button:hover .hoverBtn:after {$/;"	c
+.submit-button:hover .hoverBtn:before	_site/css/app.css	/^  .submit-button:hover .hoverBtn:before, .submit-button:hover .hoverBtn:after {$/;"	c
+.white	_site/css/app.css	/^.white {$/;"	c
+.yellow	_site/css/app.css	/^.yellow {$/;"	c
+0	_sass/_animations.scss	/^            transform: translateY(-20px) translate3d(0, 0, 0);$/;"	t
+0	_sass/_animations.scss	/^            transform: translateY(0) translate3d(0, 0, 0);$/;"	t
+0	_sass/_animations.scss	/^        -ms-transform: translateY(-20px) translate3d(0, 0, 0);$/;"	t
+0	_sass/_animations.scss	/^        -ms-transform: translateY(0) translate3d(0, 0, 0);$/;"	t
+0	_sass/_animations.scss	/^    -webkit-transform: translateY(-20px) translate3d(0, 0, 0);$/;"	t
+0	_sass/_animations.scss	/^    -webkit-transform: translateY(0) translate3d(0, 0, 0);$/;"	t
+0	_site/manifest.json	/^  {$/;"	o	array:icons
+0	_site/nitrous.json	/^  "ports": [3000],$/;"	n	array:ports
+0	manifest.json	/^  {$/;"	o	array:icons
+0	nitrous.json	/^  "ports": [3000],$/;"	n	array:ports
+000	_sass/_variables.scss	/^$darken-1: rgba(#000,.0625) !default;$/;"	i
+000	_sass/_variables.scss	/^$darken-2: rgba(#000,.125) !default;$/;"	i
+000	_sass/_variables.scss	/^$darken-3: rgba(#000,.25) !default;$/;"	i
+000	_sass/_variables.scss	/^$darken-4: rgba(#000,.5) !default;$/;"	i
+1	_site/manifest.json	/^  {$/;"	o	array:icons
+1	manifest.json	/^  {$/;"	o	array:icons
+14	_sass/_media-queries.scss	/^@media screen and (min-width: $viewport-large + 14) {$/;"	t
+2	_site/manifest.json	/^  {$/;"	o	array:icons
+2	manifest.json	/^  {$/;"	o	array:icons
+3	_site/manifest.json	/^  {$/;"	o	array:icons
+3	manifest.json	/^  {$/;"	o	array:icons
+4	_site/manifest.json	/^  {$/;"	o	array:icons
+4	manifest.json	/^  {$/;"	o	array:icons
+404	_site/404.html	/^        <h1 id="404">404<\/h1>$/;"	h
+5	_site/manifest.json	/^  {$/;"	o	array:icons
+5	manifest.json	/^  {$/;"	o	array:icons
+::-moz-focus-inner	_site/css/app.css	/^::-moz-focus-inner {$/;"	s
+Absolute And Relative Line Numbers	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/10\/absolute-and-relative-line-numbers\/" class="post-link">/;"	j
+Absolute And Relative Line Numbers	_site/vim/2016/06/10/absolute-and-relative-line-numbers/index.html	/^  <h1>Absolute And Relative Line Numbers<\/h1>$/;"	h
+Accessing A Lost Commit	_site/git/2016/09/12/accessing-a-lost-commit/index.html	/^  <h1>Accessing A Lost Commit<\/h1>$/;"	h
+Accessing A Lost Commit	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/accessing-a-lost-commit\/" class="post-link"><h3 class="/;"	j
+Add Custom Dictionary Words	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/19\/add-custom-dictionary-words\/" class="post-link"><h3 cla/;"	j
+Add Custom Dictionary Words	_site/vim/2016/06/19/add-custom-dictionary-words/index.html	/^  <h1>Add Custom Dictionary Words<\/h1>$/;"	h
+Add a file without loading it	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/13\/add-a-file-without-loading-it\/" class="post-link"><h3 c/;"	j
+Add a file without loading it	_site/vim/2016/06/13/add-a-file-without-loading-it/index.html	/^  <h1>Add a file without loading it<\/h1>$/;"	h
+Adjusting window pane size	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/10\/adjusting-window-pane-size\/" class="post-link"><h3 cla/;"	j
+Adjusting window pane size	_site/tmux/2016/06/10/adjusting-window-pane-size/index.html	/^  <h1>Adjusting window pane size<\/h1>$/;"	h
+All the environment variables	_site/page4/index.html	/^          <a href="\/zsh,%20unix\/2016\/04\/23\/all-the-environment-variables\/" class="post-lin/;"	j
+All the environment variables	_site/zsh, unix/2016/04/23/all-the-environment-variables/index.html	/^  <h1>All the environment variables<\/h1>$/;"	h
+Almost The End Of The Line	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/20\/almost-the-end-of-the-line\/" class="post-link"><h3 clas/;"	j
+Almost The End Of The Line	_site/vim/2016/06/20/almost-the-end-of-the-line/index.html	/^  <h1>Almost The End Of The Line<\/h1>$/;"	h
+Amend Author Of Previous Commit	_site/git/2016/09/12/amend-author-of-previous-commit/index.html	/^  <h1>Amend Author Of Previous Commit<\/h1>$/;"	h
+Amend Author Of Previous Commit	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/amend-author-of-previous-commit\/" class="post-link"><h3/;"	j
+Ammend commit with fugitive	_site/page2/index.html	/^          <a href="\/vim\/2016\/06\/24\/amend-commits-with-fugitive\/" class="post-link"><h3 cla/;"	j
+Ammend commit with fugitive	_site/vim/2016/06/24/amend-commits-with-fugitive/index.html	/^  <h1>Ammend commit with fugitive<\/h1>$/;"	h
+Application layer firewall	_site/osx/2016/12/05/make-osx-secure/index.html	/^<h2 id="application-layer-firewall">Application layer firewall<\/h2>$/;"	i
+AvenirNextLTW01RegularRegular	_site/fonts/AvenirNextLTW01RegularRegular.svg	/^<font id="AvenirNextLTW01RegularRegular" horiz-adv-x="580" >$/;"	i
+AvenirNextLTW01RegularRegular	fonts/AvenirNextLTW01RegularRegular.svg	/^<font id="AvenirNextLTW01RegularRegular" horiz-adv-x="580" >$/;"	i
+Backspace Options	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/12\/backspace-options\/" class="post-link"><h3 class="h1 pos/;"	j
+Backspace Options	_site/vim/2016/06/12/backspace-options/index.html	/^  <h1>Backspace Options<\/h1>$/;"	h
+Batch renaming	_site/osx, vim/2016/12/12/rename-files-on-steroids/index.html	/^<h2 id="batch-renaming">Batch renaming<\/h2>$/;"	i
+Batch renaming with Vim	_site/osx, vim/2016/12/12/rename-files-on-steroids/index.html	/^<h2 id="batch-renaming-with-vim">Batch renaming with Vim<\/h2>$/;"	i
+Beginning And End Of Previous Change	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/13\/beginning-and-end-of-previous-change\/" class="post-link/;"	j
+Beginning And End Of Previous Change	_site/vim/2016/06/13/beginning-and-end-of-previous-change/index.html	/^  <h1>Beginning And End Of Previous Change<\/h1>$/;"	h
+Blank lines	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/13\/blank-lines-above-and-below\/" class="post-link"><h3 cla/;"	j
+Blank lines	_site/vim/2016/06/13/blank-lines-above-and-below/index.html	/^  <h1>Blank lines<\/h1>$/;"	h
+Breaking The Undo Sequence	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/19\/breaking-the-undo-sequence\/" class="post-link"><h3 clas/;"	j
+Breaking The Undo Sequence	_site/vim/2016/06/19/breaking-the-undo-sequence/index.html	/^  <h1>Breaking The Undo Sequence<\/h1>$/;"	h
+Buffer time travel	_site/page2/index.html	/^          <a href="\/vim\/2016\/06\/21\/buffer-time-travel\/" class="post-link"><h3 class="h1 po/;"	j
+Buffer time travel	_site/vim/2016/06/21/buffer-time-travel/index.html	/^  <h1>Buffer time travel<\/h1>$/;"	h
+Caching Credentials	_site/git/2016/09/12/caching-credentials/index.html	/^  <h1>Caching Credentials<\/h1>$/;"	h
+Caching Credentials	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/caching-credentials\/" class="post-link"><h3 class="h1 p/;"	j
+Case-Aware Substitution With vim-abolish	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/19\/case-aware-substitution-with-vim-abolish\/" class="post-/;"	j
+Case-Aware Substitution With vim-abolish	_site/vim/2016/06/19/case-aware-substitution-with-vim-abolish/index.html	/^  <h1>Case-Aware Substitution With vim-abolish<\/h1>$/;"	h
+Case-Insensitive Substitution	_site/page2/index.html	/^          <a href="\/vim\/2016\/06\/21\/case-insensitive-substitution\/" class="post-link"><h3 c/;"	j
+Case-Insensitive Substitution	_site/vim/2016/06/21/case-insensitive-substitution/index.html	/^  <h1>Case-Insensitive Substitution<\/h1>$/;"	h
+Cat a file with line numbers	_site/page2/index.html	/^          <a href="\/zsh,%20unix\/2016\/06\/20\/cat-a-file-with-line-numbers\/" class="post-link/;"	j
+Cat a file with line numbers	_site/zsh, unix/2016/06/20/cat-a-file-with-line-numbers/index.html	/^  <h1>Cat a file with line numbers<\/h1>$/;"	h
+Center the cursor	_site/page2/index.html	/^          <a href="\/vim\/2016\/06\/23\/center-the-cursor\/" class="post-link"><h3 class="h1 pos/;"	j
+Center the cursor	_site/vim/2016/06/23/center-the-cursor/index.html	/^  <h1>Center the cursor<\/h1>$/;"	h
+Change default shell for a user	_site/page4/index.html	/^          <a href="\/zsh,%20unix\/2016\/05\/12\/change-default-shell-for-a-user\/" class="post-l/;"	j
+Change default shell for a user	_site/zsh, unix/2016/05/12/change-default-shell-for-a-user/index.html	/^  <h1>Change default shell for a user<\/h1>$/;"	h
+Check if a port is in use	_site/index.html	/^          <a href="\/zsh,%20unix\/2016\/09\/12\/check-if-a-port-is-in-use\/" class="post-link"></;"	j
+Check if a port is in use	_site/zsh, unix/2016/09/12/check-if-a-port-is-in-use/index.html	/^  <h1>Check if a port is in use<\/h1>$/;"	h
+Check the current working directory	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/05\/17\/check-the-current-working-directory\/" class="po/;"	j
+Check the current working directory	_site/zsh, unix/2016/05/17/check-the-current-working-directory/index.html	/^  <h1>Check the current working directory<\/h1>$/;"	h
+Checking Commit Ancestry	_site/git/2016/09/12/checking-commit-ancestry/index.html	/^  <h1>Checking Commit Ancestry<\/h1>$/;"	h
+Checking Commit Ancestry	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/checking-commit-ancestry\/" class="post-link"><h3 class=/;"	j
+Checkout Old Version Of A File	_site/git/2016/09/12/checkout-old-version-of-a-file/index.html	/^  <h1>Checkout Old Version Of A File<\/h1>$/;"	h
+Checkout Old Version Of A File	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/checkout-old-version-of-a-file\/" class="post-link"><h3 /;"	j
+Checkout Previous Branch	_site/git/2016/09/12/checkout-previous-branch/index.html	/^  <h1>Checkout Previous Branch<\/h1>$/;"	h
+Checkout Previous Branch	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/checkout-previous-branch\/" class="post-link"><h3 class=/;"	j
+Chromecast	_site/chromecast, osx/2016/12/06/chromecast/index.html	/^  <h1>Chromecast<\/h1>$/;"	h
+Chromecast	_site/index.html	/^          <a href="\/chromecast,%20osx\/2016\/12\/06\/chromecast\/" class="post-link"><h3 class=/;"	j
+Clean Out All Local Branches	_site/git/2016/09/12/clean-out-all-local-branches/index.html	/^  <h1>Clean Out All Local Branches<\/h1>$/;"	h
+Clean Out All Local Branches	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/clean-out-all-local-branches\/" class="post-link"><h3 cl/;"	j
+Clean Up Old Remote Tracking References	_site/git/2016/09/12/clean-up-old-remote-tracking-references/index.html	/^  <h1>Clean Up Old Remote Tracking References<\/h1>$/;"	h
+Clean Up Old Remote Tracking References	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/clean-up-old-remote-tracking-references\/" class="post-l/;"	j
+Clean up Homebrew	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/clean-up-old-homebrew-files\/" class="post-link"><h3 cla/;"	j
+Clean up Homebrew	_site/zsh/2016/05/12/clean-up-old-homebrew-files/index.html	/^  <h1>Clean up Homebrew<\/h1>$/;"	h
+Clear the screen	_site/page4/index.html	/^          <a href="\/zsh,%20unix\/2016\/05\/04\/clear-the-screen\/" class="post-link"><h3 class=/;"	j
+Clear the screen	_site/zsh, unix/2016/05/04/clear-the-screen/index.html	/^  <h1>Clear the screen<\/h1>$/;"	h
+Close All Other Splits	_site/page2/index.html	/^          <a href="\/2016\/06\/25\/close-all-other-splits\/" class="post-link"><h3 class="h1 pos/;"	j
+Close all other windows	_site/page2/index.html	/^          <a href="\/vim\/2016\/06\/26\/close-all-other-windows\/" class="post-link"><h3 class="/;"	j
+Close all other windows	_site/vim/2016/06/26/close-all-other-windows/index.html	/^  <h1>Close all other windows<\/h1>$/;"	h
+Close the Current Buffer	_site/page3/index.html	/^          <a href="\/vim\/2016\/06\/02\/close-the-current-buffer\/" class="post-link"><h3 class=/;"	j
+Close the Current Buffer	_site/vim/2016/06/02/close-the-current-buffer/index.html	/^  <h1>Close the Current Buffer<\/h1>$/;"	h
+Command Line Length Limitations	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/command-line-length-limitations\/" class="post-link"><h3/;"	j
+Command Line Length Limitations	_site/zsh/2016/05/12/command-line-length-limitations/index.html	/^  <h1>Command Line Length Limitations<\/h1>$/;"	h
+Consolas	_sass/_variables.scss	/^$monospace-font-family: 'Source Code Pro', Consolas, monospace !default;$/;"	t
+Copying File Contents To System Paste Buffer	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/copying-file-contents-to-system-paste-buffer\/" class="p/;"	j
+Copying File Contents To System Paste Buffer	_site/zsh/2016/05/12/copying-file-contents-to-system-paste-buffer/index.html	/^  <h1>Copying File Contents To System Paste Buffer<\/h1>$/;"	h
+Create A File Descriptor with Process Substitution	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/create-a-file-descriptor-with-process-substitution\/" cl/;"	j
+Create A File Descriptor with Process Substitution	_site/zsh/2016/05/12/create-a-file-descriptor-with-process-substitution/index.html	/^  <h1>Create A File Descriptor with Process Substitution<\/h1>$/;"	h
+Create A Named tmux Session	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/12\/create-a-named-tmux-session\/" class="post-link"><h3 cl/;"	j
+Create A Named tmux Session	_site/tmux/2016/06/12/create-a-named-tmux-session/index.html	/^  <h1>Create A Named tmux Session<\/h1>$/;"	h
+Create a new session on a new server	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/13\/create-a-new-session-in-a-new-server\/" class="post-lin/;"	j
+Create a new session on a new server	_site/tmux/2016/06/13/create-a-new-session-in-a-new-server/index.html	/^  <h1>Create a new session on a new server<\/h1>$/;"	h
+Curling for headers	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/05\/13\/curling-for-headers\/" class="post-link"><h3 cla/;"	j
+Curling for headers	_site/zsh, unix/2016/05/13/curling-for-headers/index.html	/^  <h1>Curling for headers<\/h1>$/;"	h
+Curling with basic auth	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/05\/26\/curling-with-basic-auth-credentials\/" class="po/;"	j
+Curling with basic auth	_site/zsh, unix/2016/05/26/curling-with-basic-auth-credentials/index.html	/^  <h1>Curling with basic auth<\/h1>$/;"	h
+Cycle Through Layouts	_site/page2/index.html	/^          <a href="\/tmux\/2016\/07\/10\/cycle-through-layouts\/" class="post-link"><h3 class="h/;"	j
+Cycle Through Layouts	_site/tmux/2016/07/10/cycle-through-layouts/index.html	/^  <h1>Cycle Through Layouts<\/h1>$/;"	h
+Default Screenshot Location	_site/page2/index.html	/^          <a href="\/zsh\/2016\/07\/06\/default-screenshot-location\/" class="post-link"><h3 cla/;"	j
+Default Screenshot Location	_site/zsh/2016/07/06/default-screenshot-location/index.html	/^  <h1>Default Screenshot Location<\/h1>$/;"	h
+Delete All Untracked Files	_site/git/2016/09/12/delete-all-untracked-files/index.html	/^  <h1>Delete All Untracked Files<\/h1>$/;"	h
+Delete All Untracked Files	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/delete-all-untracked-files\/" class="post-link"><h3 clas/;"	j
+Describe it with Chai	_site/index.html	/^          <a href="\/javascript,%20testing\/2016\/12\/07\/chai-isent-just-tea\/" class="post-lin/;"	j
+Describe it with Chai	_site/javascript, testing/2016/12/07/chai-isent-just-tea/index.html	/^  <h1>Describe it with Chai<\/h1>$/;"	h
+Determine The Hash Id For A Blob	_site/git/2016/09/12/determine-the-hash-id-for-a-blob/index.html	/^  <h1>Determine The Hash Id For A Blob<\/h1>$/;"	h
+Determine The Hash Id For A Blob	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/determine-the-hash-id-for-a-blob\/" class="post-link"><h/;"	j
+Diffing With Patience	_site/git/2016/09/12/diffing-with-patience/index.html	/^  <h1>Diffing With Patience<\/h1>$/;"	h
+Diffing With Patience	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/diffing-with-patience\/" class="post-link"><h3 class="h1/;"	j
+Do not overwrite existing files	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/06\/02\/do-not-overwrite-existing-files\/" class="post-l/;"	j
+Do not overwrite existing files	_site/zsh, unix/2016/06/02/do-not-overwrite-existing-files/index.html	/^  <h1>Do not overwrite existing files<\/h1>$/;"	h
+Dry Runs in Git	_site/git/2016/09/12/dry-runs-in-git/index.html	/^  <h1>Dry Runs in Git<\/h1>$/;"	h
+Dry Runs in Git	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/dry-runs-in-git\/" class="post-link"><h3 class="h1 post-/;"	j
+Echo All The Say Voices	_site/mac, osx/2016/06/28/list-all-the-say-voices/index.html	/^  <h1>Echo All The Say Voices<\/h1>$/;"	h
+Echo All The Say Voices	_site/page2/index.html	/^          <a href="\/mac,%20osx\/2016\/06\/28\/list-all-the-say-voices\/" class="post-link"><h3 /;"	j
+Enabling Vi Mode	_site/page2/index.html	/^          <a href="\/tmux\/2016\/07\/13\/enabling-vi-mode\/" class="post-link"><h3 class="h1 pos/;"	j
+Enabling Vi Mode	_site/tmux/2016/07/13/enabling-vi-mode/index.html	/^  <h1>Enabling Vi Mode<\/h1>$/;"	h
+Exclude A Directory With Find	_site/index.html	/^          <a href="\/zsh,%20unix\/2016\/10\/12\/exclude-a-directory-with-find\/" class="post-lin/;"	j
+Exclude A Directory With Find	_site/zsh, unix/2016/10/12/exclude-a-directory-with-find/index.html	/^  <h1>Exclude A Directory With Find<\/h1>$/;"	h
+Excluding Files Locally	_site/git/2016/09/12/excluding-files-locally/index.html	/^  <h1>Excluding Files Locally<\/h1>$/;"	h
+Excluding Files Locally	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/excluding-files-locally\/" class="post-link"><h3 class="/;"	j
+Expectations with Chai	_site/javascript, testing/2016/12/06/mocha-dosent-suck-anymore/index.html	/^<h3 id="expectations-with-chai">Expectations with Chai<\/h3>$/;"	j
+Favicons the forgotten asset	_site/html/2016/11/14/favicons/index.html	/^  <h1>Favicons the forgotten asset<\/h1>$/;"	h
+Favicons the forgotten asset	_site/index.html	/^          <a href="\/html\/2016\/11\/14\/favicons\/" class="post-link"><h3 class="h1 post-title"/;"	j
+File Type Info With File	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/06\/15\/file-type-info-with-file\/" class="post-link"><h/;"	j
+File Type Info With File	_site/zsh, unix/2016/06/15/file-type-info-with-file/index.html	/^  <h1>File Type Info With File<\/h1>$/;"	h
+Find The Initial Commit	_site/git/2016/09/12/find-the-initial-commit/index.html	/^  <h1>Find The Initial Commit<\/h1>$/;"	h
+Find The Initial Commit	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/find-the-initial-commit\/" class="post-link"><h3 class="/;"	j
+Find new files	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/05\/17\/find-newer-files\/" class="post-link"><h3 class=/;"	j
+Find new files	_site/zsh, unix/2016/05/17/find-newer-files/index.html	/^  <h1>Find new files<\/h1>$/;"	h
+Frozen SSH session	_site/index.html	/^          <a href="\/unix\/2016\/10\/19\/killing-a-frozen-ssh-session\/" class="post-link"><h3 c/;"	j
+Frozen SSH session	_site/unix/2016/10/19/killing-a-frozen-ssh-session/index.html	/^  <h1>Frozen SSH session<\/h1>$/;"	h
+Full keyboard access	_site/osx/2016/12/05/navigating-osx/index.html	/^<h3 id="full-keyboard-access">Full keyboard access<\/h3>$/;"	j
+GTHaptikBold	_site/fonts/GTHaptikBold.svg	/^<font id="GTHaptikBold" horiz-adv-x="1101" >$/;"	i
+GTHaptikBold	fonts/GTHaptikBold.svg	/^<font id="GTHaptikBold" horiz-adv-x="1101" >$/;"	i
+GTHaptikLight	_site/fonts/GTHaptikLight.svg	/^<font id="GTHaptikLight" horiz-adv-x="1310" >$/;"	i
+GTHaptikLight	fonts/GTHaptikLight.svg	/^<font id="GTHaptikLight" horiz-adv-x="1310" >$/;"	i
+GTHaptikMedium	_site/fonts/GTHaptikMedium.svg	/^<font id="GTHaptikMedium" horiz-adv-x="1310" >$/;"	i
+GTHaptikMedium	fonts/GTHaptikMedium.svg	/^<font id="GTHaptikMedium" horiz-adv-x="1310" >$/;"	i
+Georgia	_sass/_variables.scss	/^$font-family: 'AvenirNextLTW01RegularRegular', 'PT Serif', Georgia, serif !default;$/;"	t
+Get the unix timestamp	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/05\/16\/get-the-unix-timestamp\/" class="post-link"><h3 /;"	j
+Get the unix timestamp	_site/zsh, unix/2016/05/16/get-the-unix-timestamp/index.html	/^  <h1>Get the unix timestamp<\/h1>$/;"	h
+Git Emoji	_site/git/2016/12/03/git-emoji/index.html	/^  <h1>Git Emoji<\/h1>$/;"	h
+Git Emoji	_site/index.html	/^          <a href="\/git\/2016\/12\/03\/git-emoji\/" class="post-link"><h3 class="h1 post-title"/;"	j
+Global Substitution On The Previous Command	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/05\/19\/global-substitution-on-the-previous-command\/" c/;"	j
+Global Substitution On The Previous Command	_site/zsh, unix/2016/05/19/global-substitution-on-the-previous-command/index.html	/^  <h1>Global Substitution On The Previous Command<\/h1>$/;"	h
+Globbing For All Directories In Zsh	_site/page4/index.html	/^          <a href="\/zsh\/2016\/04\/19\/globbing-for-all-directories-in-zsh\/" class="post-link"/;"	j
+Globbing For All Directories In Zsh	_site/zsh/2016/04/19/globbing-for-all-directories-in-zsh/index.html	/^  <h1>Globbing For All Directories In Zsh<\/h1>$/;"	h
+Globbing For Filenames In Zsh	_site/index.html	/^          <a href="\/zsh\/2016\/10\/20\/globbing-for-filenames-in-zsh\/" class="post-link"><h3 c/;"	j
+Globbing For Filenames In Zsh	_site/zsh/2016/10/20/globbing-for-filenames-in-zsh/index.html	/^  <h1>Globbing For Filenames In Zsh<\/h1>$/;"	h
+Grab A Single File From A Stash	_site/git/2016/09/12/grab-a-single-file-from-a-stash/index.html	/^  <h1>Grab A Single File From A Stash<\/h1>$/;"	h
+Grab A Single File From A Stash	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/grab-a-single-file-from-a-stash\/" class="post-link"><h3/;"	j
+Grep For Files Without A Match	_site/page2/index.html	/^          <a href="\/zsh\/2016\/07\/20\/grep-for-files-without-a-match\/" class="post-link"><h3 /;"	j
+Grep For Files Without A Match	_site/zsh/2016/07/20/grep-for-files-without-a-match/index.html	/^  <h1>Grep For Files Without A Match<\/h1>$/;"	h
+Grep For Multiple Patterns	_site/page4/index.html	/^          <a href="\/unix\/2016\/05\/12\/grep-for-multiple-patterns\/" class="post-link"><h3 cla/;"	j
+Grep For Multiple Patterns	_site/page4/index.html	/^          <a href="\/unix\/2016\/05\/12\/list-parent-pid-with-ps\/" class="post-link"><h3 class=/;"	j
+Grep For Multiple Patterns	_site/unix/2016/05/12/grep-for-multiple-patterns/index.html	/^  <h1>Grep For Multiple Patterns<\/h1>$/;"	h
+Grep For Multiple Patterns	_site/unix/2016/05/12/list-parent-pid-with-ps/index.html	/^  <h1>Grep For Multiple Patterns<\/h1>$/;"	h
+Grep Over Commit Messages	_site/git/2016/09/12/grep-over-commit-messages/index.html	/^  <h1>Grep Over Commit Messages<\/h1>$/;"	h
+Grep Over Commit Messages	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/grep-over-commit-messages\/" class="post-link"><h3 class/;"	j
+Helvetica	_sass/_pagination.scss	/^  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;$/;"	t
+Helvetica	_sass/_variables.scss	/^$heading-font-family: 'GTHaptikMedium', 'Helvetica Neue', Helvetica, sans-serif !default;$/;"	t
+Hexdump a compiled file	_site/index.html	/^          <a href="\/unix\/2016\/10\/16\/hexdump-a-compiled-file\/" class="post-link"><h3 class=/;"	j
+Hexdump a compiled file	_site/page3/index.html	/^          <a href="\/unix\/2016\/05\/12\/hexdump-a-compiled-file\/" class="post-link"><h3 class=/;"	j
+Hexdump a compiled file	_site/unix/2016/05/12/hexdump-a-compiled-file/index.html	/^  <h1>Hexdump a compiled file<\/h1>$/;"	h
+Hexdump a compiled file	_site/unix/2016/10/16/hexdump-a-compiled-file/index.html	/^  <h1>Hexdump a compiled file<\/h1>$/;"	h
+Homebrew Fonts	_site/html, osx, fonts/2016/12/05/google-fonts/index.html	/^<h2 id="homebrew-fonts">Homebrew Fonts<\/h2>$/;"	i
+Homebrew bundle	_site/index.html	/^          <a href="\/osx,%20homebrew\/2016\/12\/02\/homebrew-bundle\/" class="post-link"><h3 cla/;"	j
+Homebrew bundle	_site/osx, homebrew/2016/12/02/homebrew-bundle/index.html	/^  <h1>Homebrew bundle<\/h1>$/;"	h
+How much free disk space?	_site/page3/index.html	/^          <a href="\/zsh,%20unix\/2016\/06\/19\/display-free-disk-space\/" class="post-link"><h3/;"	j
+How much free disk space?	_site/zsh, unix/2016/06/19/display-free-disk-space/index.html	/^  <h1>How much free disk space?<\/h1>$/;"	h
+How to Install	_site/fonts/preview.html	/^<h3>How to Install<\/h3>$/;"	j
+How to Install	fonts/preview.html	/^<h3>How to Install<\/h3>$/;"	j
+Ignore Changes To A Tracked File	_site/git/2016/09/12/ignore-changes-to-a-tracked-file/index.html	/^  <h1>Ignore Changes To A Tracked File<\/h1>$/;"	h
+Ignore Changes To A Tracked File	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/ignore-changes-to-a-tracked-file\/" class="post-link"><h/;"	j
+Insert A Non-Breaking Space Character	_site/mac/2016/07/05/insert-a-non-breaking-space-character/index.html	/^  <h1>Insert A Non-Breaking Space Character<\/h1>$/;"	h
+Insert A Non-Breaking Space Character	_site/page2/index.html	/^          <a href="\/mac\/2016\/07\/05\/insert-a-non-breaking-space-character\/" class="post-lin/;"	j
+Intent To Add	_site/git/2016/09/12/intent-to-add/index.html	/^  <h1>Intent To Add<\/h1>$/;"	h
+Intent To Add	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/intent-to-add\/" class="post-link"><h3 class="h1 post-ti/;"	j
+Interactively Unstage Changes	_site/git/2016/09/12/interactively-unstage-changes/index.html	/^  <h1>Interactively Unstage Changes<\/h1>$/;"	h
+Interactively Unstage Changes	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/interactively-unstage-changes\/" class="post-link"><h3 c/;"	j
+JavaScript testing dosen't suck anymore	_site/index.html	/^          <a href="\/javascript,%20testing\/2016\/12\/06\/mocha-dosent-suck-anymore\/" class="po/;"	j
+JavaScript testing dosen't suck anymore	_site/javascript, testing/2016/12/06/mocha-dosent-suck-anymore/index.html	/^  <h1>JavaScript testing dosen't suck anymore<\/h1>$/;"	h
+Jumping between Sessions	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/14\/jumping-between-sessions\/" class="post-link"><h3 class/;"	j
+Jumping between Sessions	_site/tmux/2016/06/14/jumping-between-sessions/index.html	/^  <h1>Jumping between Sessions<\/h1>$/;"	h
+Kill everything on a port	_site/index.html	/^          <a href="\/unix\/2016\/10\/23\/kill-everything-running-on-a-certain-port\/" class="pos/;"	j
+Kill everything on a port	_site/unix/2016/10/23/kill-everything-running-on-a-certain-port/index.html	/^  <h1>Kill everything on a port<\/h1>$/;"	h
+Kill other connections to a session	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/19\/kill-other-connections-to-a-session\/" class="post-link/;"	j
+Kill other connections to a session	_site/tmux/2016/06/19/kill-other-connections-to-a-session/index.html	/^  <h1>Kill other connections to a session<\/h1>$/;"	h
+Kill the current Session	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/19\/kill-the-current-session\/" class="post-link"><h3 class/;"	j
+Kill the current Session	_site/tmux/2016/06/19/kill-the-current-session/index.html	/^  <h1>Kill the current Session<\/h1>$/;"	h
+Last Commit A File Appeared In	_site/git/2016/09/12/last-commit-a-file-appeared-in/index.html	/^  <h1>Last Commit A File Appeared In<\/h1>$/;"	h
+Last Commit A File Appeared In	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/last-commit-a-file-appeared-in\/" class="post-link"><h3 /;"	j
+Last argument of the last command	_site/index.html	/^          <a href="\/unix\/2016\/10\/23\/last-argument-of-the-last-command\/" class="post-link">/;"	j
+Last argument of the last command	_site/unix/2016/10/23/last-argument-of-the-last-command/index.html	/^  <h1>Last argument of the last command<\/h1>$/;"	h
+Last name of files with matches	_site/page2/index.html	/^          <a href="\/unix\/2016\/08\/22\/list-names-of-files-with-matches\/" class="post-link"></;"	j
+Last name of files with matches	_site/unix/2016/08/22/list-names-of-files-with-matches/index.html	/^  <h1>Last name of files with matches<\/h1>$/;"	h
+List All Files Changed Between Two Branches	_site/git/2016/09/12/list-all-files-changed-between-two-branches/index.html	/^  <h1>List All Files Changed Between Two Branches<\/h1>$/;"	h
+List All Files Changed Between Two Branches	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/list-all-files-changed-between-two-branches\/" class="po/;"	j
+List Different Commits Between Two Branches	_site/git/2016/09/12/list-different-commits-between-two-branches/index.html	/^  <h1>List Different Commits Between Two Branches<\/h1>$/;"	h
+List Different Commits Between Two Branches	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/list-different-commits-between-two-branches\/" class="po/;"	j
+List Filenames Without The Diffs	_site/git/2016/09/12/list-filenames-without-the-diffs/index.html	/^  <h1>List Filenames Without The Diffs<\/h1>$/;"	h
+List Filenames Without The Diffs	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/list-filenames-without-the-diffs\/" class="post-link"><h/;"	j
+List Most Git Commands	_site/git/2016/09/12/list-most-git-commands/index.html	/^  <h1>List Most Git Commands<\/h1>$/;"	h
+List Most Git Commands	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/list-most-git-commands\/" class="post-link"><h3 class="h/;"	j
+List Parent pid With ps	_site/page4/index.html	/^              <h1 id="list-parent-pid-with-ps">List Parent pid With ps<\/h1>$/;"	h
+List Parent pid With ps	_site/unix/2016/05/12/list-parent-pid-with-ps/index.html	/^  <h1 id="list-parent-pid-with-ps">List Parent pid With ps<\/h1>$/;"	h
+List Untracked Files	_site/git/2016/09/12/list-untracked-files/index.html	/^  <h1>List Untracked Files<\/h1>$/;"	h
+List Untracked Files	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/list-untracked-files\/" class="post-link"><h3 class="h1 /;"	j
+List all key bindings	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/20\/list-all-key-bindings\/" class="post-link"><h3 class="h/;"	j
+List all key bindings	_site/tmux/2016/06/20/list-all-key-bindings/index.html	/^  <h1>List all key bindings<\/h1>$/;"	h
+List all users	_site/index.html	/^          <a href="\/unix\/2016\/09\/22\/list-all-users\/" class="post-link"><h3 class="h1 post-/;"	j
+List all users	_site/unix/2016/09/22/list-all-users/index.html	/^  <h1>List all users<\/h1>$/;"	h
+List of sessions to a machine	_site/page2/index.html	/^          <a href="\/unix\/2016\/07\/20\/list-of-sessions-to-a-machine\/" class="post-link"><h3 /;"	j
+List of sessions to a machine	_site/unix/2016/07/20/list-of-sessions-to-a-machine/index.html	/^  <h1>List of sessions to a machine<\/h1>$/;"	h
+List sessions	_site/page2/index.html	/^          <a href="\/tmux\/2016\/07\/06\/list-sessions\/" class="post-link"><h3 class="h1 post-t/;"	j
+List sessions	_site/tmux/2016/07/06/list-sessions/index.html	/^  <h1>List sessions<\/h1>$/;"	h
+Make MacOS Fireproof	_site/index.html	/^          <a href="\/osx\/2016\/12\/05\/make-osx-secure\/" class="post-link"><h3 class="h1 post-/;"	j
+Make MacOS Fireproof	_site/osx/2016/12/05/make-osx-secure/index.html	/^  <h1>Make MacOS Fireproof<\/h1>$/;"	h
+Map a domain to Localhost	_site/page4/index.html	/^          <a href="\/unix,%20wordpress\/2016\/05\/12\/map-a-domain-to-localhost\/" class="post-l/;"	j
+Map a domain to Localhost	_site/unix, wordpress/2016/05/12/map-a-domain-to-localhost/index.html	/^  <h1>Map a domain to Localhost<\/h1>$/;"	h
+Markdown tables made easy	_site/index.html	/^          <a href="\/vim,%20markdown\/2016\/12\/08\/tables-made-easy\/" class="post-link"><h3 cl/;"	j
+Markdown tables made easy	_site/vim, markdown/2016/12/08/tables-made-easy/index.html	/^  <h1>Markdown tables made easy<\/h1>$/;"	h
+More shortcuts	_site/osx/2016/12/05/navigating-osx/index.html	/^<h2 id="more-shortcuts">More shortcuts<\/h2>$/;"	i
+Move The Latest Commit To A New Branch	_site/git/2016/09/12/move-the-latest-commit-to-a-new-branch/index.html	/^  <h1>Move The Latest Commit To A New Branch<\/h1>$/;"	h
+Move The Latest Commit To A New Branch	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/move-the-latest-commit-to-a-new-branch\/" class="post-li/;"	j
+Navigating OSX with the keyboard	_site/index.html	/^          <a href="\/osx\/2016\/12\/05\/navigating-osx\/" class="post-link"><h3 class="h1 post-t/;"	j
+Navigating OSX with the keyboard	_site/osx/2016/12/05/navigating-osx/index.html	/^  <h1>Navigating OSX with the keyboard<\/h1>$/;"	h
+Only Show The Matches	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/only-show-the-matches\/" class="post-link"><h3 class="h1/;"	j
+Only Show The Matches	_site/zsh/2016/05/12/only-show-the-matches/index.html	/^  <h1>Only Show The Matches<\/h1>$/;"	h
+Open new window with a specifik directory	_site/page2/index.html	/^          <a href="\/tmux\/2016\/07\/06\/open-new-window-with-a-specific-directory\/" class="pos/;"	j
+Open new window with a specifik directory	_site/tmux/2016/07/06/open-new-window-with-a-specific-directory/index.html	/^  <h1>Open new window with a specifik directory<\/h1>$/;"	h
+Open the current command in an editor	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/open-the-current-command-in-an-editor\/" class="post-lin/;"	j
+Open the current command in an editor	_site/zsh/2016/05/12/open-the-current-command-in-an-editor/index.html	/^  <h1>Open the current command in an editor<\/h1>$/;"	h
+Organizing Windows	_site/page2/index.html	/^          <a href="\/tmux\/2016\/07\/15\/organizing-windows\/" class="post-link"><h3 class="h1 p/;"	j
+Organizing Windows	_site/tmux/2016/07/15/organizing-windows/index.html	/^  <h1>Organizing Windows<\/h1>$/;"	h
+PID Of The Current Shell	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/pid-of-the-current-shell\/" class="post-link"><h3 class=/;"	j
+PID Of The Current Shell	_site/zsh/2016/05/12/pid-of-the-current-shell/index.html	/^  <h1>PID Of The Current Shell<\/h1>$/;"	h
+Paging up and down	_site/page2/index.html	/^          <a href="\/tmux\/2016\/07\/10\/paging-up-and-down\/" class="post-link"><h3 class="h1 p/;"	j
+Paging up and down	_site/tmux/2016/07/10/paging-up-and-down/index.html	/^  <h1>Paging up and down<\/h1>$/;"	h
+Pane Killer	_site/page3/index.html	/^          <a href="\/tmux\/2016\/05\/12\/pane-killer\/" class="post-link"><h3 class="h1 post-tit/;"	j
+Pane Killer	_site/tmux/2016/05/12/pane-killer/index.html	/^  <h1>Pane Killer<\/h1>$/;"	h
+Partial String Matching In Bash Scripts	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/partial-string-matching-in-bash-scripts\/" class="post-l/;"	j
+Partial String Matching In Bash Scripts	_site/zsh/2016/05/12/partial-string-matching-in-bash-scripts/index.html	/^  <h1>Partial String Matching In Bash Scripts<\/h1>$/;"	h
+PopcornTime	_site/chromecast, osx/2016/12/06/chromecast/index.html	/^<h3 id="popcorntime">PopcornTime<\/h3>$/;"	j
+Post-truth er af Oxford kåret til årets ord.	_site/2016/12/10/post-truth-er-aarets-ord/index.html	/^  <h1>Post-truth er af Oxford kåret til årets ord.<\/h1>$/;"	h
+Post-truth er af Oxford kåret til årets ord.	_site/index.html	/^          <a href="\/2016\/12\/10\/post-truth-er-aarets-ord\/" class="post-link"><h3 class="h1 p/;"	j
+Prermantly delete files	_site/index.html	/^          <a href="\/zsh\/2016\/09\/20\/securely-remove-files\/" class="post-link"><h3 class="h1/;"	j
+Prermantly delete files	_site/zsh/2016/09/20/securely-remove-files/index.html	/^  <h1>Prermantly delete files<\/h1>$/;"	h
+Pretty Less	_site/index.html	/^          <a href="\/unix\/2016\/09\/12\/less-with-style\/" class="post-link"><h3 class="h1 post/;"	j
+Pretty Less	_site/unix/2016/09/12/less-with-style/index.html	/^  <h1>Pretty Less<\/h1>$/;"	h
+Pretty Print Tabular Data	_site/index.html	/^          <a href="\/zsh\/2016\/10\/11\/pretty-print-tabular-data\/" class="post-link"><h3 class/;"	j
+Pretty Print Tabular Data	_site/zsh/2016/10/11/pretty-print-tabular-data/index.html	/^  <h1>Pretty Print Tabular Data<\/h1>$/;"	h
+Reclaiming The Entire Window	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/13\/reclaiming-the-entire-window\/" class="post-link"><h3 c/;"	j
+Reclaiming The Entire Window	_site/tmux/2016/06/13/reclaiming-the-entire-window/index.html	/^  <h1>Reclaiming The Entire Window<\/h1>$/;"	h
+Reference A Commit Via Commit Message Pattern Matching	_site/git/2016/09/12/reference-a-commit-via-commit-message-pattern-matching/index.html	/^  <h1>Reference A Commit Via Commit Message Pattern Matching<\/h1>$/;"	h
+Reference A Commit Via Commit Message Pattern Matching	_site/page2/index.html	/^          <a href="\/git\/2016\/09\/12\/reference-a-commit-via-commit-message-pattern-matching\//;"	j
+Reference The Selected Node	_site/chrome/2016/10/12/reference-the-selected-node/index.html	/^  <h1>Reference The Selected Node<\/h1>$/;"	h
+Reference The Selected Node	_site/index.html	/^          <a href="\/chrome\/2016\/10\/12\/reference-the-selected-node\/" class="post-link"><h3 /;"	j
+Rename The Current Session	_site/2016/06/11/rename-the-current-session/index.html	/^<h1 id="rename-the-current-session">Rename The Current Session<\/h1>$/;"	h
+Rename The Current Session	_site/page3/index.html	/^              <h1 id="rename-the-current-session">Rename The Current Session<\/h1>$/;"	h
+Rename The Current Session	_site/page3/index.html	/^          <a href="\/2016\/06\/11\/rename-the-current-session\/" class="post-link"><h3 class="h1/;"	j
+Renaming A Git Branch	_site/git/2016/11/29/renaming-a-branch/index.html	/^  <h1>Renaming A Git Branch<\/h1>$/;"	h
+Renaming A Git Branch	_site/index.html	/^          <a href="\/git\/2016\/11\/29\/renaming-a-branch\/" class="post-link"><h3 class="h1 pos/;"	j
+Repeat Yourself	_site/page3/index.html	/^          <a href="\/zsh\/2016\/06\/20\/repeat-yourself\/" class="post-link"><h3 class="h1 post-/;"	j
+Repeat Yourself	_site/zsh/2016/06/20/repeat-yourself/index.html	/^  <h1>Repeat Yourself<\/h1>$/;"	h
+Resetting A Reset	_site/git/2016/09/12/resetting-a-reset/index.html	/^  <h1>Resetting A Reset<\/h1>$/;"	h
+Resetting A Reset	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/resetting-a-reset\/" class="post-link"><h3 class="h1 pos/;"	j
+Resizing Both Corners Of A Window	_site/mac/2016/06/28/resizing-both-corners-of-a-window/index.html	/^  <h1>Resizing Both Corners Of A Window<\/h1>$/;"	h
+Resizing Both Corners Of A Window	_site/page2/index.html	/^          <a href="\/mac\/2016\/06\/28\/resizing-both-corners-of-a-window\/" class="post-link"></;"	j
+Ruby on Rails	_site/index.html	/^          <a href="\/ruby\/2017\/03\/22\/ruby-on-fails\/" class="post-link"><h3 class="h1 post-t/;"	j
+Ruby on Rails	_site/ruby/2017/03/22/ruby-on-fails/index.html	/^  <h1>Ruby on Rails<\/h1>$/;"	h
+Run ESLint with webpack	_site/index.html	/^          <a href="\/webpack,%20javascript\/2016\/11\/30\/run-eslint-with-webpack\/" class="post/;"	j
+Run ESLint with webpack	_site/webpack, javascript/2016/11/30/run-eslint-with-webpack/index.html	/^  <h1>Run ESLint with webpack<\/h1>$/;"	h
+Run tests	_site/javascript, testing/2016/12/06/mocha-dosent-suck-anymore/index.html	/^<h3 id="run-tests">Run tests<\/h3>$/;"	j
+SSH Escape Sequences	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/ssh-escape-sequences\/" class="post-link"><h3 class="h1 /;"	j
+SSH Escape Sequences	_site/zsh/2016/05/12/ssh-escape-sequences/index.html	/^  <h1>SSH Escape Sequences<\/h1>$/;"	h
+SSH With Port Forwarding	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/ssh-with-port-forwarding\/" class="post-link"><h3 class=/;"	j
+SSH With Port Forwarding	_site/zsh/2016/05/12/ssh-with-port-forwarding/index.html	/^  <h1>SSH With Port Forwarding<\/h1>$/;"	h
+SSH with a specifik key	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/ssh-with-a-specific-key\/" class="post-link"><h3 class="/;"	j
+SSH with a specifik key	_site/zsh/2016/05/12/ssh-with-a-specific-key/index.html	/^  <h1>SSH with a specifik key<\/h1>$/;"	h
+Safari	_sass/basscss/_buttons-blue.scss	/^    \/* Chrome, Safari, Opera *\/$/;"	t
+Say Hello	_site/contact/index.html	/^    <h1 class="h2">Say Hello<\/h1>$/;"	h
+Search Files Specific To A Language	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/search-files-specific-to-a-language\/" class="post-link"/;"	j
+Search Files Specific To A Language	_site/zsh/2016/05/12/search-files-specific-to-a-language/index.html	/^  <h1>Search Files Specific To A Language<\/h1>$/;"	h
+Search Man Page Descriptions	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/search-man-page-descriptions\/" class="post-link"><h3 cl/;"	j
+Search Man Page Descriptions	_site/zsh/2016/05/12/search-man-page-descriptions/index.html	/^  <h1>Search Man Page Descriptions<\/h1>$/;"	h
+Search history	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/search-history\/" class="post-link"><h3 class="h1 post-t/;"	j
+Search history	_site/zsh/2016/05/12/search-history/index.html	/^  <h1>Search history<\/h1>$/;"	h
+Show All Commits For A File Beyond Renaming	_site/git/2016/09/12/show-all-commits-for-a-file-beyond-renaming/index.html	/^  <h1>Show All Commits For A File Beyond Renaming<\/h1>$/;"	h
+Show All Commits For A File Beyond Renaming	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/show-all-commits-for-a-file-beyond-renaming\/" class="po/;"	j
+Show Disk Usage For The Current Directory	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/show-disk-usage-for-the-current-directory\/" class="post/;"	j
+Show Disk Usage For The Current Directory	_site/zsh/2016/05/12/show-disk-usage-for-the-current-directory/index.html	/^  <h1>Show Disk Usage For The Current Directory<\/h1>$/;"	h
+Show The diffstat Summary Of A Commit	_site/git/2016/09/12/show-the-diffstat-summary-of-a-commit/index.html	/^  <h1>Show The diffstat Summary Of A Commit<\/h1>$/;"	h
+Show The diffstat Summary Of A Commit	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/show-the-diffstat-summary-of-a-commit\/" class="post-lin/;"	j
+Similar Posts	_site/2016/12/10/post-truth-er-aarets-ord/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/chrome/2016/10/12/reference-the-selected-node/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/chrome/2016/10/12/simulating-various-connection-speeds/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/chromecast, osx/2016/12/06/chromecast/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/css, workflow/2016/12/31/why-i-love-css/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/accessing-a-lost-commit/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/amend-author-of-previous-commit/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/caching-credentials/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/checking-commit-ancestry/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/checkout-old-version-of-a-file/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/checkout-previous-branch/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/clean-out-all-local-branches/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/clean-up-old-remote-tracking-references/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/delete-all-untracked-files/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/determine-the-hash-id-for-a-blob/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/diffing-with-patience/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/dry-runs-in-git/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/excluding-files-locally/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/find-the-initial-commit/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/grab-a-single-file-from-a-stash/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/grep-over-commit-messages/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/ignore-changes-to-a-tracked-file/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/intent-to-add/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/interactively-unstage-changes/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/last-commit-a-file-appeared-in/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/list-all-files-changed-between-two-branches/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/list-different-commits-between-two-branches/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/list-filenames-without-the-diffs/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/list-most-git-commands/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/list-untracked-files/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/move-the-latest-commit-to-a-new-branch/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/reference-a-commit-via-commit-message-pattern-matching/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/resetting-a-reset/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/show-all-commits-for-a-file-beyond-renaming/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/show-the-diffstat-summary-of-a-commit/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/single-key-presses-in-interactive-mode/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/staging-changes-within-vim/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/staging-stashes-interactively/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/stashing-only-unstaged-changes/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/stashing-untracked-files/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/untrack-a-directory-of-files-without-deleting/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/untrack-a-file-without-deleting-it/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/verbose-commit-message/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/what-is-the-current-branch/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/09/12/whitespace-warnings/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/11/29/renaming-a-branch/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/git/2016/12/03/git-emoji/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/html, osx, fonts/2016/12/05/google-fonts/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/html/2016/11/14/favicons/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/javascript, testing/2016/12/06/mocha-dosent-suck-anymore/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/javascript, testing/2016/12/07/chai-isent-just-tea/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/mac, osx/2016/06/28/list-all-the-say-voices/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/mac/2016/06/28/resizing-both-corners-of-a-window/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/mac/2016/07/05/insert-a-non-breaking-space-character/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/osx, homebrew/2016/12/02/homebrew-bundle/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/osx, vim/2016/12/12/rename-files-on-steroids/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/osx/2016/12/05/make-osx-secure/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/osx/2016/12/05/navigating-osx/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/osx/2016/12/14/host-file-the-best-adblocker/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/ruby/2017/03/22/ruby-on-fails/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/05/12/pane-killer/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/10/adjusting-window-pane-size/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/10/tmux-and-vim/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/11/swap-split-panes/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/12/create-a-named-tmux-session/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/13/create-a-new-session-in-a-new-server/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/13/reclaiming-the-entire-window/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/14/jumping-between-sessions/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/19/kill-other-connections-to-a-session/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/19/kill-the-current-session/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/06/20/list-all-key-bindings/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/07/06/list-sessions/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/07/06/open-new-window-with-a-specific-directory/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/07/10/cycle-through-layouts/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/07/10/paging-up-and-down/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/07/11/tmux-in-your-tmux/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/07/13/enabling-vi-mode/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/tmux/2016/07/15/organizing-windows/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix, wordpress/2016/05/12/map-a-domain-to-localhost/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/05/12/grep-for-multiple-patterns/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/05/12/hexdump-a-compiled-file/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/05/12/list-parent-pid-with-ps/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/07/20/jump-to-the-ends-of-your-shell-history/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/07/20/list-of-sessions-to-a-machine/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/08/22/list-names-of-files-with-matches/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/09/12/less-with-style/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/09/22/list-all-users/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/10/16/hexdump-a-compiled-file/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/10/19/killing-a-frozen-ssh-session/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/10/23/kill-everything-running-on-a-certain-port/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/unix/2016/10/23/last-argument-of-the-last-command/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim, markdown/2016/12/08/tables-made-easy/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim, tmux/2016/11/20/vtr-makes-vim-tmux-great/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/02/close-the-current-buffer/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/10/absolute-and-relative-line-numbers/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/12/backspace-options/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/13/add-a-file-without-loading-it/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/13/beginning-and-end-of-previous-change/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/13/blank-lines-above-and-below/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/19/add-custom-dictionary-words/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/19/breaking-the-undo-sequence/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/19/case-aware-substitution-with-vim-abolish/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/20/almost-the-end-of-the-line/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/21/buffer-time-travel/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/21/case-insensitive-substitution/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/23/center-the-cursor/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/24/amend-commits-with-fugitive/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/24/check-your-current-color-scheme/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/vim/2016/06/26/close-all-other-windows/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/webpack, javascript/2016/11/30/run-eslint-with-webpack/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/04/23/all-the-environment-variables/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/05/04/clear-the-screen/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/05/12/change-default-shell-for-a-user/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/05/13/curling-for-headers/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/05/16/get-the-unix-timestamp/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/05/17/check-the-current-working-directory/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/05/17/find-newer-files/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/05/19/global-substitution-on-the-previous-command/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/05/26/curling-with-basic-auth-credentials/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/06/02/do-not-overwrite-existing-files/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/06/15/file-type-info-with-file/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/06/19/display-free-disk-space/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/06/20/cat-a-file-with-line-numbers/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/09/12/check-if-a-port-is-in-use/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh, unix/2016/10/12/exclude-a-directory-with-find/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/04/19/globbing-for-all-directories-in-zsh/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/clean-up-old-homebrew-files/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/command-line-length-limitations/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/copying-file-contents-to-system-paste-buffer/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/create-a-file-descriptor-with-process-substitution/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/only-show-the-matches/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/open-the-current-command-in-an-editor/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/partial-string-matching-in-bash-scripts/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/pid-of-the-current-shell/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/saying-yes/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/search-files-specific-to-a-language/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/search-history/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/search-man-page-descriptions/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/show-disk-usage-for-the-current-directory/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/sort-in-numerical-order/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/ssh-escape-sequences/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/ssh-with-a-specific-key/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/05/12/ssh-with-port-forwarding/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/06/20/repeat-yourself/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/07/06/default-screenshot-location/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/07/20/grep-for-files-without-a-match/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/09/13/switch-versions-of-a-brew-formula/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/09/13/watch-this-run-repeatedly/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/09/14/watch-the-difference/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/09/16/view-a-web-page-in-the-terminal/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/09/20/securely-remove-files/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/09/23/where-are-the-binaries/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/10/11/pretty-print-tabular-data/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Similar Posts	_site/zsh/2016/10/20/globbing-for-filenames-in-zsh/index.html	/^  <h3 class="related-post-title">Similar Posts<\/h3>$/;"	j
+Simulating Various Connection Speeds	_site/chrome/2016/10/12/simulating-various-connection-speeds/index.html	/^  <h1>Simulating Various Connection Speeds<\/h1>$/;"	h
+Simulating Various Connection Speeds	_site/index.html	/^          <a href="\/chrome\/2016\/10\/12\/simulating-various-connection-speeds\/" class="post-l/;"	j
+Single Key Presses in Interactive Mode	_site/git/2016/09/12/single-key-presses-in-interactive-mode/index.html	/^  <h1>Single Key Presses in Interactive Mode<\/h1>$/;"	h
+Single Key Presses in Interactive Mode	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/single-key-presses-in-interactive-mode\/" class="post-li/;"	j
+Skip to end of your shell history	_site/page2/index.html	/^          <a href="\/unix\/2016\/07\/20\/jump-to-the-ends-of-your-shell-history\/" class="post-l/;"	j
+Skip to end of your shell history	_site/unix/2016/07/20/jump-to-the-ends-of-your-shell-history/index.html	/^  <h1>Skip to end of your shell history<\/h1>$/;"	h
+Skyfonts	_site/html, osx, fonts/2016/12/05/google-fonts/index.html	/^<h2 id="skyfonts">Skyfonts<\/h2>$/;"	i
+Sort in numerical order	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/sort-in-numerical-order\/" class="post-link"><h3 class="/;"	j
+Sort in numerical order	_site/zsh/2016/05/12/sort-in-numerical-order/index.html	/^  <h1>Sort in numerical order<\/h1>$/;"	h
+Spotlight/Alfred for	_site/osx/2016/12/05/navigating-osx/index.html	/^<h3 id="spotlightalfred-for">Spotlight\/Alfred for<\/h3>$/;"	j
+Staging Changes Within Vim	_site/git/2016/09/12/staging-changes-within-vim/index.html	/^  <h1>Staging Changes Within Vim<\/h1>$/;"	h
+Staging Changes Within Vim	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/staging-changes-within-vim\/" class="post-link"><h3 clas/;"	j
+Staging Stashes Interactively	_site/git/2016/09/12/staging-stashes-interactively/index.html	/^  <h1>Staging Stashes Interactively<\/h1>$/;"	h
+Staging Stashes Interactively	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/staging-stashes-interactively\/" class="post-link"><h3 c/;"	j
+Start til	_site/nitrous.json	/^    "Start til": "cd ~\/code\/today-i-learned && jekyll serve --host 0.0.0.0 --port 3000"$/;"	s	object:scripts
+Start til	nitrous.json	/^    "Start til": "cd ~\/code\/today-i-learned && jekyll serve --host 0.0.0.0 --port 3000"$/;"	s	object:scripts
+Start with a package	_site/javascript, testing/2016/12/06/mocha-dosent-suck-anymore/index.html	/^<h3 id="start-with-a-package">Start with a package<\/h3>$/;"	j
+Stashing Only Unstaged Changes	_site/git/2016/09/12/stashing-only-unstaged-changes/index.html	/^  <h1>Stashing Only Unstaged Changes<\/h1>$/;"	h
+Stashing Only Unstaged Changes	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/stashing-only-unstaged-changes\/" class="post-link"><h3 /;"	j
+Stashing Untracked Files	_site/git/2016/09/12/stashing-untracked-files/index.html	/^  <h1>Stashing Untracked Files<\/h1>$/;"	h
+Stashing Untracked Files	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/stashing-untracked-files\/" class="post-link"><h3 class=/;"	j
+Swap Split Panes	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/11\/swap-split-panes\/" class="post-link"><h3 class="h1 pos/;"	j
+Swap Split Panes	_site/tmux/2016/06/11/swap-split-panes/index.html	/^  <h1>Swap Split Panes<\/h1>$/;"	h
+Switch Versions of a Brew Formula	_site/index.html	/^          <a href="\/zsh\/2016\/09\/13\/switch-versions-of-a-brew-formula\/" class="post-link"></;"	j
+Switch Versions of a Brew Formula	_site/zsh/2016/09/13/switch-versions-of-a-brew-formula/index.html	/^  <h1>Switch Versions of a Brew Formula<\/h1>$/;"	h
+Text Shortcuts	_site/osx/2016/12/05/navigating-osx/index.html	/^<h2 id="text-shortcuts">Text Shortcuts<\/h2>$/;"	i
+Thanks For Your Message	_site/thanks/index.html	/^    <h1 class="h2">Thanks For Your Message<\/h1>$/;"	h
+The rename files function on steroids.	_site/index.html	/^          <a href="\/osx,%20vim\/2016\/12\/12\/rename-files-on-steroids\/" class="post-link"><h3/;"	j
+The rename files function on steroids.	_site/osx, vim/2016/12/12/rename-files-on-steroids/index.html	/^  <h1>The rename files function on steroids.<\/h1>$/;"	h
+The test	_site/javascript, testing/2016/12/07/chai-isent-just-tea/index.html	/^<h2 id="the-test">The test<\/h2>$/;"	i
+Tmux and Vim	_site/page3/index.html	/^          <a href="\/tmux\/2016\/06\/10\/tmux-and-vim\/" class="post-link"><h3 class="h1 post-ti/;"	j
+Tmux and Vim	_site/tmux/2016/06/10/tmux-and-vim/index.html	/^  <h1>Tmux and Vim<\/h1>$/;"	h
+Tmux in your tmux	_site/page2/index.html	/^          <a href="\/tmux\/2016\/07\/11\/tmux-in-your-tmux\/" class="post-link"><h3 class="h1 po/;"	j
+Tmux in your tmux	_site/tmux/2016/07/11/tmux-in-your-tmux/index.html	/^  <h1>Tmux in your tmux<\/h1>$/;"	h
+Untrack A Directory Of Files Without Deleting	_site/git/2016/09/12/untrack-a-directory-of-files-without-deleting/index.html	/^  <h1>Untrack A Directory Of Files Without Deleting<\/h1>$/;"	h
+Untrack A Directory Of Files Without Deleting	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/untrack-a-directory-of-files-without-deleting\/" class="/;"	j
+Untrack A File Without Deleting It	_site/git/2016/09/12/untrack-a-file-without-deleting-it/index.html	/^  <h1>Untrack A File Without Deleting It<\/h1>$/;"	h
+Untrack A File Without Deleting It	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/untrack-a-file-without-deleting-it\/" class="post-link">/;"	j
+Update scripts	_site/javascript, testing/2016/12/06/mocha-dosent-suck-anymore/index.html	/^<h3 id="update-scripts">Update scripts<\/h3>$/;"	j
+Usage	_site/osx, homebrew/2016/12/02/homebrew-bundle/index.html	/^<h3 id="usage">Usage<\/h3>$/;"	j
+VTR makes Vim and Tmux great	_site/index.html	/^          <a href="\/vim,%20tmux\/2016\/11\/20\/vtr-makes-vim-tmux-great\/" class="post-link"><h/;"	j
+VTR makes Vim and Tmux great	_site/vim, tmux/2016/11/20/vtr-makes-vim-tmux-great/index.html	/^  <h1>VTR makes Vim and Tmux great<\/h1>$/;"	h
+Verbose Commit Message	_site/git/2016/09/12/verbose-commit-message/index.html	/^  <h1>Verbose Commit Message<\/h1>$/;"	h
+Verbose Commit Message	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/verbose-commit-message\/" class="post-link"><h3 class="h/;"	j
+View A Web Page In The Terminal	_site/index.html	/^          <a href="\/zsh\/2016\/09\/16\/view-a-web-page-in-the-terminal\/" class="post-link"><h3/;"	j
+View A Web Page In The Terminal	_site/zsh/2016/09/16/view-a-web-page-in-the-terminal/index.html	/^  <h1>View A Web Page In The Terminal<\/h1>$/;"	h
+Watch The Difference	_site/index.html	/^          <a href="\/zsh\/2016\/09\/14\/watch-the-difference\/" class="post-link"><h3 class="h1 /;"	j
+Watch The Difference	_site/zsh/2016/09/14/watch-the-difference/index.html	/^  <h1>Watch The Difference<\/h1>$/;"	h
+Watch This Run Repeatedly	_site/index.html	/^          <a href="\/zsh\/2016\/09\/13\/watch-this-run-repeatedly\/" class="post-link"><h3 class/;"	j
+Watch This Run Repeatedly	_site/zsh/2016/09/13/watch-this-run-repeatedly/index.html	/^  <h1>Watch This Run Repeatedly<\/h1>$/;"	h
+What Is The Current Branch?	_site/git/2016/09/12/what-is-the-current-branch/index.html	/^  <h1>What Is The Current Branch?<\/h1>$/;"	h
+What Is The Current Branch?	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/what-is-the-current-branch\/" class="post-link"><h3 clas/;"	j
+What's my color scheme?	_site/page2/index.html	/^          <a href="\/vim\/2016\/06\/24\/check-your-current-color-scheme\/" class="post-link"><h3/;"	j
+What's my color scheme?	_site/vim/2016/06/24/check-your-current-color-scheme/index.html	/^  <h1>What's my color scheme?<\/h1>$/;"	h
+Where Are The Binaries?	_site/index.html	/^          <a href="\/zsh\/2016\/09\/23\/where-are-the-binaries\/" class="post-link"><h3 class="h/;"	j
+Where Are The Binaries?	_site/zsh/2016/09/23/where-are-the-binaries/index.html	/^  <h1>Where Are The Binaries?<\/h1>$/;"	h
+Where go to from here?	_site/javascript, testing/2016/12/06/mocha-dosent-suck-anymore/index.html	/^<h3 id="where-go-to-from-here">Where go to from here?<\/h3>$/;"	j
+Whitespace Warnings	_site/git/2016/09/12/whitespace-warnings/index.html	/^  <h1>Whitespace Warnings<\/h1>$/;"	h
+Whitespace Warnings	_site/index.html	/^          <a href="\/git\/2016\/09\/12\/whitespace-warnings\/" class="post-link"><h3 class="h1 p/;"	j
+Why i love CSS	_site/css, workflow/2016/12/31/why-i-love-css/index.html	/^  <h1>Why i love CSS<\/h1>$/;"	h
+Why i love CSS	_site/index.html	/^          <a href="\/css,%20workflow\/2016\/12\/31\/why-i-love-css\/" class="post-link"><h3 clas/;"	j
+Working with Google Fonts	_site/html, osx, fonts/2016/12/05/google-fonts/index.html	/^  <h1>Working with Google Fonts<\/h1>$/;"	h
+Working with Google Fonts	_site/index.html	/^          <a href="\/html,%20osx,%20fonts\/2016\/12\/05\/google-fonts\/" class="post-link"><h3 c/;"	j
+Write tests	_site/javascript, testing/2016/12/06/mocha-dosent-suck-anymore/index.html	/^<h3 id="write-tests">Write tests<\/h3>$/;"	j
+Yes command	_site/page3/index.html	/^          <a href="\/zsh\/2016\/05\/12\/saying-yes\/" class="post-link"><h3 class="h1 post-title/;"	j
+Yes command	_site/zsh/2016/05/12/saying-yes/index.html	/^  <h1>Yes command<\/h1>$/;"	h
+YouTube support	_site/chromecast, osx/2016/12/06/chromecast/index.html	/^<h2 id="youtube-support">YouTube support<\/h2>$/;"	i
+Your hostfile might be the best AdBlocker there is.	_site/index.html	/^          <a href="\/osx\/2016\/12\/14\/host-file-the-best-adblocker\/" class="post-link"><h3 cl/;"	j
+Your hostfile might be the best AdBlocker there is.	_site/osx/2016/12/14/host-file-the-best-adblocker/index.html	/^  <h1>Your hostfile might be the best AdBlocker there is.<\/h1>$/;"	h
+a	_sass/_links.scss	/^a {$/;"	t
+a	_sass/basscss/_color-base.scss	/^a {$/;"	t
+a	_site/css/app.css	/^a {$/;"	s
+a	_site/css/app.css	/^a {$/;"	t
+a:before	_site/css/app.css	/^a:before {$/;"	s
+a:hover	_site/css/app.css	/^a:hover {$/;"	s
+a:hover:before	_site/css/app.css	/^a:hover:before {$/;"	s
+abbr	_sass/_typography.scss	/^abbr {$/;"	t
+abbr	_site/css/app.css	/^abbr {$/;"	s
+abbr	_site/css/app.css	/^abbr {$/;"	t
+abbr-border-bottom	_sass/_variables.scss	/^$abbr-border-bottom: 1px black dotted;$/;"	v
+anchorjs-link	_sass/_links.scss	/^.anchorjs-link {$/;"	c
+anchorjs-link	_site/css/app.css	/^.anchorjs-link {$/;"	c
+anchorjs-link	_site/css/app.css	/^.anchorjs-link:active {$/;"	c
+anchorjs-link	_site/css/app.css	/^.anchorjs-link:focus,$/;"	c
+anchorjs-link	_site/css/app.css	/^.anchorjs-link:hover,$/;"	c
+animated	_sass/_animations.scss	/^.animated {$/;"	c
+animated	_site/css/app.css	/^.animated {$/;"	c
+animated	_site/css/app.css	/^.animated.hinge {$/;"	c
+animated	_site/css/app.css	/^.animated.infinite {$/;"	c
+base-font-size	_sass/_variables.scss	/^$base-font-size: 13px !default;$/;"	v
+bg-blue	_sass/basscss/_colors.scss	/^.bg-blue {$/;"	c
+bg-blue	_site/css/app.css	/^.bg-blue {$/;"	c
+bg-dark-gray	_sass/basscss/_colors.scss	/^.bg-dark-gray {$/;"	c
+bg-dark-gray	_site/css/app.css	/^.bg-dark-gray {$/;"	c
+bg-darken-1	_sass/basscss/_colors.scss	/^.bg-darken-1 {$/;"	c
+bg-darken-1	_site/css/app.css	/^.bg-darken-1 {$/;"	c
+bg-darken-2	_sass/basscss/_colors.scss	/^.bg-darken-2 {$/;"	c
+bg-darken-2	_site/css/app.css	/^.bg-darken-2 {$/;"	c
+bg-darken-3	_sass/basscss/_colors.scss	/^.bg-darken-3 {$/;"	c
+bg-darken-3	_site/css/app.css	/^.bg-darken-3 {$/;"	c
+bg-darken-4	_sass/basscss/_colors.scss	/^.bg-darken-4 {$/;"	c
+bg-darken-4	_site/css/app.css	/^.bg-darken-4 {$/;"	c
+bg-green	_sass/basscss/_colors.scss	/^.bg-green {$/;"	c
+bg-green	_site/css/app.css	/^.bg-green {$/;"	c
+bg-light-gray	_sass/basscss/_colors.scss	/^.bg-light-gray {$/;"	c
+bg-light-gray	_site/css/app.css	/^.bg-light-gray {$/;"	c
+bg-lighter-gray	_sass/basscss/_colors.scss	/^.bg-lighter-gray {$/;"	c
+bg-lighter-gray	_site/css/app.css	/^.bg-lighter-gray {$/;"	c
+bg-mid-gray	_sass/basscss/_colors.scss	/^.bg-mid-gray {$/;"	c
+bg-mid-gray	_site/css/app.css	/^.bg-mid-gray {$/;"	c
+bg-orange	_sass/basscss/_colors.scss	/^.bg-orange {$/;"	c
+bg-orange	_site/css/app.css	/^.bg-orange {$/;"	c
+bg-red	_sass/basscss/_colors.scss	/^.bg-red {$/;"	c
+bg-red	_site/css/app.css	/^.bg-red {$/;"	c
+bg-white	_sass/basscss/_colors.scss	/^.bg-white {$/;"	c
+bg-white	_site/css/app.css	/^.bg-white {$/;"	c
+bg-yellow	_sass/basscss/_colors.scss	/^.bg-yellow {$/;"	c
+bg-yellow	_site/css/app.css	/^.bg-yellow {$/;"	c
+blockquote	_sass/_blockquotes.scss	/^blockquote {$/;"	t
+blockquote	_sass/_media-queries.scss	/^  blockquote {$/;"	t
+blockquote	_sass/basscss/_base-typography.scss	/^blockquote {$/;"	t
+blockquote	_sass/basscss/_base-typography.scss	/^blockquote,$/;"	t
+blockquote	_site/css/app.css	/^  blockquote {$/;"	s
+blockquote	_site/css/app.css	/^  blockquote {$/;"	t
+blockquote	_site/css/app.css	/^blockquote {$/;"	s
+blockquote	_site/css/app.css	/^blockquote {$/;"	t
+blockquote	_site/css/app.css	/^blockquote,$/;"	s
+blockquote footer	_site/css/app.css	/^blockquote footer {$/;"	s
+blockquote footer	_site/css/app.css	/^blockquote footer {$/;"	t
+blockquote p	_site/css/app.css	/^blockquote p {$/;"	s
+blockquote p	_site/css/app.css	/^blockquote p {$/;"	t
+blue	_sass/_variables.scss	/^$blue: #0076df !default;$/;"	v
+blue	_sass/basscss/_colors.scss	/^.blue {$/;"	c
+blue	_site/css/app.css	/^.blue {$/;"	c
+body	_sass/_base.scss	/^body {$/;"	t
+body	_sass/_base.scss	/^html, body {$/;"	t
+body	_sass/basscss/_base-reset.scss	/^body,$/;"	t
+body	_sass/basscss/_base-typography.scss	/^body {$/;"	t
+body	_sass/basscss/_color-base.scss	/^body {$/;"	t
+body	_site/css/app.css	/^body {$/;"	s
+body	_site/css/app.css	/^body {$/;"	t
+body	_site/css/app.css	/^body,$/;"	s
+body	_site/css/app.css	/^html, body {$/;"	s
+bold	_sass/basscss/_utility-typography.scss	/^.bold {$/;"	c
+bold	_site/css/app.css	/^.bold {$/;"	c
+bold-font-weight	_sass/_variables.scss	/^$bold-font-weight: bold !default;$/;"	v
+border-color	_sass/_variables.scss	/^$border-color: $light-gray !default;$/;"	v
+border-color	_sass/basscss/_buttons-blue.scss	/^$border-color: #517180;$/;"	v
+border-radius	_sass/_variables.scss	/^$border-radius: 3px !default;$/;"	v
+border-radius	_sass/basscss/_buttons-blue.scss	/^@mixin border-radius($size-radius, $sideH) {$/;"	m
+border-size	_sass/basscss/_buttons-blue.scss	/^$border-size: 2px;$/;"	v
+border-width	_sass/_variables.scss	/^$border-width: 1px !default;$/;"	v
+breakpoint-md	_sass/_variables.scss	/^$breakpoint-md: '(min-width: 52em)';$/;"	v
+breakpoint-xl	_sass/_variables.scss	/^$breakpoint-xl: '(min-width: 96em)';$/;"	v
+button	_sass/_links.scss	/^.button {$/;"	c
+button	_sass/_links.scss	/^button,$/;"	t
+button	_sass/basscss/_base-buttons.scss	/^.button {$/;"	c
+button	_sass/basscss/_base-buttons.scss	/^button,$/;"	t
+button	_sass/basscss/_base-reset.scss	/^button {$/;"	t
+button	_sass/basscss/_base-reset.scss	/^button,$/;"	t
+button	_site/css/app.css	/^.button {$/;"	c
+button	_site/css/app.css	/^.button:active {$/;"	c
+button	_site/css/app.css	/^.button:focus,$/;"	c
+button	_site/css/app.css	/^.button:hover {$/;"	c
+button	_site/css/app.css	/^.button:hover,$/;"	c
+button	_site/css/app.css	/^button {$/;"	s
+button	_site/css/app.css	/^button {$/;"	t
+button	_site/css/app.css	/^button,$/;"	s
+button-disabled	_sass/_pagination.scss	/^.button-disabled {$/;"	c
+button-disabled	_site/css/app.css	/^.button-disabled {$/;"	c
+button-disabled	_site/css/app.css	/^.button-disabled:active,$/;"	c
+button-disabled	_site/css/app.css	/^.button-disabled:focus {$/;"	c
+button-disabled	_site/css/app.css	/^.button-disabled:hover,$/;"	c
+button-font-family	_sass/_variables.scss	/^$button-font-family: $heading-font-family;$/;"	v
+button-font-size	_sass/_variables.scss	/^$button-font-size: inherit !default;$/;"	v
+button-font-weight	_sass/_variables.scss	/^$button-font-weight: normal !default;$/;"	v
+button-height	_sass/basscss/_buttons-blue.scss	/^$button-height: 55px;$/;"	v
+button-line-height	_sass/_variables.scss	/^$button-line-height: 1.125rem !default;$/;"	v
+button-padding-x	_sass/_variables.scss	/^$button-padding-x: 1rem !default;$/;"	v
+button-padding-y	_sass/_variables.scss	/^$button-padding-y: .5rem !default;$/;"	v
+button-width	_sass/basscss/_buttons-blue.scss	/^$button-width: 200px;$/;"	v
+caps	_sass/basscss/_utility-typography.scss	/^.caps {$/;"	c
+caps	_site/css/app.css	/^.caps {$/;"	c
+center	_sass/basscss/_utility-typography.scss	/^.center {$/;"	c
+center	_site/css/app.css	/^.center {$/;"	c
+checkbox-light	_sass/_forms.scss	/^.checkbox-light {$/;"	c
+checkbox-light	_site/css/app.css	/^.checkbox-light {$/;"	c
+checkbox-light	_site/css/app.css	/^.checkbox-light:focus {$/;"	c
+clearfix	_site/css/app.css	/^.clearfix:after {$/;"	c
+clearfix	_site/css/app.css	/^.clearfix:before, .clearfix:after {$/;"	c
+code	_sass/_code.scss	/^code {$/;"	t
+code	_sass/basscss/_base-typography.scss	/^code,$/;"	t
+code	_sass/basscss/_color-base.scss	/^code {$/;"	t
+code	_site/css/app.css	/^code {$/;"	s
+code	_site/css/app.css	/^code {$/;"	t
+code	_site/css/app.css	/^code,$/;"	s
+dark-blue	_sass/_variables.scss	/^$dark-blue: #00369f !default;$/;"	v
+dark-gray	_sass/_variables.scss	/^$dark-gray: #333 !default;$/;"	v
+dark-gray	_sass/basscss/_colors.scss	/^.dark-gray {$/;"	c
+dark-gray	_site/css/app.css	/^.dark-gray {$/;"	c
+dark-green	_sass/_variables.scss	/^$dark-green: #009f06 !default;$/;"	v
+darken-1	_sass/_variables.scss	/^$darken-1: rgba(#000,.0625) !default;$/;"	v
+darken-2	_sass/_variables.scss	/^$darken-2: rgba(#000,.125) !default;$/;"	v
+darken-3	_sass/_variables.scss	/^$darken-3: rgba(#000,.25) !default;$/;"	v
+darken-4	_sass/_variables.scss	/^$darken-4: rgba(#000,.5) !default;$/;"	v
+density	_site/manifest.json	/^   "density": "0.75"$/;"	s	object:icons.0
+density	_site/manifest.json	/^   "density": "1.0"$/;"	s	object:icons.1
+density	_site/manifest.json	/^   "density": "1.5"$/;"	s	object:icons.2
+density	_site/manifest.json	/^   "density": "2.0"$/;"	s	object:icons.3
+density	_site/manifest.json	/^   "density": "3.0"$/;"	s	object:icons.4
+density	_site/manifest.json	/^   "density": "4.0"$/;"	s	object:icons.5
+density	manifest.json	/^   "density": "0.75"$/;"	s	object:icons.0
+density	manifest.json	/^   "density": "1.0"$/;"	s	object:icons.1
+density	manifest.json	/^   "density": "1.5"$/;"	s	object:icons.2
+density	manifest.json	/^   "density": "2.0"$/;"	s	object:icons.3
+density	manifest.json	/^   "density": "3.0"$/;"	s	object:icons.4
+density	manifest.json	/^   "density": "4.0"$/;"	s	object:icons.5
+description	_site/nitrous.json	/^  "description": "Today i learned",$/;"	s
+description	nitrous.json	/^  "description": "Today i learned",$/;"	s
+diff	_site/css/app.css	/^.diff .hljs-change {$/;"	c
+dl	_sass/basscss/_base-typography.scss	/^dl,$/;"	t
+dl	_site/css/app.css	/^dl,$/;"	s
+duration	_sass/basscss/_buttons-blue.scss	/^$duration: 0.4s;$/;"	v
+em img	_site/css/app.css	/^  em img {$/;"	s
+em img	_site/css/app.css	/^  em img {$/;"	t
+em img	_site/css/app.css	/^em img {$/;"	s
+em img	_site/css/app.css	/^em img {$/;"	t
+fade-in-down	_sass/_animations.scss	/^.fade-in-down {$/;"	c
+fade-in-down	_site/css/app.css	/^.fade-in-down {$/;"	c
+field-light	_sass/_forms.scss	/^.field-light {$/;"	c
+field-light	_site/css/app.css	/^.field-light {$/;"	c
+field-light	_site/css/app.css	/^.field-light.is-error {$/;"	c
+field-light	_site/css/app.css	/^.field-light.is-success {$/;"	c
+field-light	_site/css/app.css	/^.field-light.is-warning {$/;"	c
+field-light	_site/css/app.css	/^.field-light:disabled {$/;"	c
+field-light	_site/css/app.css	/^.field-light:focus {$/;"	c
+field-light	_site/css/app.css	/^.field-light:invalid {$/;"	c
+field-light	_site/css/app.css	/^.field-light:read-only:not(select) {$/;"	c
+fieldset	_sass/_forms.scss	/^fieldset {$/;"	t
+fieldset	_sass/basscss/_base-forms.scss	/^fieldset {$/;"	t
+fieldset	_site/css/app.css	/^fieldset {$/;"	s
+fieldset	_site/css/app.css	/^fieldset {$/;"	t
+fieldset-reset	_sass/basscss/_base-forms.scss	/^.fieldset-reset {$/;"	c
+fieldset-reset	_site/css/app.css	/^.fieldset-reset legend {$/;"	c
+fieldset-reset	_site/css/app.css	/^.fieldset-reset {$/;"	c
+font-family	_sass/_variables.scss	/^$font-family: 'AvenirNextLTW01RegularRegular', 'PT Serif', Georgia, serif !default;$/;"	v
+footer	_sass/_footer.scss	/^footer {$/;"	t
+footer	_site/css/app.css	/^footer {$/;"	s
+footer	_site/css/app.css	/^footer {$/;"	t
+footer-bg-color	_sass/_variables.scss	/^$footer-bg-color: #fafafa;$/;"	v
+footer-border-top	_sass/_variables.scss	/^$footer-border-top: thin solid #f3f3f3;$/;"	v
+footer-color	_sass/_variables.scss	/^$footer-color: #7a7a7a;$/;"	v
+footer-font-size	_sass/_variables.scss	/^$footer-font-size: .75rem;$/;"	v
+footer-font-weight	_sass/_variables.scss	/^$footer-font-weight: 300;$/;"	v
+footer-padding	_sass/_variables.scss	/^$footer-padding: $space-3;$/;"	v
+form-field-font-size	_sass/_variables.scss	/^$form-field-font-size: 1rem !default;$/;"	v
+form-field-font-size	_sass/_variables.scss	/^$form-field-font-size: 1rem;$/;"	v
+form-field-height	_sass/_variables.scss	/^$form-field-height: 2.25rem !default;$/;"	v
+form-field-height	_sass/_variables.scss	/^$form-field-height: 2.25rem;$/;"	v
+form-field-padding-x	_sass/_variables.scss	/^$form-field-padding-x: .5rem !default;$/;"	v
+form-field-padding-x	_sass/_variables.scss	/^$form-field-padding-x: .5rem;$/;"	v
+form-field-padding-y	_sass/_variables.scss	/^$form-field-padding-y: .5rem !default;$/;"	v
+form-field-padding-y	_sass/_variables.scss	/^$form-field-padding-y: .5rem;$/;"	v
+form-stacked	_site/css/app.css	/^.form-stacked input,$/;"	c
+form-stacked	_site/css/app.css	/^.form-stacked select {$/;"	c
+form-stacked	_site/css/app.css	/^.form-stacked textarea,$/;"	c
+gist	_sass/_gists.scss	/^.gist,$/;"	c
+gist	_site/css/app.css	/^.gist .highlight .p {$/;"	c
+gist	_site/css/app.css	/^.gist .lines {$/;"	c
+gist	_site/css/app.css	/^.gist,$/;"	c
+green	_sass/_variables.scss	/^$green: #00ab37 !default;$/;"	v
+green	_sass/_variables.scss	/^$green: #00cf26 !default;$/;"	v
+green	_sass/basscss/_colors.scss	/^.green {$/;"	c
+green	_site/css/app.css	/^.green {$/;"	c
+h0	_sass/_variables.scss	/^$h0: 3rem !default;$/;"	v
+h0	_sass/basscss/_utility-headings.scss	/^.h0 {$/;"	c
+h0	_site/css/app.css	/^.h0 {$/;"	c
+h0-responsive	_sass/_variables.scss	/^$h0-responsive: 6vw !default;$/;"	v
+h0-responsive	_sass/basscss/_utility-headings.scss	/^  .h0-responsive {$/;"	c
+h0-responsive	_site/css/app.css	/^  .h0-responsive {$/;"	c
+h0-responsive-max	_sass/_variables.scss	/^$h0-responsive-max: 5.76rem !default;$/;"	v
+h00	_sass/_variables.scss	/^$h00: 4rem !default;$/;"	v
+h00	_sass/basscss/_utility-headings.scss	/^.h00 {$/;"	c
+h00	_site/css/app.css	/^.h00 {$/;"	c
+h00-responsive	_sass/_variables.scss	/^$h00-responsive: 8vw !default;$/;"	v
+h00-responsive	_sass/basscss/_utility-headings.scss	/^  .h00-responsive {$/;"	c
+h00-responsive	_site/css/app.css	/^  .h00-responsive {$/;"	c
+h00-responsive-max	_sass/_variables.scss	/^$h00-responsive-max: 7.68rem !default;$/;"	v
+h1	_sass/_media-queries.scss	/^  .h1 {$/;"	c
+h1	_sass/_media-queries.scss	/^  h1,$/;"	t
+h1	_sass/_variables.scss	/^$h1: 1.7rem !default;$/;"	v
+h1	_sass/basscss/_base-typography.scss	/^.h1 {$/;"	c
+h1	_sass/basscss/_base-typography.scss	/^h1,$/;"	t
+h1	_site/css/app.css	/^  .h1 {$/;"	c
+h1	_site/css/app.css	/^  h1,$/;"	s
+h1	_site/css/app.css	/^.h1 {$/;"	c
+h1	_site/css/app.css	/^h1,$/;"	s
+h1-responsive	_sass/_variables.scss	/^$h1-responsive: 4vw !default;$/;"	v
+h1-responsive	_sass/basscss/_utility-headings.scss	/^  .h1-responsive {$/;"	c
+h1-responsive	_site/css/app.css	/^  .h1-responsive {$/;"	c
+h1-responsive-max	_sass/_variables.scss	/^$h1-responsive-max: 3.84rem !default;$/;"	v
+h2	_sass/_variables.scss	/^$h2: 1.5rem !default;$/;"	v
+h2	_sass/basscss/_base-typography.scss	/^.h2 {$/;"	c
+h2	_sass/basscss/_base-typography.scss	/^h2,$/;"	t
+h2	_site/css/app.css	/^.h2 {$/;"	c
+h2	_site/css/app.css	/^h2,$/;"	s
+h3	_sass/_variables.scss	/^$h3: 1.25rem !default;$/;"	v
+h3	_sass/basscss/_base-typography.scss	/^.h3 {$/;"	c
+h3	_sass/basscss/_base-typography.scss	/^h3,$/;"	t
+h3	_site/css/app.css	/^.h3 {$/;"	c
+h3	_site/css/app.css	/^h3,$/;"	s
+h4	_sass/_variables.scss	/^$h4: 1rem !default;$/;"	v
+h4	_sass/basscss/_base-typography.scss	/^.h4 {$/;"	c
+h4	_sass/basscss/_base-typography.scss	/^h4,$/;"	t
+h4	_site/css/app.css	/^.h4 {$/;"	c
+h4	_site/css/app.css	/^h4,$/;"	s
+h5	_sass/_variables.scss	/^$h5: .875rem !default;$/;"	v
+h5	_sass/basscss/_base-typography.scss	/^.h5 {$/;"	c
+h5	_sass/basscss/_base-typography.scss	/^h5,$/;"	t
+h5	_site/css/app.css	/^.h5 {$/;"	c
+h5	_site/css/app.css	/^h5,$/;"	s
+h6	_sass/_variables.scss	/^$h6: .75rem !default;$/;"	v
+h6	_sass/basscss/_base-typography.scss	/^.h6 {$/;"	c
+h6	_sass/basscss/_base-typography.scss	/^h6 {$/;"	t
+h6	_sass/basscss/_base-typography.scss	/^h6,$/;"	t
+h6	_site/css/app.css	/^.h6 {$/;"	c
+h6	_site/css/app.css	/^h6 {$/;"	s
+h6	_site/css/app.css	/^h6 {$/;"	t
+h6	_site/css/app.css	/^h6,$/;"	s
+heading-font-family	_sass/_variables.scss	/^$heading-font-family: 'GTHaptikMedium', 'Helvetica Neue', Helvetica, sans-serif !default;$/;"	v
+heading-font-weight	_sass/_variables.scss	/^$heading-font-weight: 900 !default;$/;"	v
+heading-line-height	_sass/_variables.scss	/^$heading-line-height: 1.25 !default;$/;"	v
+highlight	_sass/basscss/_syntax-highlighting.scss	/^.highlight {$/;"	c
+highlight	_site/css/app.css	/^.highlight .c,$/;"	c
+highlight	_site/css/app.css	/^.highlight .c1 {$/;"	c
+highlight	_site/css/app.css	/^.highlight .cm,$/;"	c
+highlight	_site/css/app.css	/^.highlight .cp,$/;"	c
+highlight	_site/css/app.css	/^.highlight .cs,$/;"	c
+highlight	_site/css/app.css	/^.highlight .il {$/;"	c
+highlight	_site/css/app.css	/^.highlight .k {$/;"	c
+highlight	_site/css/app.css	/^.highlight .k,$/;"	c
+highlight	_site/css/app.css	/^.highlight .kc,$/;"	c
+highlight	_site/css/app.css	/^.highlight .kd,$/;"	c
+highlight	_site/css/app.css	/^.highlight .kn,$/;"	c
+highlight	_site/css/app.css	/^.highlight .kp {$/;"	c
+highlight	_site/css/app.css	/^.highlight .kr,$/;"	c
+highlight	_site/css/app.css	/^.highlight .kt,$/;"	c
+highlight	_site/css/app.css	/^.highlight .mi,$/;"	c
+highlight	_site/css/app.css	/^.highlight .na,$/;"	c
+highlight	_site/css/app.css	/^.highlight .nb {$/;"	c
+highlight	_site/css/app.css	/^.highlight .nb,$/;"	c
+highlight	_site/css/app.css	/^.highlight .nc,$/;"	c
+highlight	_site/css/app.css	/^.highlight .nd,$/;"	c
+highlight	_site/css/app.css	/^.highlight .ne,$/;"	c
+highlight	_site/css/app.css	/^.highlight .nf,$/;"	c
+highlight	_site/css/app.css	/^.highlight .ni,$/;"	c
+highlight	_site/css/app.css	/^.highlight .nl,$/;"	c
+highlight	_site/css/app.css	/^.highlight .nn,$/;"	c
+highlight	_site/css/app.css	/^.highlight .no {$/;"	c
+highlight	_site/css/app.css	/^.highlight .no,$/;"	c
+highlight	_site/css/app.css	/^.highlight .nx {$/;"	c
+highlight	_site/css/app.css	/^.highlight .o {$/;"	c
+highlight	_site/css/app.css	/^.highlight .p {$/;"	c
+highlight	_site/css/app.css	/^.highlight .s,$/;"	c
+highlight	_site/css/app.css	/^.highlight .s1 {$/;"	c
+highlight	_site/css/app.css	/^.highlight .s2,$/;"	c
+highlight	_site/css/app.css	/^.highlight .s3,$/;"	c
+highlight	_site/css/app.css	/^.highlight .sb,$/;"	c
+highlight	_site/css/app.css	/^.highlight .sc,$/;"	c
+highlight	_site/css/app.css	/^.highlight .sd,$/;"	c
+highlight	_site/css/app.css	/^.highlight .sh,$/;"	c
+highlight	_site/css/app.css	/^.highlight .si,$/;"	c
+highlight	_site/css/app.css	/^.highlight .sr {$/;"	c
+highlight	_site/css/app.css	/^.highlight .sr,$/;"	c
+highlight	_site/css/app.css	/^.highlight .ss {$/;"	c
+highlight	_site/css/app.css	/^.highlight .ss,$/;"	c
+highlight	_site/css/app.css	/^.highlight .sx,$/;"	c
+highlight	_site/css/app.css	/^.highlight {$/;"	c
+hljs-addition	_sass/_variables.scss	/^$hljs-addition: $light-green;$/;"	v
+hljs-addition	_sass/basscss/_syntax-highlighting.scss	/^.hljs-addition {$/;"	c
+hljs-addition	_site/css/app.css	/^.hljs-addition {$/;"	c
+hljs-attribute	_sass/_variables.scss	/^$hljs-attribute: $dark-green;$/;"	v
+hljs-built-in	_sass/_variables.scss	/^$hljs-built-in: $dark-blue;$/;"	v
+hljs-built_in	_sass/basscss/_syntax-highlighting.scss	/^.hljs-built_in {$/;"	c
+hljs-built_in	_site/css/app.css	/^.hljs-built_in {$/;"	c
+hljs-cdata	_sass/basscss/_syntax-highlighting.scss	/^.hljs-cdata {$/;"	c
+hljs-cdata	_site/css/app.css	/^.hljs-cdata {$/;"	c
+hljs-change	_sass/_variables.scss	/^$hljs-change: $dark-blue;$/;"	v
+hljs-chunk	_sass/_variables.scss	/^$hljs-chunk: $light-gray;$/;"	v
+hljs-chunk	_sass/basscss/_syntax-highlighting.scss	/^.hljs-chunk {$/;"	c
+hljs-chunk	_site/css/app.css	/^.hljs-chunk {$/;"	c
+hljs-comment	_sass/_variables.scss	/^$hljs-comment: $mid-gray;$/;"	v
+hljs-deletion	_sass/_variables.scss	/^$hljs-deletion: $light-pink;$/;"	v
+hljs-deletion	_sass/basscss/_syntax-highlighting.scss	/^.hljs-deletion {$/;"	c
+hljs-deletion	_site/css/app.css	/^.hljs-deletion {$/;"	c
+hljs-doctype	_sass/basscss/_syntax-highlighting.scss	/^.hljs-doctype,$/;"	c
+hljs-doctype	_site/css/app.css	/^.hljs-doctype,$/;"	c
+hljs-id	_sass/basscss/_syntax-highlighting.scss	/^.hljs-id,$/;"	c
+hljs-id	_site/css/app.css	/^.hljs-id,$/;"	c
+hljs-keyword	_sass/_variables.scss	/^$hljs-keyword: $dark-blue;$/;"	v
+hljs-name	_sass/_variables.scss	/^$hljs-name: $dark-gray;$/;"	v
+hljs-number	_sass/_variables.scss	/^$hljs-number: $dark-green;$/;"	v
+hljs-pi	_sass/basscss/_syntax-highlighting.scss	/^.hljs-pi,$/;"	c
+hljs-pi	_site/css/app.css	/^.hljs-pi,$/;"	c
+hljs-pragma	_sass/basscss/_syntax-highlighting.scss	/^.hljs-pragma,$/;"	c
+hljs-pragma	_site/css/app.css	/^.hljs-pragma,$/;"	c
+hljs-preprocessor	_sass/_variables.scss	/^$hljs-preprocessor: $mid-gray;$/;"	v
+hljs-preprocessor	_sass/basscss/_syntax-highlighting.scss	/^.hljs-preprocessor,$/;"	c
+hljs-preprocessor	_site/css/app.css	/^.hljs-preprocessor,$/;"	c
+hljs-regexp	_sass/_variables.scss	/^$hljs-regexp: $dark-green;$/;"	v
+hljs-shebang	_sass/basscss/_syntax-highlighting.scss	/^.hljs-shebang,$/;"	c
+hljs-shebang	_site/css/app.css	/^.hljs-shebang,$/;"	c
+hljs-string	_sass/_variables.scss	/^$hljs-string: $red;$/;"	v
+hljs-symbol	_sass/_variables.scss	/^$hljs-symbol: $purple;$/;"	v
+hljs-tag	_sass/_variables.scss	/^$hljs-tag: $dark-blue;$/;"	v
+hljs-title	_sass/_variables.scss	/^$hljs-title: $red;$/;"	v
+hljs-title	_sass/basscss/_syntax-highlighting.scss	/^.hljs-title,$/;"	c
+hljs-title	_site/css/app.css	/^.hljs-title,$/;"	c
+hljs-type	_sass/_variables.scss	/^$hljs-type: $dark-blue;$/;"	v
+hoverBtn	_sass/basscss/_buttons-blue.scss	/^.hoverBtn {$/;"	c
+hoverBtn	_site/css/app.css	/^  .hoverBtn:after {$/;"	c
+hoverBtn	_site/css/app.css	/^  .hoverBtn:before {$/;"	c
+hoverBtn	_site/css/app.css	/^.hoverBtn {$/;"	c
+hoverBtn-bottom	_sass/basscss/_buttons-blue.scss	/^.hoverBtn-bottom {$/;"	c
+hoverBtn-bottom	_site/css/app.css	/^  .hoverBtn-bottom:after {$/;"	c
+hoverBtn-bottom	_site/css/app.css	/^  .hoverBtn-bottom:before {$/;"	c
+hoverBtn-bottom	_site/css/app.css	/^.hoverBtn-bottom {$/;"	c
+hr	_sass/basscss/_base-typography.scss	/^hr {$/;"	t
+hr	_sass/basscss/_color-base.scss	/^hr {$/;"	t
+hr	_site/css/app.css	/^hr {$/;"	s
+hr	_site/css/app.css	/^hr {$/;"	t
+html	_sass/_base.scss	/^html, body {$/;"	t
+html	_sass/_media-queries.scss	/^  html {$/;"	t
+html	_sass/_typography.scss	/^html {$/;"	t
+html	_site/css/app.css	/^  html {$/;"	s
+html	_site/css/app.css	/^  html {$/;"	t
+html	_site/css/app.css	/^html {$/;"	s
+html	_site/css/app.css	/^html {$/;"	t
+html	_site/css/app.css	/^html, body {$/;"	s
+html, body	_site/css/app.css	/^html, body {$/;"	t
+icons	_site/manifest.json	/^ "icons": [$/;"	a
+icons	manifest.json	/^ "icons": [$/;"	a
+img	_sass/_base.scss	/^img {$/;"	t
+img	_sass/basscss/_base-reset.scss	/^img {$/;"	t
+img	_site/css/app.css	/^img {$/;"	s
+img	_site/css/app.css	/^img {$/;"	t
+input	_sass/_forms.scss	/^input,$/;"	t
+input	_sass/basscss/_base-forms.scss	/^input,$/;"	t
+input	_sass/basscss/_base-reset.scss	/^input,$/;"	t
+input	_site/css/app.css	/^input,$/;"	s
+input[type=datetime-local]	_site/css/app.css	/^input[type=datetime-local],$/;"	s
+input[type=datetime]	_site/css/app.css	/^input[type=datetime],$/;"	s
+input[type=email]	_site/css/app.css	/^input[type=email],$/;"	s
+input[type=month]	_site/css/app.css	/^input[type=month],$/;"	s
+input[type=number]	_site/css/app.css	/^input[type=number],$/;"	s
+input[type=password]	_site/css/app.css	/^input[type=password],$/;"	s
+input[type=search]	_site/css/app.css	/^input[type=search],$/;"	s
+input[type=tel]	_site/css/app.css	/^input[type=tel],$/;"	s
+input[type=text]	_site/css/app.css	/^input[type=text],$/;"	s
+input[type=time]	_site/css/app.css	/^input[type=time],$/;"	s
+input[type=url]	_site/css/app.css	/^input[type=url],$/;"	s
+input[type=week]	_site/css/app.css	/^input[type=week] {$/;"	s
+italic	_sass/basscss/_utility-typography.scss	/^.italic {$/;"	c
+italic	_site/css/app.css	/^.italic, .post-footer {$/;"	c
+justify	_sass/basscss/_utility-typography.scss	/^.justify {$/;"	c
+justify	_site/css/app.css	/^.justify {$/;"	c
+left	_sass/_positions.scss	/^.left {$/;"	c
+left	_site/css/app.css	/^.left {$/;"	c
+left-align	_sass/basscss/_utility-typography.scss	/^.left-align {$/;"	c
+left-align	_site/css/app.css	/^.left-align {$/;"	c
+light-gray	_sass/_variables.scss	/^$light-gray: #ccc !default;$/;"	v
+light-gray	_sass/basscss/_colors.scss	/^.light-gray {$/;"	c
+light-gray	_site/css/app.css	/^.light-gray {$/;"	c
+light-green	_sass/_variables.scss	/^$light-green: #ddffdd !default;$/;"	v
+light-pink	_sass/_variables.scss	/^$light-pink: #ffdddd !default;$/;"	v
+lighter-gray	_sass/_variables.scss	/^$lighter-gray: #eee !default;$/;"	v
+lighter-gray	_sass/basscss/_colors.scss	/^.lighter-gray {$/;"	c
+lighter-gray	_site/css/app.css	/^.lighter-gray {$/;"	c
+line-height	_sass/_variables.scss	/^$line-height: 1.5 !default;$/;"	v
+link-color	_sass/_variables.scss	/^$link-color: #000000;$/;"	v
+link-hover-color	_sass/_variables.scss	/^$link-hover-color: darken($blue, 60%);$/;"	v
+list-reset	_sass/basscss/_base-typography.scss	/^.list-reset {$/;"	c
+list-reset	_site/css/app.css	/^.list-reset {$/;"	c
+m0	_sass/basscss/_utility-white-space.scss	/^.m0 {$/;"	c
+m0	_site/css/app.css	/^.m0 {$/;"	c
+m1	_sass/basscss/_utility-white-space.scss	/^.m1 {$/;"	c
+m1	_site/css/app.css	/^.m1 {$/;"	c
+m2	_sass/basscss/_utility-white-space.scss	/^.m2 {$/;"	c
+m2	_site/css/app.css	/^.m2 {$/;"	c
+m3	_sass/basscss/_utility-white-space.scss	/^.m3 {$/;"	c
+m3	_site/css/app.css	/^.m3 {$/;"	c
+m4	_sass/basscss/_utility-white-space.scss	/^.m4 {$/;"	c
+m4	_site/css/app.css	/^.m4 {$/;"	c
+mb0	_sass/basscss/_utility-white-space.scss	/^.mb0 {$/;"	c
+mb0	_site/css/app.css	/^.mb0 {$/;"	c
+mb1	_sass/basscss/_utility-white-space.scss	/^.mb1 {$/;"	c
+mb1	_site/css/app.css	/^.mb1 {$/;"	c
+mb2	_sass/basscss/_utility-white-space.scss	/^.mb2 {$/;"	c
+mb2	_site/css/app.css	/^.mb2 {$/;"	c
+mb3	_sass/basscss/_utility-white-space.scss	/^.mb3 {$/;"	c
+mb3	_site/css/app.css	/^.mb3 {$/;"	c
+mb4	_sass/basscss/_utility-white-space.scss	/^.mb4 {$/;"	c
+mb4	_site/css/app.css	/^.mb4 {$/;"	c
+measure	_sass/_measure.scss	/^.measure {$/;"	c
+measure	_site/css/app.css	/^.measure {$/;"	c
+measure-width	_sass/_variables.scss	/^$measure-width: 42rem !default;$/;"	v
+meta	_sass/_posts.scss	/^.meta,$/;"	c
+meta	_site/css/app.css	/^.meta,$/;"	c
+mid-gray	_sass/_variables.scss	/^$mid-gray: #777 !default;$/;"	v
+mid-gray	_sass/basscss/_colors.scss	/^.mid-gray {$/;"	c
+mid-gray	_site/css/app.css	/^.mid-gray {$/;"	c
+ml0	_sass/basscss/_utility-white-space.scss	/^.ml0 {$/;"	c
+ml0	_site/css/app.css	/^.ml0 {$/;"	c
+ml1	_sass/basscss/_utility-white-space.scss	/^.ml1 {$/;"	c
+ml1	_site/css/app.css	/^.ml1 {$/;"	c
+ml2	_sass/basscss/_utility-white-space.scss	/^.ml2 {$/;"	c
+ml2	_site/css/app.css	/^.ml2 {$/;"	c
+ml3	_sass/basscss/_utility-white-space.scss	/^.ml3 {$/;"	c
+ml3	_site/css/app.css	/^.ml3 {$/;"	c
+ml4	_sass/basscss/_utility-white-space.scss	/^.ml4 {$/;"	c
+ml4	_site/css/app.css	/^.ml4 {$/;"	c
+monospace-font-family	_sass/_variables.scss	/^$monospace-font-family: 'Source Code Pro', Consolas, monospace !default;$/;"	v
+mr0	_sass/basscss/_utility-white-space.scss	/^.mr0 {$/;"	c
+mr0	_site/css/app.css	/^.mr0 {$/;"	c
+mr1	_sass/basscss/_utility-white-space.scss	/^.mr1 {$/;"	c
+mr1	_site/css/app.css	/^.mr1 {$/;"	c
+mr2	_sass/basscss/_utility-white-space.scss	/^.mr2 {$/;"	c
+mr2	_site/css/app.css	/^.mr2 {$/;"	c
+mr3	_sass/basscss/_utility-white-space.scss	/^.mr3 {$/;"	c
+mr3	_site/css/app.css	/^.mr3 {$/;"	c
+mr4	_sass/basscss/_utility-white-space.scss	/^.mr4 {$/;"	c
+mr4	_site/css/app.css	/^.mr4 {$/;"	c
+mt0	_sass/basscss/_utility-white-space.scss	/^.mt0 {$/;"	c
+mt0	_site/css/app.css	/^.mt0 {$/;"	c
+mt1	_sass/basscss/_utility-white-space.scss	/^.mt1 {$/;"	c
+mt1	_site/css/app.css	/^.mt1 {$/;"	c
+mt2	_sass/basscss/_utility-white-space.scss	/^.mt2 {$/;"	c
+mt2	_site/css/app.css	/^.mt2 {$/;"	c
+mt3	_sass/basscss/_utility-white-space.scss	/^.mt3 {$/;"	c
+mt3	_site/css/app.css	/^.mt3 {$/;"	c
+mt4	_sass/basscss/_utility-white-space.scss	/^.mt4 {$/;"	c
+mt4	_site/css/app.css	/^.mt4 {$/;"	c
+mx-auto	_sass/basscss/_utility-white-space.scss	/^.mx-auto {$/;"	c
+mx-auto	_site/css/app.css	/^.mx-auto {$/;"	c
+mxn1	_sass/basscss/_utility-white-space.scss	/^.mxn1 {$/;"	c
+mxn1	_site/css/app.css	/^.mxn1 {$/;"	c
+mxn2	_sass/basscss/_utility-white-space.scss	/^.mxn2 {$/;"	c
+mxn2	_site/css/app.css	/^.mxn2 {$/;"	c
+mxn3	_sass/basscss/_utility-white-space.scss	/^.mxn3 {$/;"	c
+mxn3	_site/css/app.css	/^.mxn3 {$/;"	c
+mxn4	_sass/basscss/_utility-white-space.scss	/^.mxn4 {$/;"	c
+mxn4	_site/css/app.css	/^.mxn4 {$/;"	c
+name	_site/manifest.json	/^ "name": "App",$/;"	s
+name	_site/nitrous.json	/^  "name": "Today i learned",$/;"	s
+name	manifest.json	/^ "name": "App",$/;"	s
+name	nitrous.json	/^  "name": "Today i learned",$/;"	s
+nowrap	_sass/basscss/_utility-typography.scss	/^.nowrap {$/;"	c
+nowrap	_site/css/app.css	/^.nowrap {$/;"	c
+ol	_sass/basscss/_base-typography.scss	/^ol,$/;"	t
+ol	_site/css/app.css	/^ol,$/;"	s
+orange	_sass/_variables.scss	/^$orange: #ffcc22 !default;$/;"	v
+orange	_sass/basscss/_colors.scss	/^.orange {$/;"	c
+orange	_site/css/app.css	/^.orange {$/;"	c
+p	_sass/_typography.scss	/^p {$/;"	t
+p	_sass/basscss/_base-typography.scss	/^p,$/;"	t
+p	_sass/basscss/_buttons-blue.scss	/^  p {$/;"	t
+p	_site/css/app.css	/^p {$/;"	s
+p	_site/css/app.css	/^p {$/;"	t
+p	_site/css/app.css	/^p,$/;"	s
+p1	_sass/basscss/_utility-white-space.scss	/^.p1 {$/;"	c
+p1	_site/css/app.css	/^.p1 {$/;"	c
+p2	_sass/basscss/_utility-white-space.scss	/^.p2 {$/;"	c
+p2	_site/css/app.css	/^.p2 {$/;"	c
+p3	_sass/basscss/_utility-white-space.scss	/^.p3 {$/;"	c
+p3	_site/css/app.css	/^.p3 {$/;"	c
+p4	_sass/basscss/_utility-white-space.scss	/^.p4 {$/;"	c
+p4	_site/css/app.css	/^.p4 {$/;"	c
+pagination	_sass/_pagination.scss	/^.pagination {$/;"	c
+pagination	_site/css/app.css	/^.pagination .button {$/;"	c
+pagination	_site/css/app.css	/^.pagination .disabled, .pagination .pagination-meta {$/;"	c
+pagination	_site/css/app.css	/^.pagination .pagination-meta {$/;"	c
+pagination	_site/css/app.css	/^.pagination a, .pagination .disabled {$/;"	c
+pagination	_site/css/app.css	/^.pagination a:active {$/;"	c
+pagination	_site/css/app.css	/^.pagination a:hover, .pagination a:focus {$/;"	c
+pagination	_site/css/app.css	/^.pagination {$/;"	c
+ports	_site/nitrous.json	/^  "ports": [3000],$/;"	a
+ports	nitrous.json	/^  "ports": [3000],$/;"	a
+post-create	_site/nitrous.json	/^    "post-create": "bundle install",$/;"	s	object:scripts
+post-create	nitrous.json	/^    "post-create": "bundle install",$/;"	s	object:scripts
+post-footer	_sass/_posts.scss	/^.post-footer {$/;"	c
+post-footer	_site/css/app.css	/^.post-footer .avatar {$/;"	c
+post-footer	_site/css/app.css	/^.post-footer {$/;"	c
+post-link	_site/css/app.css	/^  .post-link .post-title:before {$/;"	c
+post-link	_site/css/app.css	/^.post-link .post-title {$/;"	c
+post-meta	_sass/_posts.scss	/^.post-meta {$/;"	c
+post-meta	_site/css/app.css	/^.post-meta {$/;"	c
+posts	_sass/_posts.scss	/^.posts {$/;"	c
+posts	_site/css/app.css	/^.posts .post a:hover .post-meta,$/;"	c
+posts	_site/css/app.css	/^.posts .post a:hover .post-summary {$/;"	c
+posts	_site/css/app.css	/^.posts .post a:hover .post-title,$/;"	c
+posts	_site/css/app.css	/^.posts .post {$/;"	c
+posts	_site/css/app.css	/^.posts .post:last-child {$/;"	c
+posts	_site/css/app.css	/^.posts {$/;"	c
+pre	_sass/_code.scss	/^pre {$/;"	t
+pre	_sass/_code.scss	/^pre,$/;"	t
+pre	_sass/basscss/_base-typography.scss	/^pre {$/;"	t
+pre	_sass/basscss/_base-typography.scss	/^pre,$/;"	t
+pre	_sass/basscss/_color-base.scss	/^pre,$/;"	t
+pre	_site/css/app.css	/^pre {$/;"	s
+pre	_site/css/app.css	/^pre {$/;"	t
+pre	_site/css/app.css	/^pre,$/;"	s
+pre a	_site/css/app.css	/^pre a {$/;"	s
+pre a	_site/css/app.css	/^pre a {$/;"	t
+pre a::before	_site/css/app.css	/^pre a::before {$/;"	s
+pre a:first-of-type::before	_site/css/app.css	/^pre a:first-of-type::before {$/;"	s
+pre a:last-of-type::before	_site/css/app.css	/^pre a:last-of-type::before {$/;"	s
+pre a:only-of-type::before	_site/css/app.css	/^pre a:only-of-type::before {$/;"	s
+pre code	_site/css/app.css	/^pre code {$/;"	s
+pre code	_site/css/app.css	/^pre code {$/;"	t
+pre-background-color	_sass/_variables.scss	/^$pre-background-color: #fafafa;$/;"	v
+pre-border-radius	_sass/_variables.scss	/^$pre-border-radius: 0;$/;"	v
+purple	_sass/_variables.scss	/^$purple: #f92080 !default;$/;"	v
+px1	_sass/basscss/_utility-white-space.scss	/^.px1 {$/;"	c
+px1	_site/css/app.css	/^.px1 {$/;"	c
+px2	_sass/basscss/_utility-white-space.scss	/^.px2 {$/;"	c
+px2	_site/css/app.css	/^.px2 {$/;"	c
+px3	_sass/basscss/_utility-white-space.scss	/^.px3 {$/;"	c
+px3	_site/css/app.css	/^.px3 {$/;"	c
+px4	_sass/basscss/_utility-white-space.scss	/^.px4 {$/;"	c
+px4	_site/css/app.css	/^.px4 {$/;"	c
+py1	_sass/basscss/_utility-white-space.scss	/^.py1 {$/;"	c
+py1	_site/css/app.css	/^.py1 {$/;"	c
+py2	_sass/basscss/_utility-white-space.scss	/^.py2 {$/;"	c
+py2	_site/css/app.css	/^.py2 {$/;"	c
+py3	_sass/basscss/_utility-white-space.scss	/^.py3 {$/;"	c
+py3	_site/css/app.css	/^.py3 {$/;"	c
+py4	_sass/basscss/_utility-white-space.scss	/^.py4 {$/;"	c
+py4	_site/css/app.css	/^.py4 {$/;"	c
+radio-light	_sass/_forms.scss	/^.radio-light {$/;"	c
+radio-light	_sass/_forms.scss	/^.radio-light,$/;"	c
+radio-light	_site/css/app.css	/^.radio-light {$/;"	c
+radio-light	_site/css/app.css	/^.radio-light,$/;"	c
+radio-light	_site/css/app.css	/^.radio-light:focus,$/;"	c
+red	_sass/_variables.scss	/^$red: #f95020 !default;$/;"	v
+red	_sass/basscss/_colors.scss	/^.red {$/;"	c
+red	_site/css/app.css	/^.red {$/;"	c
+regular	_sass/basscss/_utility-typography.scss	/^.regular {$/;"	c
+regular	_site/css/app.css	/^.regular {$/;"	c
+related-post-title	_sass/_posts.scss	/^.related-post-title {$/;"	c
+related-post-title	_site/css/app.css	/^.related-post-title {$/;"	c
+right	_sass/_positions.scss	/^.right {$/;"	c
+right	_site/css/app.css	/^.right {$/;"	c
+right-align	_sass/basscss/_utility-typography.scss	/^.right-align {$/;"	c
+right-align	_site/css/app.css	/^.right-align {$/;"	c
+samp	_sass/basscss/_base-typography.scss	/^samp {$/;"	t
+samp	_site/css/app.css	/^samp {$/;"	s
+samp	_site/css/app.css	/^samp {$/;"	t
+scripts	_site/nitrous.json	/^  "scripts": {$/;"	o
+scripts	nitrous.json	/^  "scripts": {$/;"	o
+scss	_site/css/app.css	/^.scss .hljs-preprocessor {$/;"	c
+select	_sass/_forms.scss	/^select {$/;"	t
+select	_sass/_forms.scss	/^select,$/;"	t
+select	_sass/basscss/_base-forms.scss	/^select {$/;"	t
+select	_sass/basscss/_base-forms.scss	/^select,$/;"	t
+select	_sass/basscss/_base-reset.scss	/^select,$/;"	t
+select	_site/css/app.css	/^select {$/;"	s
+select	_site/css/app.css	/^select {$/;"	t
+select	_site/css/app.css	/^select,$/;"	s
+select:not([multiple] )	_site/css/app.css	/^select:not([multiple]) {$/;"	s
+site	_sass/_footer.scss	/^.site {$/;"	c
+site	_site/css/app.css	/^.site {$/;"	c
+site-header	_sass/_header.scss	/^.site-header {$/;"	c
+site-header	_sass/_media-queries.scss	/^  .site-header {$/;"	c
+site-header	_site/css/app.css	/^  .site-header .site-nav {$/;"	c
+site-header	_site/css/app.css	/^  .site-header .site-title {$/;"	c
+site-header	_site/css/app.css	/^  .site-header .site-title:before {$/;"	c
+site-header	_site/css/app.css	/^  .site-header a {$/;"	c
+site-header	_site/css/app.css	/^  .site-header {$/;"	c
+site-header	_site/css/app.css	/^.site-header .logo {$/;"	c
+site-header	_site/css/app.css	/^.site-header .site-nav {$/;"	c
+site-header	_site/css/app.css	/^.site-header .site-title {$/;"	c
+site-header	_site/css/app.css	/^.site-header a {$/;"	c
+site-header	_site/css/app.css	/^.site-header a:hover,$/;"	c
+site-header	_site/css/app.css	/^.site-header nav a {$/;"	c
+site-header	_site/css/app.css	/^.site-header nav a:active {$/;"	c
+site-header	_site/css/app.css	/^.site-header nav a:focus,$/;"	c
+site-header	_site/css/app.css	/^.site-header nav a:hover,$/;"	c
+site-header	_site/css/app.css	/^.site-header {$/;"	c
+site-nav	_sass/_header.scss	/^.site-nav {$/;"	c
+site-nav	_sass/_media-queries.scss	/^  .site-nav {$/;"	c
+site-nav	_site/css/app.css	/^  .site-nav {$/;"	c
+site-nav	_site/css/app.css	/^.site-nav a + a {$/;"	c
+site-nav	_site/css/app.css	/^.site-nav {$/;"	c
+site-wrap	_sass/_footer.scss	/^.site-wrap {$/;"	c
+site-wrap	_site/css/app.css	/^.site-wrap {$/;"	c
+size-radius	_sass/basscss/_buttons-blue.scss	/^$size-radius: 5px;$/;"	v
+sizes	_site/manifest.json	/^   "sizes": "144x144",$/;"	s	object:icons.4
+sizes	_site/manifest.json	/^   "sizes": "192x192",$/;"	s	object:icons.5
+sizes	_site/manifest.json	/^   "sizes": "36x36",$/;"	s	object:icons.0
+sizes	_site/manifest.json	/^   "sizes": "48x48",$/;"	s	object:icons.1
+sizes	_site/manifest.json	/^   "sizes": "72x72",$/;"	s	object:icons.2
+sizes	_site/manifest.json	/^   "sizes": "96x96",$/;"	s	object:icons.3
+sizes	manifest.json	/^   "sizes": "144x144",$/;"	s	object:icons.4
+sizes	manifest.json	/^   "sizes": "192x192",$/;"	s	object:icons.5
+sizes	manifest.json	/^   "sizes": "36x36",$/;"	s	object:icons.0
+sizes	manifest.json	/^   "sizes": "48x48",$/;"	s	object:icons.1
+sizes	manifest.json	/^   "sizes": "72x72",$/;"	s	object:icons.2
+sizes	manifest.json	/^   "sizes": "96x96",$/;"	s	object:icons.3
+small	_sass/_typography.scss	/^.small {$/;"	c
+small	_sass/_typography.scss	/^small,$/;"	t
+small	_site/css/app.css	/^.small {$/;"	c
+small	_site/css/app.css	/^small,$/;"	s
+social-icons	_sass/_social-icons.scss	/^.social-icons {$/;"	c
+social-icons	_site/css/app.css	/^.social-icons a.fa {$/;"	c
+social-icons	_site/css/app.css	/^.social-icons a.fa:hover {$/;"	c
+social-icons	_site/css/app.css	/^.social-icons iframe[title=Flattr] {$/;"	c
+social-icons	_site/css/app.css	/^.social-icons {$/;"	c
+social-icons-left	_sass/_media-queries.scss	/^  .social-icons-left {$/;"	c
+social-icons-left	_sass/_social-icons.scss	/^.social-icons-left, .social-icons-right {$/;"	c
+social-icons-left	_site/css/app.css	/^  .social-icons-left {$/;"	c
+social-icons-left	_site/css/app.css	/^.social-icons-left, .social-icons-right {$/;"	c
+social-icons-right	_sass/_media-queries.scss	/^  .social-icons-right {$/;"	c
+social-icons-right	_site/css/app.css	/^  .social-icons-right {$/;"	c
+space-1	_sass/_variables.scss	/^$space-1: .5rem !default;$/;"	v
+space-2	_sass/_variables.scss	/^$space-2: 2rem !default;$/;"	v
+space-3	_sass/_variables.scss	/^$space-3: 2rem !default;$/;"	v
+space-4	_sass/_variables.scss	/^$space-4: 4rem !default;$/;"	v
+src	_site/manifest.json	/^   "src": "\\\/android-icon-144x144.png",$/;"	s	object:icons.4
+src	_site/manifest.json	/^   "src": "\\\/android-icon-192x192.png",$/;"	s	object:icons.5
+src	_site/manifest.json	/^   "src": "\\\/android-icon-36x36.png",$/;"	s	object:icons.0
+src	_site/manifest.json	/^   "src": "\\\/android-icon-48x48.png",$/;"	s	object:icons.1
+src	_site/manifest.json	/^   "src": "\\\/android-icon-72x72.png",$/;"	s	object:icons.2
+src	_site/manifest.json	/^   "src": "\\\/android-icon-96x96.png",$/;"	s	object:icons.3
+src	manifest.json	/^   "src": "\\\/android-icon-144x144.png",$/;"	s	object:icons.4
+src	manifest.json	/^   "src": "\\\/android-icon-192x192.png",$/;"	s	object:icons.5
+src	manifest.json	/^   "src": "\\\/android-icon-36x36.png",$/;"	s	object:icons.0
+src	manifest.json	/^   "src": "\\\/android-icon-48x48.png",$/;"	s	object:icons.1
+src	manifest.json	/^   "src": "\\\/android-icon-72x72.png",$/;"	s	object:icons.2
+src	manifest.json	/^   "src": "\\\/android-icon-96x96.png",$/;"	s	object:icons.3
+sub-button	_sass/basscss/_buttons-blue.scss	/^@mixin sub-button {$/;"	m
+submit-button	_sass/basscss/_buttons-blue.scss	/^.submit-button {$/;"	c
+submit-button	_site/css/app.css	/^  .submit-button p {$/;"	c
+submit-button	_site/css/app.css	/^  .submit-button:hover .hoverBtn-bottom:before, .submit-button:hover .hoverBtn-bottom:after {$/;"	c
+submit-button	_site/css/app.css	/^  .submit-button:hover .hoverBtn:before, .submit-button:hover .hoverBtn:after {$/;"	c
+submit-button	_site/css/app.css	/^.submit-button {$/;"	c
+sup	_sass/_typography.scss	/^sup {$/;"	t
+sup	_site/css/app.css	/^sup {$/;"	s
+sup	_site/css/app.css	/^sup {$/;"	t
+svg	_sass/basscss/_base-reset.scss	/^svg {$/;"	t
+svg	_site/css/app.css	/^svg {$/;"	s
+svg	_site/css/app.css	/^svg {$/;"	t
+table	_sass/_tables.scss	/^table {$/;"	t
+table	_site/css/app.css	/^table {$/;"	s
+table	_site/css/app.css	/^table {$/;"	t
+table > caption + thead > tr:first-child > td	_site/css/app.css	/^  table > caption + thead > tr:first-child > td,$/;"	s
+table > caption + thead > tr:first-child > th	_site/css/app.css	/^  table > caption + thead > tr:first-child > th,$/;"	s
+table > colgroup + thead > tr:first-child > td	_site/css/app.css	/^  table > colgroup + thead > tr:first-child > td,$/;"	s
+table > colgroup + thead > tr:first-child > th	_site/css/app.css	/^  table > colgroup + thead > tr:first-child > th,$/;"	s
+table > tbody + tbody	_site/css/app.css	/^  table > tbody + tbody {$/;"	s
+table > tbody > tr > td	_site/css/app.css	/^  table > tbody > tr > td,$/;"	s
+table > tbody > tr > th	_site/css/app.css	/^  table > tbody > tr > th,$/;"	s
+table > tfoot > tr > td	_site/css/app.css	/^  table > tfoot > tr > td {$/;"	s
+table > tfoot > tr > th	_site/css/app.css	/^  table > tfoot > tr > th,$/;"	s
+table > thead > tr > td	_site/css/app.css	/^  table > thead > tr > td,$/;"	s
+table > thead > tr > th	_site/css/app.css	/^  table > thead > tr > th {$/;"	s
+table > thead > tr > th	_site/css/app.css	/^  table > thead > tr > th,$/;"	s
+table > thead:first-child > tr:first-child > td	_site/css/app.css	/^  table > thead:first-child > tr:first-child > td {$/;"	s
+table > thead:first-child > tr:first-child > th	_site/css/app.css	/^  table > thead:first-child > tr:first-child > th,$/;"	s
+template	_site/nitrous.json	/^  "template": "jekyll",$/;"	s
+template	nitrous.json	/^  "template": "jekyll",$/;"	s
+textarea	_sass/_forms.scss	/^textarea {$/;"	t
+textarea	_sass/_forms.scss	/^textarea,$/;"	t
+textarea	_sass/basscss/_base-forms.scss	/^textarea {$/;"	t
+textarea	_sass/basscss/_base-forms.scss	/^textarea,$/;"	t
+textarea	_sass/basscss/_base-reset.scss	/^textarea {$/;"	t
+textarea	_site/css/app.css	/^textarea {$/;"	s
+textarea	_site/css/app.css	/^textarea {$/;"	t
+textarea	_site/css/app.css	/^textarea,$/;"	s
+type	_site/manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.0
+type	_site/manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.1
+type	_site/manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.2
+type	_site/manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.3
+type	_site/manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.4
+type	_site/manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.5
+type	manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.0
+type	manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.1
+type	manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.2
+type	manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.3
+type	manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.4
+type	manifest.json	/^   "type": "image\\\/png",$/;"	s	object:icons.5
+ul	_sass/basscss/_base-typography.scss	/^ul {$/;"	t
+ul	_site/css/app.css	/^ul {$/;"	s
+ul	_site/css/app.css	/^ul {$/;"	t
+viewport-large	_sass/_variables.scss	/^$viewport-large: 64em;$/;"	v
+viewport-medium	_sass/_variables.scss	/^$viewport-medium: 48em;$/;"	v
+viewport-small	_sass/_variables.scss	/^$viewport-small: 32em;$/;"	v
+white	_sass/basscss/_colors.scss	/^.white {$/;"	c
+white	_site/css/app.css	/^.white {$/;"	c
+yellow	_sass/_variables.scss	/^$yellow: #efcc00 !default;$/;"	v
+yellow	_sass/basscss/_colors.scss	/^.yellow {$/;"	c
+yellow	_site/css/app.css	/^.yellow {$/;"	c
+{{ page.title }}	_layouts/page.html	/^    <h1 class="h2">{{ page.title }}<\/h1>$/;"	h
+{{ page.title }}	_layouts/post.html	/^  <h1>{{ page.title }}<\/h1>$/;"	h
+{{ post.title }}	index.html	/^          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-/;"	j
+{{ site.text.post.related_posts }}	_layouts/post.html	/^  <h3 class="related-post-title">{{ site.text.post.related_posts }}<\/h3>$/;"	j

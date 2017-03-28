@@ -1,8 +1,42 @@
 @charset "UTF-8";
 
+/*
+ * Typography
+ */
+@font-face {
+  font-family: 'GTHaptikLight';
+  src: url('/fonts/GTHaptikLight.eot?#iefix') format('embedded-opentype'),  url('/fonts/GTHaptikLight.woff') format('woff'), url('/fonts/GTHaptikLight.ttf')  format('truetype'), url('/fonts/GTHaptikLight.svg#GTHaptikLight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GTHaptikMedium';
+  src: url('/fonts/GTHaptikMedium.eot?#iefix') format('embedded-opentype'),  url('/fonts/GTHaptikMedium.woff') format('woff'), url('/fonts/GTHaptikMedium.ttf')  format('truetype'), url('/fonts/GTHaptikMedium.svg#GTHaptikMedium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GTHaptikBold';
+  src: url('/fonts/GTHaptikBold.eot?#iefix') format('embedded-opentype'),  url('/fonts/GTHaptikBold.woff') format('woff'), url('/fonts/GTHaptikBold.ttf')  format('truetype'), url('/fonts/GTHaptikBold.svg#GTHaptikBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AvenirNextLTW01RegularRegular';
+  src: url('/fonts/AvenirNextLTW01RegularRegular.eot?#iefix') format('embedded-opentype'),  url('/fonts/AvenirNextLTW01RegularRegular.woff') format('woff'), url('/fonts/AvenirNextLTW01RegularRegular.ttf')  format('truetype'), url('/fonts/AvenirNextLTW01RegularRegular.svg#AvenirNextLTW01RegularRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html, body {
   height: auto;
   min-height: 100%;
+  font-family: 'AvenirNextLTW01RegularRegular';
 }
 
 img {
@@ -15,7 +49,7 @@ em img {
 }
 
 body {
-          box-sizing: border-box;
-     -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }

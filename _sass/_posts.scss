@@ -18,6 +18,10 @@
   margin-top: 0;
   font-weight: 600;
   color: #333;
+  text-decoration: none;
+  &:before {
+    content: none;
+  }
 }
 
 .post-footer {
@@ -45,4 +49,5 @@
 
 .related-post-title {
   border-bottom: thin solid #f3f3f3;
+  text-decoration: none;
 }

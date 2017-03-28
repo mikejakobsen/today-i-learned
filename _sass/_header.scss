@@ -12,6 +12,10 @@
 
 .site-header .site-title {
   font-size: $h2;
+  text-decoration: none;
+  &:before {
+    content: none;
+  }
 }
 
 .site-nav {
@@ -39,6 +43,7 @@
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
   opacity: 0.88;
+  text-decoration: none;
 }
 
 .site-header {

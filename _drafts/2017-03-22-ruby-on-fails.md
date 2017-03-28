@@ -1,7 +1,7 @@
 ---
 title: Ruby on Rails
 layout: post
-date: 2016-03-22 13:21:29
+date: 2017-03-22 13:21:29
 category: Ruby
 tags: [Ruby]
 ---
