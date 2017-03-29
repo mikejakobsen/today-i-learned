@@ -2,7 +2,7 @@
 ---
 title: Create a Github Repository from the command-line
 layout: post
-date: 2016-12-14 13:21:29
+date: 2016-02-14 23:21:29
 category: Git, ZSH
 tags: [Git, ZSH]
 ---
