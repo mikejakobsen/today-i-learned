@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Git Emoji – Today I Learned</title>
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//cdn.mathjax.org">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Today i learned">
+    <meta name="robots" content="all">
+    <meta name="author" content="Mike Jakobsen">
+    
+    <meta name="keywords" content="Git">
+    <link rel="canonical" href="http://localhost:4000/git/2016/12/03/git-emoji/">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Today I Learned" href="/feed.xml">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/app.css?201703291921" type="text/css">
+
+    <!-- Fonts -->
+    
+    <link href="//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&amp;subset=latin-ext,latin" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Lato:900,300&amp;subset=latin-ext,latin" rel="stylesheet" type="text/css">
+    
+    
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    
+
+    <!-- MathJax -->
+    
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <!-- Verifications -->
+    
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Git Emoji">
+    <meta property="og:description" content="Today i learned">
+    <meta property="og:url" content="http://localhost:4000/git/2016/12/03/git-emoji/">
+    <meta property="og:site_name" content="Today I Learned">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    
+        <meta name="twitter:site" content="@mikejakobsen">
+    
+    <meta name="twitter:title" content="Git Emoji">
+    <meta name="twitter:description" content="Today i learned">
+    <meta name="twitter:url" content="http://localhost:4000/git/2016/12/03/git-emoji/">
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+
+    
+    <script type="text/javascript">
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+       ga('create', 'UA-88335975-1', 'auto');
+       ga('send', 'pageview');
+    </script>
+    
+</head>
+
+  <body class="site animated fade-in-down">
+    
+    
+
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://localhost:4000" class="site-title">
+        <img src="/images/logo.png" alt="Logo" class="logo">
+      </a>
+      <nav class="site-nav">
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+
+    
+
+    
+        <a href="/contact/">Say Hello</a>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+  <h1>Git Emoji</h1>
+  <span class="post-meta">3 Dec 2016</span><br>
+  
+  <span class="post-meta small">
+  
+    1 minute read
+  
+  </span>
+</div>
+
+<article class="post-content">
+  <p>I recently stumbled upon a Git repository with a bunch of cryptic, but yet descriptive emojis.</p>
+
+<p>Every commit, had like a Emoji suffix. For instance..</p>
+
+<p>The 🎨 <code class="highlighter-rouge">art emoji</code> of cause meant improving the structure / formatting of the code.
+The <code class="highlighter-rouge">pencil</code>  ✏️ odiously ment fixing typos.
+And the turd, meant <code class="highlighter-rouge">Writing bad code that needs to be improved.</code> 💩</p>
+
+<p><img src="https://i.imgur.com/lWFVj2j.png" alt="Gitmoji"></p>
+
+<p>It might not be a good practice everywhere. But i kindda like it.</p>
+
+<p>There’s even a NPM based command-line helper to help you memorize the emojis, and use them.</p>
+
+<p>To use gitmojis from your command line install <a href="https://github.com/carloscuesta/gitmoji-cli">gitmoji-cli</a>. A gitmoji interactive client for using emojis on commit messages.</p>
+
+<div class="highlighter-rouge">
+<pre class="highlight"><code>npm i -g gitmoji-cli
+</code></pre>
+</div>
+
+<p>Here’s a complete list:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Icon</th>
+      <th>Code</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎨</td>
+      <td><code class="highlighter-rouge">:art:</code></td>
+      <td>Improving structure / format of the code.</td>
+    </tr>
+    <tr>
+      <td>⚡️</td>
+      <td><code class="highlighter-rouge">:zap:</code></td>
+      <td>Improving performance</td>
+    </tr>
+    <tr>
+      <td>🔥</td>
+      <td><code class="highlighter-rouge">:fire:</code></td>
+      <td>Removing code or files.</td>
+    </tr>
+    <tr>
+      <td>🐛</td>
+      <td><code class="highlighter-rouge">:bug:</code></td>
+      <td>Fixing a bug.</td>
+    </tr>
+    <tr>
+      <td>🚑</td>
+      <td><code class="highlighter-rouge">:ambulance:</code></td>
+      <td>Critical hotfix.</td>
+    </tr>
+    <tr>
+      <td>✨</td>
+      <td><code class="highlighter-rouge">:sparkles:</code></td>
+      <td>Introducing new features.</td>
+    </tr>
+    <tr>
+      <td>📝</td>
+      <td><code class="highlighter-rouge">:memo:</code></td>
+      <td>Writing docs.</td>
+    </tr>
+    <tr>
+      <td>🚀</td>
+      <td><code class="highlighter-rouge">:rocket:</code></td>
+      <td>Deploying stuff.</td>
+    </tr>
+    <tr>
+      <td>💄</td>
+      <td><code class="highlighter-rouge">:lipstick:</code></td>
+      <td>Updating the UI and style files.</td>
+    </tr>
+    <tr>
+      <td>🎉</td>
+      <td><code class="highlighter-rouge">:tada:</code></td>
+      <td>Initial commit.</td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><code class="highlighter-rouge">:white_check_mark:</code></td>
+      <td>Adding tests.</td>
+    </tr>
+    <tr>
+      <td>🔒</td>
+      <td><code class="highlighter-rouge">:lock:</code></td>
+      <td>Fixing security issues.</td>
+    </tr>
+    <tr>
+      <td>🍎</td>
+      <td><code class="highlighter-rouge">:apple:</code></td>
+      <td>Fixing something on macOS.</td>
+    </tr>
+    <tr>
+      <td>🐧</td>
+      <td><code class="highlighter-rouge">:penguin:</code></td>
+      <td>Fixing something on Linux.</td>
+    </tr>
+    <tr>
+      <td>🏁</td>
+      <td><code class="highlighter-rouge">:checkered_flag:</code></td>
+      <td>Fixing something on Windows.</td>
+    </tr>
+    <tr>
+      <td>🔖</td>
+      <td><code class="highlighter-rouge">:bookmark:</code></td>
+      <td>Releasing / Version tags.</td>
+    </tr>
+    <tr>
+      <td>🚨</td>
+      <td><code class="highlighter-rouge">:rotating_light:</code></td>
+      <td>Removing linter warnings.</td>
+    </tr>
+    <tr>
+      <td>🚧</td>
+      <td><code class="highlighter-rouge">:construction:</code></td>
+      <td>Work in progress.</td>
+    </tr>
+    <tr>
+      <td>💚</td>
+      <td><code class="highlighter-rouge">:green_heart:</code></td>
+      <td>Fixing CI Build.</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><code class="highlighter-rouge">:arrow_down:</code></td>
+      <td>Downgrading dependencies.</td>
+    </tr>
+    <tr>
+      <td>⬆️</td>
+      <td><code class="highlighter-rouge">:arrow_up:</code></td>
+      <td>Upgrading dependencies.</td>
+    </tr>
+    <tr>
+      <td>👷</td>
+      <td><code class="highlighter-rouge">:construction_worker:</code></td>
+      <td>Adding CI build system.</td>
+    </tr>
+    <tr>
+      <td>📈</td>
+      <td><code class="highlighter-rouge">:chart_with_upwards_trend:</code></td>
+      <td>Adding analytics or tracking code.</td>
+    </tr>
+    <tr>
+      <td>🔨</td>
+      <td><code class="highlighter-rouge">:hammer:</code></td>
+      <td>Heavy refactoring.</td>
+    </tr>
+    <tr>
+      <td>➖</td>
+      <td><code class="highlighter-rouge">:heavy_minus_sign:</code></td>
+      <td>Removing a dependency.</td>
+    </tr>
+    <tr>
+      <td>🐳</td>
+      <td><code class="highlighter-rouge">:whale:</code></td>
+      <td>Work about Docker.</td>
+    </tr>
+    <tr>
+      <td>➕</td>
+      <td><code class="highlighter-rouge">:heavy_plus_sign:</code></td>
+      <td>Adding a dependency.</td>
+    </tr>
+    <tr>
+      <td>🔧</td>
+      <td><code class="highlighter-rouge">:wrench:</code></td>
+      <td>Changing configuration files.</td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><code class="highlighter-rouge">:globe_with_meridians:</code></td>
+      <td>Internationalization and localization.</td>
+    </tr>
+    <tr>
+      <td>✏️</td>
+      <td><code class="highlighter-rouge">:pencil2:</code></td>
+      <td>Fixing typos.</td>
+    </tr>
+    <tr>
+      <td>💩</td>
+      <td><code class="highlighter-rouge">:hankey:</code></td>
+      <td>Writing bad code that needs to be improved.</td>
+    </tr>
+    <tr>
+      <td>📦</td>
+      <td><code class="highlighter-rouge">:package:</code></td>
+      <td>Updating compiled files or packages.</td>
+    </tr>
+    <tr>
+      <td>👽</td>
+      <td><code class="highlighter-rouge">:alien:</code></td>
+      <td>Updating code due to external API changes.</td>
+    </tr>
+  </tbody>
+</table>
+
+</article>
+
+
+
+
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname  = 'www-todayilearned-dk';
+    var disqus_identifier = '/git/2016/12/03/git-emoji';
+    var disqus_title      = "Git Emoji";
+
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+
+
+
+
+
+  <h3 class="related-post-title">Similar Posts</h3>
+  
+    <div class="post ml2">
+      <a href="/css,%20workflow/2016/12/31/why-i-love-css/" class="post-link">
+        <h4 class="post-title">Why i love CSS</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/osx/2016/12/14/host-file-the-best-adblocker/" class="post-link">
+        <h4 class="post-title">Your hostfile might be the best AdBlocker there is.</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/osx,%20vim/2016/12/12/rename-files-on-steroids/" class="post-link">
+        <h4 class="post-title">The rename files function on steroids.</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/2016/12/10/post-truth-er-aarets-ord/" class="post-link">
+        <h4 class="post-title">Post-truth er af Oxford kåret til årets ord.</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/vim,%20markdown/2016/12/08/tables-made-easy/" class="post-link">
+        <h4 class="post-title">Markdown tables made easy</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/javascript,%20testing/2016/12/07/chai-isent-just-tea/" class="post-link">
+        <h4 class="post-title">Describe it with Chai</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/javascript,%20testing/2016/12/06/mocha-dosent-suck-anymore/" class="post-link">
+        <h4 class="post-title">JavaScript testing dosen't suck anymore</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/chromecast,%20osx/2016/12/06/chromecast/" class="post-link">
+        <h4 class="post-title">Chromecast</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/html,%20osx,%20fonts/2016/12/05/google-fonts/" class="post-link">
+        <h4 class="post-title">Working with Google Fonts</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/osx/2016/12/05/make-osx-secure/" class="post-link">
+        <h4 class="post-title">Make MacOS Fireproof</h4>
+        <p class="post-summary"></p>
+      </a>
+    </div>
+  
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    
+      <div class="social-icons">
+  <div class="social-icons-right">
+    
+      <a class="fa fa-github" href="https://github.com/mikejakobsen"></a>
+    
+    
+    
+    <a class="fa fa-rss" href="/feed.xml"></a>
+    
+      <a class="fa fa-twitter" href="https://twitter.com/mikejakobsen"></a>
+    
+    
+    
+    
+    
+      <a class="fa fa-envelope" href="mailto:mike@jakobsen.dk"></a>
+    
+    
+    
+    
+      <a class="fa fa-medium" href="https://medium.com/@mikejakobsen"></a>
+    
+  </div>
+  <div class="right">
+    
+    
+    
+  </div>
+</div>
+<div class="clearfix"></div>
+
+    
+  </div>
+</footer>
+<!-- AnchorJS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+  <script>
+    anchors.options.visible = 'always';
+anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>
+
+</body>
+</html>

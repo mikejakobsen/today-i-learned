@@ -1,0 +1,10 @@
+{
+  "template": "jekyll",
+  "ports": [3000],
+  "name": "Today i learned",
+  "description": "Today i learned",
+  "scripts": {
+    "post-create": "bundle install",
+    "Start til": "cd ~/code/today-i-learned && jekyll serve --host 0.0.0.0 --port 3000"
+  }
+}

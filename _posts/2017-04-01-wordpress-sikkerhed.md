@@ -59,37 +59,95 @@ WordPress kræver ligeledes tre parametre.
 
 URl’en hvor loginnet skal indtastes (normalt: /wp-admin), brugernavnet der som udgangspunkt er Admin. Og slutteligt, kodeordet til din side.
 
-Her efterlader det faktum at WordPress oprindelige intention er som blogging platform en række problematikker. Da man som udgangspunkt, ved at tilgå domæne.com/?author=1 bliver redirected til /author/brugernavn, og dermed kender man brugernavnet tilhørende administrator loginet.
+Her efterlader det faktum at WordPress oprindelige intention er som blogging platform en række problematikker. Da man som udgangspunkt, ved at tilgå domæne.com/?author=1 bliver ledt videre til /author/brugernavn.
 
-Dermed vil man i løbet af ganske få sekunder, have mulighed for at indledningsvist tilgå /?author=1, og dernæst tilgå /wp-admin. For derefter enten at forsøge et Dictionary attack med en række kendte passwords, eller et simpelt Brute force attack hvor en række tilfældige værdier benyttes.
+Det var altså to af parametrene. Kunne du forestille dig at have en netbank, udelukkende med en kode? Nej vel..
 
-For at undgå disse sikkerhedsbrister indførte jeg derfor en række forholdsregler, for at omgås WordPress ringe opbygning i forhold til sikkerhed.
+En person med skidte intensioner, vil dermed kunne få hans computer til at crawle nettet. Søgende efter sider, med noget på /wp-admin. Prøv det selv, du vil blive overrasket over hvor store sider, der bruger WordPress og ikke har sk
+nket sikkerhed en tanke.
 
-Indledningsvist valgte jeg derfor at lave en simpel redirect baseret på et RegEx pattern, for på denne måde ikke at tilkendegive brugernavnet. Der hvis den besøgende forsøger at tilgå /?author samt en værdi mellem 0-9, vil blive redirected til en simpel 404 side. I stedet for at kunne tilgå brugernavnet der er angivet på siden. Ligeledes redirects /author med en efterfølgende parametre ligeledes. Da nogle bots i stedet tilgår /author/admin/ for at klarlægge om siden, benytter admin som brugernavn.
+Nååh' ja, men jeg har jo min kode.
 
-````
+De fleste bliver overrasket over hvor hurtigt, man kan nedbryde den sidste hindring, kodeordet. Et forholdsvist simpelt **Dictionary attack** med fx. Hydra. Tager ofte kun 20-30 minutter om at finde koden til siden. Et **Dictionary attack** er som navnet så fint hinter, et lang liste med udvalgte kodeord. Der så bliver fyret af imod din side. Din egen kode, er højst sansingligt imellem [Seclist](https://github.com/danielmiessler/SecLists/tree/master/Passwords) mange millioner koder.
+
+Jeg vender snart tilbage med en guide til hvordan du udførrer netop et sådan **dictionary attack**, da det på ingen måde kræver nogen nævneværdige it-skills.
+
+## Jamen.. Hva' gør jeg så?
+
+Det tager vitterligt kun 3 minutter at sikre sig.
+
+Der er 3 simple ting, jeg vil råde dig til. Der hverken kræver en programmør, eller mere end 5 minutter af din tid.
+
+### Trin 1 - Flyt login siden.
+
+Finder de bots der netop nu crawler nettet intet på */wp-admin*. Er de hurtigt videre til det næste, og meget nemmere mål.
+
+Så lad os starte med at flytte login siden til fx. *minside.dk/logind/*
+
+Start med at hente [Move Login pluginet](https://da.wordpress.org/plugins/sf-move-login/)
+
+Her kan du så vælge, hvad du vil kalde adressen.
+
+![Move login](http://pasteboard.co/PkwntsoYQ.png)
+
+Du behøver på ingen måde, at være lige så kreativ som overstående. Jeg er selv stor tilhænger af at benytte */log-ind/*.
+
+### Trin 2 - Lad os gemme dit brugernavn
+
+Det her trin, kan godt virke en lille smule nørdet.
+
+Den eneste måde at gemme dit brugernavn for besøgende, er ved simpelthen at sparke dem ud, hvis de skulle forsøge at finde det.
+
+Jeg har lavet tre linjer kode herunder, der gør netop det.
+
+```
 RewriteCond %{REQUEST_URI} ^/$
 RewriteCond %{QUERY_STRING} ^/?author=([0-9]*)
 RewriteRule ^(.*)$ http://siden.dk/author/? [L,R=301]
 ````
 
-For at undgå at en bot blot kan tilgå /wp-admin og forsøge at gætte løs. Benytter jeg WPS Hide Login. Der laver en redirect fra /wp-login.php samt /wp-admin til en side du selv specificerer - Fx. det mere danskklingende /logind
+Det eneste du skal gøre er at skifte *siden.dk* ud med navnet på din hjemmeside. Og indsætte de tre linjer et sted i din *.htaccess* fil.
 
-Slutteligt flyttede vi ligeledes wp-config.php filen fra public_html mappen til den overliggende mappe, der i tilfældet med en Debian baseret Lamp-Stack som Høks benytter er var/www/, da filen dermed ikke kan tilgås direkte fra en http request.
+*.htaccess* filen finder du i den første mappe du går ind i, på din server. Ofte *public_html*.
 
-Da de fleste WordPress installationer hackes udelukkende for at opnå SMTP credentials der står i denne wp-config fil, for på denne måde at sende tusindvis af spam mails, via disse credentials. 
-En fremgangsmåde, som ejeren af siden sjældent opdager, før domænet er blevet blacklistet af Google. 
+### Trin 3 - Få dig en ordentlig kode klovn
+
+Du bruger den samme kode til alt ik? Hvor mange brugere har du rundt på nettet? 20-50?
+
+Bliver din kode hacket i en af de mange leaks der dagligt er rundt på nettet, vil skumle typer hurtigt kunne forsøge din email og det hackede kodeord rundt omkring på nettet.
+
+Prøv at tjek din mail på [HaveIBeenPwned](https://haveibeenpwned.com/). Jeg kan nævne at mine data, har været indblandet i tre lækager. 
+
+Det bedre råd er derfor at få dig en password manager som [LastPass](www.lastpass.com) eller [1Password](www.1password.com). Der laver et tilfældigt kodeord til dig, til hver side.
+Og smart nok, husker det for dig. Du behøver altså aldrig mere at huske en kode.
 
 
-# Noter
+### Tips til dig der sidder med en sølvpapirshat på.
 
-https://wordpress.org/plugins/better-wp-security/
+*Flyt wp-config.php filen*
 
+Ofte bliver sider hacket, udelukkende for at sende tusindivs af spam-mails ud fra den tilknyttede mail. Ofte uden at ejeren aner uråd.
+Symptomerne kommer først, når Google har blacklistet domænet. Hvilket i såfald betyder, ingen organiske besøgende via Google. 
 
+Et godt råd er derfor at flytte *wp-config.php* filen en mappe længere ud, da personen der evt. får adgang til siden. Ikke vil kunne indhente FTP/SMTP logins, og dermed ikke har mulighed for at udrette så stor skade.
 
+Så flyt du blot, den fil en mappe tilbage, ligesom hvis du skulle flytte en fil fra dit Skrivebord til Dokumenter.
 
-```html
-<a href="http://www.breitlingonlineshop.com/" target="_blank" rel="nofollow">Cheap Replica Breitling</a>
-<a href="http://www.uswatchesbuy.org/" target="_blank" rel="nofollow">cheap replica cartier watches</a>
-````
+*Gør det umuligt at redigere i filer direkte fra WordPress*
 
+Nu vi alligevel har fat i *wp-config.php* filen, er der lige en ting mere. Under *Editor* på de fleste WordPress sider, er det muligt at redigere i alle filerne.
+Hvilket også gør det muligt for personer med dårlige intensioner, bare at slette løs.
+
+Defore søg efter *DISALLOW_FILE_EDIT* i *wp-config.php* filen og sikre dig, at denne står til true og ikke false.
+
+Ligesom herunder.
+
+```
+define( 'DISALLOW_FILE_EDIT', true );
+```
+
+*Installer Better WP Security*
+
+Better WP Security er et glimrende plugin.
+
+http://wordpress.org/plugins/better-wp-security/

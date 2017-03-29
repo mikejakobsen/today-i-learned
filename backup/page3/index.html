@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Today I Learned</title>
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//cdn.mathjax.org">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Today i learned">
+    <meta name="robots" content="all">
+    <meta name="author" content="Mike Jakobsen">
+    
+    
+    <link rel="canonical" href="http://localhost:4000/page3/">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Today I Learned" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/app.css?201703291921" type="text/css">
+
+    <!-- Fonts -->
+    
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    
+    
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    
+
+    <!-- MathJax -->
+    
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <!-- Verifications -->
+    
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Today I Learned">
+    <meta property="og:description" content="Today i learned">
+    <meta property="og:url" content="http://localhost:4000/page3/">
+    <meta property="og:site_name" content="Today I Learned">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    
+        <meta name="twitter:site" content="@mikejakobsen" />
+    
+    <meta name="twitter:title" content="Today I Learned" />
+    <meta name="twitter:description" content="Today i learned" />
+    <meta name="twitter:url" content="http://localhost:4000/page3/" />
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+
+    
+    <script type="text/javascript">
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+       ga('create', 'UA-88335975-1', 'auto');
+       ga('send', 'pageview');
+    </script>
+    
+</head>
+
+  <body class="site animated fade-in-down">
+    
+    
+
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://localhost:4000" class="site-title">
+        <img src="/images/logo.png" alt="Logo" class="logo" />
+      </a>
+      <nav class="site-nav">
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+
+    
+
+    
+        <a href="/contact/">Say Hello</a>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+<div class="home">
+  
+    <div class="posts">
+      
+        <div class="post py3">
+          <p class="post-meta">20 Jun 2016</p>
+          <a href="/tmux/2016/06/20/list-all-key-bindings/" class="post-link"><h3 class="h1 post-title">List all key bindings</h3></a>
+          <p class="post-summary">
+            
+              <p>There are a couple ways to list all the tmux key bindings. If you are not
+currently in a tmux session, you can still access the list from the terminal
+with</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">20 Jun 2016</p>
+          <a href="/vim/2016/06/20/almost-the-end-of-the-line/" class="post-link"><h3 class="h1 post-title">Almost The End Of The Line</h3></a>
+          <p class="post-summary">
+            
+              <p>If you are visually selecting from the cursor to the end of the line, you
+will probably hit:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">19 Jun 2016</p>
+          <a href="/zsh,%20unix/2016/06/19/display-free-disk-space/" class="post-link"><h3 class="h1 post-title">How much free disk space?</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">df</code> utility is a handy way to display the free disk space available on
+on a specific file system or all mounted file systems.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">19 Jun 2016</p>
+          <a href="/tmux/2016/06/19/kill-other-connections-to-a-session/" class="post-link"><h3 class="h1 post-title">Kill other connections to a session</h3></a>
+          <p class="post-summary">
+            
+              <p>One of the best features of tmux is the ability for multiple people to
+connect to the same session in order to pair. This can, however, sometimes
+result in a extra session hanging around if someone forgets to detach. This
+is no problem though because you can view and kill other connections.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">19 Jun 2016</p>
+          <a href="/tmux/2016/06/19/kill-the-current-session/" class="post-link"><h3 class="h1 post-title">Kill the current Session</h3></a>
+          <p class="post-summary">
+            
+              <p>When you are done with the current tmux session and you no longer need it,
+you can simply kill it. You can do so within the session with the following
+command:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">19 Jun 2016</p>
+          <a href="/vim/2016/06/19/case-aware-substitution-with-vim-abolish/" class="post-link"><h3 class="h1 post-title">Case-Aware Substitution With vim-abolish</h3></a>
+          <p class="post-summary">
+            
+              <p>Substitution in vim is, by default, case-sensitive. Adding the <code class="highlighter-rouge">i</code> <code class="highlighter-rouge">s-flag</code>
+makes it case-insensitive.
+<a href="https://github.com/tpope/vim-abolish"><code class="highlighter-rouge">vim-abolish</code></a>, on the other hand, lets
+you perform a case-insensitive substitution that preserves three case
+variants (foo, Foo, and FOO). Substitution with <code class="highlighter-rouge">vim-abolish</code> can be
+performed with <code class="highlighter-rouge">Subvert</code> or <code class="highlighter-rouge">S</code>.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">19 Jun 2016</p>
+          <a href="/vim/2016/06/19/breaking-the-undo-sequence/" class="post-link"><h3 class="h1 post-title">Breaking The Undo Sequence</h3></a>
+          <p class="post-summary">
+            
+              <p>Generally, the sequence of undo-able actions is segmented by command. When
+entering Insert mode, everything typed until exiting Insert mode is part of
+a single undo-able segment. If you are going to be typing in Insert mode for
+a while though, you may want to break it up a bit. Without leaving Insert
+mode, hit <code class="highlighter-rouge">ctrl-g u</code> to mark a break in the sequence of undos.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">19 Jun 2016</p>
+          <a href="/vim/2016/06/19/add-custom-dictionary-words/" class="post-link"><h3 class="h1 post-title">Add Custom Dictionary Words</h3></a>
+          <p class="post-summary">
+            
+              <p>When editing a file with <code class="highlighter-rouge">spell</code> turned on, you may find vim highlighting
+some of your content in red. This red highlighting indicates a misspelling.
+Sure, these words technically aren’t going to show up in something like the
+Merriam-Webster dictionary, but as far as you are concerned, they are words.
+They are part of your internal, shared language. The word <em>admin</em> is a great
+example. Why not just tell vim once and for all that such words are valid.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">15 Jun 2016</p>
+          <a href="/zsh,%20unix/2016/06/15/file-type-info-with-file/" class="post-link"><h3 class="h1 post-title">File Type Info With File</h3></a>
+          <p class="post-summary">
+            
+              <p>Use the <code class="highlighter-rouge">file</code> utility to determine the type of a file:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">14 Jun 2016</p>
+          <a href="/tmux/2016/06/14/jumping-between-sessions/" class="post-link"><h3 class="h1 post-title">Jumping between Sessions</h3></a>
+          <p class="post-summary">
+            
+              <p>If you are using tmux to manage multiple projects by putting each project in
+a separate session, you may find yourself moving between sessions
+frequently. Detaching and reattaching can and will get tedious. There are
+better ways. tmux provides the <code class="highlighter-rouge">&lt;prefix&gt;)</code> and <code class="highlighter-rouge">&lt;prefix&gt;(</code> bindings as a way
+of jumping to the next and previous session, respectively. That should
+reduce some friction.</p>
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">13 Jun 2016</p>
+          <a href="/tmux/2016/06/13/create-a-new-session-in-a-new-server/" class="post-link"><h3 class="h1 post-title">Create a new session on a new server</h3></a>
+          <p class="post-summary">
+            
+              <p>Any tmux command will, by default, be invoked against the <code class="highlighter-rouge">default</code>
+server. You can instruct tmux to perform commands against a different server
+with the <code class="highlighter-rouge">-L</code> flag and the name of the server.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">13 Jun 2016</p>
+          <a href="/tmux/2016/06/13/reclaiming-the-entire-window/" class="post-link"><h3 class="h1 post-title">Reclaiming The Entire Window</h3></a>
+          <p class="post-summary">
+            
+              <p>If you have attached to a tmux session whose dimensions are being
+constrained by another connection, you may find an L-shaped portion of your
+window filled with dots. tmux defers to the session with smaller dimensions.
+The easiest way to reclaim the entire window for your session is to attach
+to the session while forcing all other sessions to detach. The <code class="highlighter-rouge">-d</code> flag will
+help with that.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">13 Jun 2016</p>
+          <a href="/vim/2016/06/13/blank-lines-above-and-below/" class="post-link"><h3 class="h1 post-title">Blank lines</h3></a>
+          <p class="post-summary">
+            
+              <p>Generally when I want to add a line above or below the line that the cursor
+is on, I use <code class="highlighter-rouge">O</code> and <code class="highlighter-rouge">o</code>, respectively. This has a couple potential
+drawbacks. First and most prominent, the cursor is moved to the new line and
+left in insert mode. Usually, I’d like to remain in normal mode and stay on
+the current line. Second, these commands will emulate indentation and other
+formatting rules. This is either exactly what you want or a bit of an
+annoyance.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">13 Jun 2016</p>
+          <a href="/vim/2016/06/13/beginning-and-end-of-previous-change/" class="post-link"><h3 class="h1 post-title">Beginning And End Of Previous Change</h3></a>
+          <p class="post-summary">
+            
+              <p>You can jump to the beginning of the previous change with the <code class="highlighter-rouge">[</code> mark by
+hitting <code class="highlighter-rouge">'[</code> from normal mode. Similarly, you can jump to the end of the
+previous change with the <code class="highlighter-rouge">]</code> mark by hitting <code class="highlighter-rouge">']</code>.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">13 Jun 2016</p>
+          <a href="/vim/2016/06/13/add-a-file-without-loading-it/" class="post-link"><h3 class="h1 post-title">Add a file without loading it</h3></a>
+          <p class="post-summary">
+            
+              <p>Generally, when you interact with files (e.g. <code class="highlighter-rouge">:e some-file.txt</code>), you are
+both adding it to the buffer list and loading the contents of the file as a
+separate buffer. The <code class="highlighter-rouge">:bad</code> command allows you to add a file to the buffer
+list without loading it. For instance, you can add your <code class="highlighter-rouge">README.md</code> to the
+buffer list and leave the current buffer in focus with:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Jun 2016</p>
+          <a href="/vim/2016/06/12/backspace-options/" class="post-link"><h3 class="h1 post-title">Backspace Options</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">backspace</code> option determines the behavior of pressing the backspace key
+(<code class="highlighter-rouge">&lt;BS&gt;</code>). By default, Vim’s <code class="highlighter-rouge">backspace</code> option is set to an empty list.
+There are three values that can be added that each independently alter the
+behavior of the backspace key. These are <code class="highlighter-rouge">indent</code>, <code class="highlighter-rouge">eol</code>, and <code class="highlighter-rouge">start</code>.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Jun 2016</p>
+          <a href="/tmux/2016/06/12/create-a-named-tmux-session/" class="post-link"><h3 class="h1 post-title">Create A Named tmux Session</h3></a>
+          <p class="post-summary">
+            
+              <p>When creating a new tmux session</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">11 Jun 2016</p>
+          <a href="/tmux/2016/06/11/swap-split-panes/" class="post-link"><h3 class="h1 post-title">Swap Split Panes</h3></a>
+          <p class="post-summary">
+            
+              <p>Use <code class="highlighter-rouge">&lt;prefix&gt;}</code> (or <code class="highlighter-rouge">&lt;prefix&gt;{</code>) to swap two vertically or horizontally
+split tmux panes.</p>
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">11 Jun 2016</p>
+          <a href="/2016/06/11/rename-the-current-session/" class="post-link"><h3 class="h1 post-title">Rename The Current Session</h3></a>
+          <p class="post-summary">
+            
+              <h1 id="rename-the-current-session">Rename The Current Session</h1>
+<hr />
+<p>title: Rename The Current Session
+layout: post
+date: 2016-06-11 14:11:29
+category: Tmux
+tags: [Tmux]
+—</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">10 Jun 2016</p>
+          <a href="/tmux/2016/06/10/tmux-and-vim/" class="post-link"><h3 class="h1 post-title">Tmux and Vim</h3></a>
+          <p class="post-summary">
+            
+              If you are running tmux locally and you shell into another machine to access tmux remotely, you will suddenly find yourself in tmux inception.
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">10 Jun 2016</p>
+          <a href="/tmux/2016/06/10/adjusting-window-pane-size/" class="post-link"><h3 class="h1 post-title">Adjusting window pane size</h3></a>
+          <p class="post-summary">
+            
+              <p>In tmux, the size of window panes can be adjusted incrementally with the
+<code class="highlighter-rouge">resize-pane</code> command. For instance, to resize a pane in any direction
+(left, down, up, and right), use one of the following commands</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">10 Jun 2016</p>
+          <a href="/vim/2016/06/10/absolute-and-relative-line-numbers/" class="post-link"><h3 class="h1 post-title">Absolute And Relative Line Numbers</h3></a>
+          <p class="post-summary">
+            
+              <p>By default, vim uses absolute line numbering. This can be turned off with
+<code class="highlighter-rouge">set nonumber</code> or more concisely <code class="highlighter-rouge">set nonu</code>. Turn it back on with <code class="highlighter-rouge">set nu</code>.
+Get more details at <code class="highlighter-rouge">:h number</code>.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">2 Jun 2016</p>
+          <a href="/zsh,%20unix/2016/06/02/do-not-overwrite-existing-files/" class="post-link"><h3 class="h1 post-title">Do not overwrite existing files</h3></a>
+          <p class="post-summary">
+            
+              <p>When using the <code class="highlighter-rouge">cp</code> command to copy files, you can use the <code class="highlighter-rouge">-n</code> flag to make
+sure that you do not overwrite existing files.</p>
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">2 Jun 2016</p>
+          <a href="/vim/2016/06/02/close-the-current-buffer/" class="post-link"><h3 class="h1 post-title">Close the Current Buffer</h3></a>
+          <p class="post-summary">
+            
+              <p>There are a number of ways in Vim to close the current buffer. Obviously,
+<code class="highlighter-rouge">:q</code> will do the trick, but that kills all of your buffers which isn’t ideal
+if you are still editing other files.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">26 May 2016</p>
+          <a href="/zsh,%20unix/2016/05/26/curling-with-basic-auth-credentials/" class="post-link"><h3 class="h1 post-title">Curling with basic auth</h3></a>
+          <p class="post-summary">
+            
+              <p>I often use <code class="highlighter-rouge">curl</code> to take a quick look at the responses of particular
+endpoints. If I try to <code class="highlighter-rouge">curl</code> a URL that is secured with HTTP Basic
+Authentication, this is what the response looks like:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">19 May 2016</p>
+          <a href="/zsh,%20unix/2016/05/19/global-substitution-on-the-previous-command/" class="post-link"><h3 class="h1 post-title">Global Substitution On The Previous Command</h3></a>
+          <p class="post-summary">
+            
+              <p>Let’s say we just executed the following command:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">17 May 2016</p>
+          <a href="/zsh,%20unix/2016/05/17/check-the-current-working-directory/" class="post-link"><h3 class="h1 post-title">Check the current working directory</h3></a>
+          <p class="post-summary">
+            
+              <p>Use</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">17 May 2016</p>
+          <a href="/zsh,%20unix/2016/05/17/find-newer-files/" class="post-link"><h3 class="h1 post-title">Find new files</h3></a>
+          <p class="post-summary">
+            
+              <p>Use the <code class="highlighter-rouge">-newer</code> flag with the name of a file to find files that have a
+newer modification date than the named file.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">16 May 2016</p>
+          <a href="/zsh,%20unix/2016/05/16/get-the-unix-timestamp/" class="post-link"><h3 class="h1 post-title">Get the unix timestamp</h3></a>
+          <p class="post-summary">
+            
+              <p>To get the Unix timestamp from your shell, use the <code class="highlighter-rouge">time</code> command with the
+appropriate format:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">13 May 2016</p>
+          <a href="/zsh,%20unix/2016/05/13/curling-for-headers/" class="post-link"><h3 class="h1 post-title">Curling for headers</h3></a>
+          <p class="post-summary">
+            
+              <p>If you want to inspect the headers of a response from some endpoint, look no
+further than a quick <code class="highlighter-rouge">curl</code> command. By including the <code class="highlighter-rouge">-I</code> flag, <code class="highlighter-rouge">curl</code> will
+return just the headers.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/clean-up-old-homebrew-files/" class="post-link"><h3 class="h1 post-title">Clean up Homebrew</h3></a>
+          <p class="post-summary">
+            
+              <p>If you’ve been using <a href="https://github.com/Homebrew/homebrew">Homebrew</a> for a
+while, you may have built up some cruft in the form old and outdated files.
+These will not be cleaned up automatically. You have do tell Homebrew to do
+so. This can be done with the following command.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/copying-file-contents-to-system-paste-buffer/" class="post-link"><h3 class="h1 post-title">Copying File Contents To System Paste Buffer</h3></a>
+          <p class="post-summary">
+            
+              <p>If you need to copy and paste the contents of a file, the <code class="highlighter-rouge">pbcopy</code> command
+can be one of the best ways to accomplish this. Simply <code class="highlighter-rouge">cat</code> the file and
+pipe that into <code class="highlighter-rouge">pbcopy</code> to get the contents of the file into the system
+paste buffer.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/command-line-length-limitations/" class="post-link"><h3 class="h1 post-title">Command Line Length Limitations</h3></a>
+          <p class="post-summary">
+            
+              <p>The other day I tried to run a <code class="highlighter-rouge">rm</code> command on the contents of a directory
+with a <strong>LOT</strong> of files.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/create-a-file-descriptor-with-process-substitution/" class="post-link"><h3 class="h1 post-title">Create A File Descriptor with Process Substitution</h3></a>
+          <p class="post-summary">
+            
+              <p>Process substitution can be used to create a file descriptor from the
+evaluation of a shell command. The syntax for process substitution is
+<code class="highlighter-rouge">&lt;(LIST)</code> where <code class="highlighter-rouge">LIST</code> is one or more bash commands.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/unix/2016/05/12/hexdump-a-compiled-file/" class="post-link"><h3 class="h1 post-title">Hexdump a compiled file</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">hexdump</code> unix utility allows you to dump the contents of a
+compiled/executable file in a <em>readable</em> hexadecimal format. Adding the <code class="highlighter-rouge">-C</code>
+flag includes a sidebar with a formatted version of that row of hexadecimal.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/ssh-with-port-forwarding/" class="post-link"><h3 class="h1 post-title">SSH With Port Forwarding</h3></a>
+          <p class="post-summary">
+            
+              <p>Use the <code class="highlighter-rouge">-L</code> flag with <code class="highlighter-rouge">ssh</code> to forward a connection to a remote server</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/ssh-with-a-specific-key/" class="post-link"><h3 class="h1 post-title">SSH with a specifik key</h3></a>
+          <p class="post-summary">
+            
+              <p>When you SSH into another machine using public key authentication, the
+key pair from either <code class="highlighter-rouge">~/.ssh/id_dsa</code>, <code class="highlighter-rouge">~/.ssh/id_ecdsa</code>, or <code class="highlighter-rouge">~/.ssh/id_rsa</code>
+is used by default. This is generally what you want. But what if the target
+server is expecting to identify you with a different SSH key pair?</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/ssh-escape-sequences/" class="post-link"><h3 class="h1 post-title">SSH Escape Sequences</h3></a>
+          <p class="post-summary">
+            
+              <p>In <a href="killing-a-frozen-ssh-session.md">Killing A Frozen SSH Session</a>, I talked
+about an escape sequence for breaking out of an SSH session when the pipe
+has been broken. This isn’t the only SSH escape sequence though. To see the
+others, hit <code class="highlighter-rouge">&lt;Enter&gt;~?</code>. This displays a help list with all the other escape
+sequences.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/sort-in-numerical-order/" class="post-link"><h3 class="h1 post-title">Sort in numerical order</h3></a>
+          <p class="post-summary">
+            
+              <p>By default, the <code class="highlighter-rouge">sort</code> command will sort things alphabetically. If you have
+numerical input though, you may want a numerical sort. This is what the <code class="highlighter-rouge">-n</code>
+flag is for.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/show-disk-usage-for-the-current-directory/" class="post-link"><h3 class="h1 post-title">Show Disk Usage For The Current Directory</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">du</code> utility can be used to show disk usage for a particular directory
+or set of directories. When used without any arguments, it will show the
+disk usage for the current directory.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/search-man-page-descriptions/" class="post-link"><h3 class="h1 post-title">Search Man Page Descriptions</h3></a>
+          <p class="post-summary">
+            
+              <p>You can use the <code class="highlighter-rouge">apropos</code> command with a keyword argument to search for that
+words occurrence throughout all the man pages on your system. For instance,
+invoking <code class="highlighter-rouge">apropos whatis</code> will bring up a list of entries including the
+<code class="highlighter-rouge">apropos</code> command itself.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/search-history/" class="post-link"><h3 class="h1 post-title">Search history</h3></a>
+          <p class="post-summary">
+            
+              <p>Often times there is a very specific command you have entered into your bash
+prompt that you need to run again. You don’t want to have to type it again
+and stepping manually through your history may be suboptimal if you typed it
+quite a while ago. Fortunately, there is a simple history search feature
+that you can use in this kind of situation.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/search-files-specific-to-a-language/" class="post-link"><h3 class="h1 post-title">Search Files Specific To A Language</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">ack</code> command makes it easy to narrow the set of searched files to those
+of a specific programming language. For instance, if you have a rails
+project and only want to search the ruby files, use the <code class="highlighter-rouge">--ruby</code> flag with
+your <code class="highlighter-rouge">ack</code> command.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/saying-yes/" class="post-link"><h3 class="h1 post-title">Yes command</h3></a>
+          <p class="post-summary">
+            
+              <p>Tired of being prompted for confirmation by command-line utilities? Wish you
+could blindly respond ‘yes’ to whatever it is they are bugging you about?
+The <code class="highlighter-rouge">yes</code> command is what you’ve been looking for.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/pid-of-the-current-shell/" class="post-link"><h3 class="h1 post-title">PID Of The Current Shell</h3></a>
+          <p class="post-summary">
+            
+              <p><code class="highlighter-rouge">$</code> expands to the process ID of the shell. So, you can see the PID of the
+current shell with <code class="highlighter-rouge">echo $$</code>.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/partial-string-matching-in-bash-scripts/" class="post-link"><h3 class="h1 post-title">Partial String Matching In Bash Scripts</h3></a>
+          <p class="post-summary">
+            
+              <p>To compare two strings in a bash script, you will have a snippet of code
+similar to the following:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/tmux/2016/05/12/pane-killer/" class="post-link"><h3 class="h1 post-title">Pane Killer</h3></a>
+          <p class="post-summary">
+            
+              <p>The current pane can be <em>killed</em> (closed) using the following key binding:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/open-the-current-command-in-an-editor/" class="post-link"><h3 class="h1 post-title">Open the current command in an editor</h3></a>
+          <p class="post-summary">
+            
+              <p>If you are working with a complicated command in the terminal trying to get
+the arguments just right. Such as this <code class="highlighter-rouge">curl</code>:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/zsh/2016/05/12/only-show-the-matches/" class="post-link"><h3 class="h1 post-title">Only Show The Matches</h3></a>
+          <p class="post-summary">
+            
+              <p>Tools like <code class="highlighter-rouge">grep</code>, <code class="highlighter-rouge">ack</code>, and <code class="highlighter-rouge">ag</code> make it easy to search for lines in a
+file that contain certain text and patterns. They all come with the <code class="highlighter-rouge">-o</code>
+flag which tells them to only show the part that matches.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 May 2016</p>
+          <a href="/unix,%20wordpress/2016/05/12/map-a-domain-to-localhost/" class="post-link"><h3 class="h1 post-title">Map a domain to Localhost</h3></a>
+          <p class="post-summary">
+            
+              <p>Do you want your computer to treat a domain as <code class="highlighter-rouge">localhost</code>? You can map it
+as such in your <code class="highlighter-rouge">/etc/hosts</code> file. For example, if I have an web app that
+refers to itself with the <code class="highlighter-rouge">dev.app.com</code> domain, I can add the following line
+to my <code class="highlighter-rouge">/etc/hosts</code> file to make sure the domain resolves to <code class="highlighter-rouge">localhost</code>:</p>
+
+
+            
+          </p>
+        </div>
+      
+    </div>
+
+    <div class="pagination clearfix mb1 mt4">
+  <div class="left">
+    
+      
+        <a class="pagination-item" href="/page2">Newer</a>
+      
+    
+  </div>
+  <div class="right">
+    
+      <a class="pagination-item" href="/page4">Older</a>
+    
+  </div>
+  <div class="pagination-meta">Page 3 of 4</div>
+</div>
+
+  
+</div>
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    
+      <div class="social-icons">
+  <div class="social-icons-right">
+    
+      <a class="fa fa-github" href="https://github.com/mikejakobsen"></a>
+    
+    
+    
+    <a class="fa fa-rss" href="/feed.xml"></a>
+    
+      <a class="fa fa-twitter" href="https://twitter.com/mikejakobsen"></a>
+    
+    
+    
+    
+    
+      <a class="fa fa-envelope" href="mailto:mike@jakobsen.dk"></a>
+    
+    
+    
+    
+      <a class="fa fa-medium" href="https://medium.com/@mikejakobsen"></a>
+    
+  </div>
+  <div class="right">
+    
+    
+    
+  </div>
+</div>
+<div class="clearfix"></div>
+
+    
+  </div>
+</footer>
+<!-- AnchorJS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+  <script>
+    anchors.options.visible = 'always';
+anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>
+
+</body>
+</html>

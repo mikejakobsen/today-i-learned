@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Today I Learned</title>
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//cdn.mathjax.org">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Today i learned">
+    <meta name="robots" content="all">
+    <meta name="author" content="Mike Jakobsen">
+    
+    
+    <link rel="canonical" href="http://localhost:4000/page2/">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Today I Learned" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/app.css?201703291921" type="text/css">
+
+    <!-- Fonts -->
+    
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    
+    
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    
+
+    <!-- MathJax -->
+    
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <!-- Verifications -->
+    
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Today I Learned">
+    <meta property="og:description" content="Today i learned">
+    <meta property="og:url" content="http://localhost:4000/page2/">
+    <meta property="og:site_name" content="Today I Learned">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    
+        <meta name="twitter:site" content="@mikejakobsen" />
+    
+    <meta name="twitter:title" content="Today I Learned" />
+    <meta name="twitter:description" content="Today i learned" />
+    <meta name="twitter:url" content="http://localhost:4000/page2/" />
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+
+    
+    <script type="text/javascript">
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+       ga('create', 'UA-88335975-1', 'auto');
+       ga('send', 'pageview');
+    </script>
+    
+</head>
+
+  <body class="site animated fade-in-down">
+    
+    
+
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://localhost:4000" class="site-title">
+        <img src="/images/logo.png" alt="Logo" class="logo" />
+      </a>
+      <nav class="site-nav">
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+
+    
+
+    
+        <a href="/contact/">Say Hello</a>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+<div class="home">
+  
+    <div class="posts">
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/move-the-latest-commit-to-a-new-branch/" class="post-link"><h3 class="h1 post-title">Move The Latest Commit To A New Branch</h3></a>
+          <p class="post-summary">
+            
+              <p>I sometimes find myself making a commit against the <code class="highlighter-rouge">master</code> branch that I
+intended to make on a new branch. To get this commit on a new branch, one
+possible approach is to do a reset, checkout a new branch, and then
+re-commit it. There is a better way.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/list-untracked-files/" class="post-link"><h3 class="h1 post-title">List Untracked Files</h3></a>
+          <p class="post-summary">
+            
+              <p>Git’s <code class="highlighter-rouge">ls-files</code> command is a plumbing command that allows you to list
+different sets of files based on the state of the working directory. So, if
+you want to list all untracked files, you can do:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/list-most-git-commands/" class="post-link"><h3 class="h1 post-title">List Most Git Commands</h3></a>
+          <p class="post-summary">
+            
+              <p>You can list most git commands by using the <code class="highlighter-rouge">-a</code> flag with <code class="highlighter-rouge">git-help</code>:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/list-filenames-without-the-diffs/" class="post-link"><h3 class="h1 post-title">List Filenames Without The Diffs</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">git show</code> command will list all changes for a given reference
+including the diffs. With diffs included, this can get rather verbose at
+times. If you just want to see the list of files involved (excluding the
+diffs), you can use the <code class="highlighter-rouge">--name-only</code> flag. For instance,</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/list-different-commits-between-two-branches/" class="post-link"><h3 class="h1 post-title">List Different Commits Between Two Branches</h3></a>
+          <p class="post-summary">
+            
+              <p>There are times when I want to get a sense of the difference between two
+branches. I don’t want to look at the actual diff though, I just want to see
+what commits are on one and the other.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/list-all-files-changed-between-two-branches/" class="post-link"><h3 class="h1 post-title">List All Files Changed Between Two Branches</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">git-diff</code> command can help with finding all files that have changed
+between two branches. For instance, if you are at the <code class="highlighter-rouge">HEAD</code> of your current
+feature branch and you’d like to see the list of files that have changed
+since being in sync with the <code class="highlighter-rouge">master</code> branch, you’d formulate a command like
+the following:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/last-commit-a-file-appeared-in/" class="post-link"><h3 class="h1 post-title">Last Commit A File Appeared In</h3></a>
+          <p class="post-summary">
+            
+              <p>In my project, I have a <code class="highlighter-rouge">README.md</code> file that I haven’t modified in a while.
+I’d like to take a look at the last commit that modified it. The <code class="highlighter-rouge">git log</code>
+command can be used here with few arguments to narrow it down.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/interactively-unstage-changes/" class="post-link"><h3 class="h1 post-title">Interactively Unstage Changes</h3></a>
+          <p class="post-summary">
+            
+              <p>I often use <code class="highlighter-rouge">git add --patch</code> to interactively stage changes for a commit.
+Git takes me through changes to tracked files piece by piece to check if I
+want to stage them. This same interactive <em>staging</em> of files can be used in
+reverse when removing changes from the index. Just add the <code class="highlighter-rouge">--patch</code> flag.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/intent-to-add/" class="post-link"><h3 class="h1 post-title">Intent To Add</h3></a>
+          <p class="post-summary">
+            
+              <p>Git commands like <code class="highlighter-rouge">git diff</code> and <code class="highlighter-rouge">git add --patch</code> are awesome, but their
+little caveat is that they only work on files that are currently tracked in
+the repository. That means that after working on that new feature for 30
+minutes, a <code class="highlighter-rouge">git diff</code> is only going to show you the changes to existing
+files and when you go to start making commits with <code class="highlighter-rouge">git add --patch</code> you
+will again be provided with only part of the picture.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/ignore-changes-to-a-tracked-file/" class="post-link"><h3 class="h1 post-title">Ignore Changes To A Tracked File</h3></a>
+          <p class="post-summary">
+            
+              <p>Files that should never be tracked are listed in your <code class="highlighter-rouge">.gitignore</code> file. But
+what about if you want to ignore some local changes to a tracked file?</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/grep-over-commit-messages/" class="post-link"><h3 class="h1 post-title">Grep Over Commit Messages</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">git log</code> command supports a <code class="highlighter-rouge">--grep</code> flag that allows you to do a text
+search (using grep, obviously) over the commit messages for that repository.
+For the git user that writes descriptive commit messages, this can come in
+quite handy. In particular, this can be put to use in an environment where
+the standard process involves including ticket and bug numbers in the commit
+message. For example, finding bug <code class="highlighter-rouge">#123</code> can be accomplished with:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/grab-a-single-file-from-a-stash/" class="post-link"><h3 class="h1 post-title">Grab A Single File From A Stash</h3></a>
+          <p class="post-summary">
+            
+              <p>In git, you can reference a commit SHA or branch to checkout differing
+versions of files.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/find-the-initial-commit/" class="post-link"><h3 class="h1 post-title">Find The Initial Commit</h3></a>
+          <p class="post-summary">
+            
+              <p>By definition, the initial commit in a repository has no parents. You can
+exploit that fact and use <code class="highlighter-rouge">rev-list</code> to find the initial commit; a commit
+with no parents.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/excluding-files-locally/" class="post-link"><h3 class="h1 post-title">Excluding Files Locally</h3></a>
+          <p class="post-summary">
+            
+              <p>Excluding (read: ignoring) files that should not be tracked is generally
+done by listing such files in a tracked <code class="highlighter-rouge">.gitignore</code> file. Though it doesn’t
+make sense to list all kinds of excluded files here. For files that you’d
+like to exclude that are temporary or are specific to your local
+environment, there is another option. These files can be added to the
+<code class="highlighter-rouge">.git/info/exclude</code> file as a way of ignoring them locally.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/dry-runs-in-git/" class="post-link"><h3 class="h1 post-title">Dry Runs in Git</h3></a>
+          <p class="post-summary">
+            
+              <p>There are a few commands in git that allow you to do a <em>dry run</em>. That is,
+git will tell you the effects of executing a command without actually
+executing that command.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/diffing-with-patience/" class="post-link"><h3 class="h1 post-title">Diffing With Patience</h3></a>
+          <p class="post-summary">
+            
+              <p>The default diff algorithm used by Git is pretty good, but it can get
+mislead by larger, complex changesets. The result is a noisier, misaligned
+diff output.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/determine-the-hash-id-for-a-blob/" class="post-link"><h3 class="h1 post-title">Determine The Hash Id For A Blob</h3></a>
+          <p class="post-summary">
+            
+              <p>Git’s <code class="highlighter-rouge">hash-object</code> command can be used to determine what hash id will be
+used by git when creating a blob in its internal file system.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/delete-all-untracked-files/" class="post-link"><h3 class="h1 post-title">Delete All Untracked Files</h3></a>
+          <p class="post-summary">
+            
+              <p>Git provides a command explicitly intended for cleaning up (read: removing)
+untracked files from a local copy of a repository.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/clean-up-old-remote-tracking-references/" class="post-link"><h3 class="h1 post-title">Clean Up Old Remote Tracking References</h3></a>
+          <p class="post-summary">
+            
+              <p>After working on a Git-versioned project for a while, you may find that
+there are a bunch of references to remote branches in your local repository.
+You know those branches definitely don’t exist on the remote server and
+you’ve removed the local branches, but
+you still have references to them lying around. You can reconcile this
+discrepancy with one command:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/clean-out-all-local-branches/" class="post-link"><h3 class="h1 post-title">Clean Out All Local Branches</h3></a>
+          <p class="post-summary">
+            
+              <p>Sometimes a project can get to a point where there are so many local
+branches that deleting them one by one is too tedious. This one-liner can
+help:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/checkout-previous-branch/" class="post-link"><h3 class="h1 post-title">Checkout Previous Branch</h3></a>
+          <p class="post-summary">
+            
+              <p>Git makes it easy to checkout the last branch you were on.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/checkout-old-version-of-a-file/" class="post-link"><h3 class="h1 post-title">Checkout Old Version Of A File</h3></a>
+          <p class="post-summary">
+            
+              <p>When you want to return to a past version of a file, you can reset to a past
+commit. When you don’t want to abandon a bunch of other changes, this isn’t
+going to cut it. Another option is to just checkout the particular file as
+it was at the time of a past commit.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/checking-commit-ancestry/" class="post-link"><h3 class="h1 post-title">Checking Commit Ancestry</h3></a>
+          <p class="post-summary">
+            
+              <p>I have two commit shas and I want to know if the first is an ancestor of the
+second. Put another way, is this first commit somewhere in the history of
+this other commit.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/caching-credentials/" class="post-link"><h3 class="h1 post-title">Caching Credentials</h3></a>
+          <p class="post-summary">
+            
+              <p>When public key authentication isn’t an option, you may find yourself typing
+your password over and over when pushing to and pulling from a remote git
+repository. This can get tedious. You can get around it by configuring git
+to cache your credentials. Add the following lines to the <code class="highlighter-rouge">.git/config</code> file
+of the particular project.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/amend-author-of-previous-commit/" class="post-link"><h3 class="h1 post-title">Amend Author Of Previous Commit</h3></a>
+          <p class="post-summary">
+            
+              <p>The author of the previous commit can be amended with the following command</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">12 Sep 2016</p>
+          <a href="/git/2016/09/12/accessing-a-lost-commit/" class="post-link"><h3 class="h1 post-title">Accessing A Lost Commit</h3></a>
+          <p class="post-summary">
+            
+              <p>If you have lost track of a recent commit (perhaps you did a reset), you
+can generally still get it back. Run <code class="highlighter-rouge">git reflog</code> and look through the
+output to see if you can find that commit. Note the sha value associated
+with that commit. Let’s say it is <code class="highlighter-rouge">39e85b2</code>. You can peruse the
+details of that commit with <code class="highlighter-rouge">git show 39e85b2</code>.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">22 Aug 2016</p>
+          <a href="/unix/2016/08/22/list-names-of-files-with-matches/" class="post-link"><h3 class="h1 post-title">Last name of files with matches</h3></a>
+          <p class="post-summary">
+            
+              <p>I often use <code class="highlighter-rouge">grep</code> and <code class="highlighter-rouge">ag</code> to search for patterns in a group or directory
+of files. Generally I am interested in looking at the matching lines
+themselves. However, sometimes I just want to know the set of files that
+have matches. Both <code class="highlighter-rouge">grep</code> and <code class="highlighter-rouge">ag</code> can be told to output nothing more than
+the names of the files with matches when given the <code class="highlighter-rouge">-l</code> flag.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">20 Jul 2016</p>
+          <a href="/unix/2016/07/20/list-of-sessions-to-a-machine/" class="post-link"><h3 class="h1 post-title">List of sessions to a machine</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">last</code> command is a handy way to find out who has been connecting to a
+machine and when.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">20 Jul 2016</p>
+          <a href="/unix/2016/07/20/jump-to-the-ends-of-your-shell-history/" class="post-link"><h3 class="h1 post-title">Skip to end of your shell history</h3></a>
+          <p class="post-summary">
+            
+              <p>There are all sorts of ways to do things in your shell environment without
+reaching for the arrow keys. For instance, if you want to move <em>up</em> to the
+previous command, you can hit <code class="highlighter-rouge">Ctrl-p</code>. To move <em>down</em> to the next
+command in your shell history, you can hit <code class="highlighter-rouge">Ctrl-n</code>.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">20 Jul 2016</p>
+          <a href="/zsh/2016/07/20/grep-for-files-without-a-match/" class="post-link"><h3 class="h1 post-title">Grep For Files Without A Match</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">grep</code> command is generally used to find files whose contents match a
+pattern. With the <code class="highlighter-rouge">-L</code> (<code class="highlighter-rouge">--files-without-match</code>) flag, <code class="highlighter-rouge">grep</code> can be used to
+find files that don’t match the given pattern.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">15 Jul 2016</p>
+          <a href="/tmux/2016/07/15/organizing-windows/" class="post-link"><h3 class="h1 post-title">Organizing Windows</h3></a>
+          <p class="post-summary">
+            
+              <p>If you use a number of tmux windows as part of your daily workflow, you may find that they get to be a bit of a mess from time to time. There are gaps in the numbering and they aren’t laid out in the order you’d prefer. The <code class="highlighter-rouge">movew</code> command makes it easy to rearrange these windows.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">13 Jul 2016</p>
+          <a href="/tmux/2016/07/13/enabling-vi-mode/" class="post-link"><h3 class="h1 post-title">Enabling Vi Mode</h3></a>
+          <p class="post-summary">
+            
+              <p>If you’d like some vim-like bindings in tmux, you can turn on vi mode. To do
+so, add the following line to your <code class="highlighter-rouge">.tmux.conf</code> file:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">11 Jul 2016</p>
+          <a href="/tmux/2016/07/11/tmux-in-your-tmux/" class="post-link"><h3 class="h1 post-title">Tmux in your tmux</h3></a>
+          <p class="post-summary">
+            
+              <p>If you are running tmux locally and you shell into another machine to
+access tmux remotely, you will suddenly find yourself in tmux inception.
+You will have a tmux instance running within your local tmux instance. If
+you have the same prefix key set for both, then you may be wondering how
+you can send a tmux command to the <em>inner</em> tmux instance.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">10 Jul 2016</p>
+          <a href="/tmux/2016/07/10/cycle-through-layouts/" class="post-link"><h3 class="h1 post-title">Cycle Through Layouts</h3></a>
+          <p class="post-summary">
+            
+              <p>Arranging a series of split windows in tmux can take some time. Once those
+splits windows are arranged, it is difficult to set them up in a new way.
+There is a way of cycling through layouts that might be able to help though.
+Hit <code class="highlighter-rouge">&lt;prefix&gt;&lt;space&gt;</code> over and over to cycle through the layouts until you
+find the arrangement that you want.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">10 Jul 2016</p>
+          <a href="/tmux/2016/07/10/paging-up-and-down/" class="post-link"><h3 class="h1 post-title">Paging up and down</h3></a>
+          <p class="post-summary">
+            
+              <p>When in <em>copy mode</em> (<code class="highlighter-rouge">&lt;prefix&gt;[</code>), you can move the cursor around like you
+would in vim with the directional keys (<code class="highlighter-rouge">hjkl</code>). This works fine until you
+want to move up or down through pages and pages of text, such as when
+navigating to the top of a long stack trace. One way to get where you need
+to be more quickly is by paging up and down.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">6 Jul 2016</p>
+          <a href="/tmux/2016/07/06/open-new-window-with-a-specific-directory/" class="post-link"><h3 class="h1 post-title">Open new window with a specifik directory</h3></a>
+          <p class="post-summary">
+            
+              <p>When you initially start a tmux session, the default directory is based off
+of whatever the current working directory was. Any subsequent windows opened
+within that tmux session will be opened with that as the base directory.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">6 Jul 2016</p>
+          <a href="/tmux/2016/07/06/list-sessions/" class="post-link"><h3 class="h1 post-title">List sessions</h3></a>
+          <p class="post-summary">
+            
+              <p>Not sure if <code class="highlighter-rouge">tmux</code> is running or, if it is, which sessions are available?
+You can list all the currently running sessions right from the command-line.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">6 Jul 2016</p>
+          <a href="/zsh/2016/07/06/default-screenshot-location/" class="post-link"><h3 class="h1 post-title">Default Screenshot Location</h3></a>
+          <p class="post-summary">
+            
+              <p>By default, Mac saves all screenshots to the desktop. If you’d like
+screenshots to be dumped somewhere else, you have to configure it manually
+from the command line. For instance, if you’d like your screenshots to be
+saved in the <code class="highlighter-rouge">~/screenshots</code> directory, then enter the following commands:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">5 Jul 2016</p>
+          <a href="/mac/2016/07/05/insert-a-non-breaking-space-character/" class="post-link"><h3 class="h1 post-title">Insert A Non-Breaking Space Character</h3></a>
+          <p class="post-summary">
+            
+              <p>On Mac, you can insert a non-breaking space character by hitting
+<code class="highlighter-rouge">option-space</code>.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">28 Jun 2016</p>
+          <a href="/mac/2016/06/28/resizing-both-corners-of-a-window/" class="post-link"><h3 class="h1 post-title">Resizing Both Corners Of A Window</h3></a>
+          <p class="post-summary">
+            
+              <p>Hold the <code class="highlighter-rouge">option</code> key while resizing a corner of a window and it will
+simultaneously and equivalently resize the opposite corner.</p>
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">28 Jun 2016</p>
+          <a href="/mac,%20osx/2016/06/28/list-all-the-say-voices/" class="post-link"><h3 class="h1 post-title">Echo All The Say Voices</h3></a>
+          <p class="post-summary">
+            
+              <p>The <code class="highlighter-rouge">say</code> command can be a fun party trick.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">26 Jun 2016</p>
+          <a href="/vim/2016/06/26/close-all-other-windows/" class="post-link"><h3 class="h1 post-title">Close all other windows</h3></a>
+          <p class="post-summary">
+            
+              <p>Opening split windows can be useful in a number of circumstances. Eventually
+though, you are going to want to go back to just one window. Generally when
+this happens to me, I navigate to each of the other split windows that I
+don’t want and execute <code class="highlighter-rouge">:q</code>. What I want to do is essentially close all the
+other split windows except for my current one. Vim provides a single command
+for doing this. By hitting</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">25 Jun 2016</p>
+          <a href="/2016/06/25/close-all-other-splits/" class="post-link"><h3 class="h1 post-title">Close All Other Splits</h3></a>
+          <p class="post-summary">
+            
+              
+<hr />
+<p>title: Close all other splits
+layout: post
+date: 2016-06-25 08:21:29
+category: Vim
+tags: [Vim]
+—</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">24 Jun 2016</p>
+          <a href="/vim/2016/06/24/amend-commits-with-fugitive/" class="post-link"><h3 class="h1 post-title">Ammend commit with fugitive</h3></a>
+          <p class="post-summary">
+            
+              <p>If i could add one, and only one plugin to my Vim setup. It would probably be Fugitive.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">24 Jun 2016</p>
+          <a href="/vim/2016/06/24/check-your-current-color-scheme/" class="post-link"><h3 class="h1 post-title">What's my color scheme?</h3></a>
+          <p class="post-summary">
+            
+              <p>Vim ships with a number of different color schemes. There is also a plethora
+of color schemes built by the open source community. If you’d like to know
+what color scheme you are currently using, you can check with</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">23 Jun 2016</p>
+          <a href="/vim/2016/06/23/center-the-cursor/" class="post-link"><h3 class="h1 post-title">Center the cursor</h3></a>
+          <p class="post-summary">
+            
+              <p>If you’ve moved the cursor to a particular line towards the top or bottom of
+the screen, you may want to center the screen on that line. This can be
+achieved by hitting <code class="highlighter-rouge">zz</code>. It is a quick way to center the cursor and ensure
+that you have an equal amount of context on either side of the line of
+interest.</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">21 Jun 2016</p>
+          <a href="/vim/2016/06/21/case-insensitive-substitution/" class="post-link"><h3 class="h1 post-title">Case-Insensitive Substitution</h3></a>
+          <p class="post-summary">
+            
+              <p>Use the <code class="highlighter-rouge">i</code> <code class="highlighter-rouge">s-flag</code> to perform a case-insensitive substitution (search and
+replace).</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">21 Jun 2016</p>
+          <a href="/vim/2016/06/21/buffer-time-travel/" class="post-link"><h3 class="h1 post-title">Buffer time travel</h3></a>
+          <p class="post-summary">
+            
+              <p>Vim allows you to go to an <em>earlier</em> text state for a buffer with
+<code class="highlighter-rouge">:earlier</code>. For instance, if you want to see the state of the buffer from 10
+minutes ago:</p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">20 Jun 2016</p>
+          <a href="/zsh,%20unix/2016/06/20/cat-a-file-with-line-numbers/" class="post-link"><h3 class="h1 post-title">Cat a file with line numbers</h3></a>
+          <p class="post-summary">
+            
+              <p>You can quickly view a file using <code class="highlighter-rouge">cat</code></p>
+
+
+            
+          </p>
+        </div>
+      
+        <div class="post py3">
+          <p class="post-meta">20 Jun 2016</p>
+          <a href="/zsh/2016/06/20/repeat-yourself/" class="post-link"><h3 class="h1 post-title">Repeat Yourself</h3></a>
+          <p class="post-summary">
+            
+              <p>Use the <code class="highlighter-rouge">repeat</code> command to repeat some other command.</p>
+
+
+            
+          </p>
+        </div>
+      
+    </div>
+
+    <div class="pagination clearfix mb1 mt4">
+  <div class="left">
+    
+      
+        <a class="pagination-item" href="/">Newer</a>
+      
+    
+  </div>
+  <div class="right">
+    
+      <a class="pagination-item" href="/page3">Older</a>
+    
+  </div>
+  <div class="pagination-meta">Page 2 of 4</div>
+</div>
+
+  
+</div>
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    
+      <div class="social-icons">
+  <div class="social-icons-right">
+    
+      <a class="fa fa-github" href="https://github.com/mikejakobsen"></a>
+    
+    
+    
+    <a class="fa fa-rss" href="/feed.xml"></a>
+    
+      <a class="fa fa-twitter" href="https://twitter.com/mikejakobsen"></a>
+    
+    
+    
+    
+    
+      <a class="fa fa-envelope" href="mailto:mike@jakobsen.dk"></a>
+    
+    
+    
+    
+      <a class="fa fa-medium" href="https://medium.com/@mikejakobsen"></a>
+    
+  </div>
+  <div class="right">
+    
+    
+    
+  </div>
+</div>
+<div class="clearfix"></div>
+
+    
+  </div>
+</footer>
+<!-- AnchorJS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+  <script>
+    anchors.options.visible = 'always';
+anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>
+
+</body>
+</html>
