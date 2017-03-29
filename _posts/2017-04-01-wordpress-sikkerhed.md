@@ -68,7 +68,7 @@ nket sikkerhed en tanke.
 
 Nååh' ja, men jeg har jo min kode.
 
-De fleste bliver overrasket over hvor hurtigt, man kan nedbryde den sidste hindring, kodeordet. Et forholdsvist simpelt **Dictionary attack** med fx. Hydra. Tager ofte kun 20-30 minutter om at finde koden til siden. Et **Dictionary attack** er som navnet så fint hinter, et lang liste med udvalgte kodeord. Der så bliver fyret af imod din side. Din egen kode, er højst sansingligt imellem [Seclist](https://github.com/danielmiessler/SecLists/tree/master/Passwords) mange millioner koder.
+De fleste bliver overrasket over hvor hurtigt, man kan nedbryde den sidste hindring, kodeordet. Et forholdsvist simpelt **Dictionary attack** med fx. Hydra. Tager ofte kun 20-30 minutter om at finde koden til siden. Et **Dictionary attack** er som navnet så fint hinter, et lang liste med udvalgte kodeord. Der så bliver fyret af imod din side. Din egen kode, er højst sandsynligt imellem [Seclist](https://github.com/danielmiessler/SecLists/tree/master/Passwords) mange millioner koder.
 
 Jeg vender snart tilbage med en guide til hvordan du udførrer netop et sådan **dictionary attack**, da det på ingen måde kræver nogen nævneværdige it-skills.
 
@@ -76,7 +76,7 @@ Jeg vender snart tilbage med en guide til hvordan du udførrer netop et sådan *
 
 Det tager vitterligt kun 3 minutter at sikre sig.
 
-Der er 3 simple ting, jeg vil råde dig til. Der hverken kræver en programmør, eller mere end 5 minutter af din tid.
+Der er 3 simple ting, jeg vil råde dig til. Der hverken kræver en programmør, eller mere end 3 minutter af din tid.
 
 ### Trin 1 - Flyt login siden.
 
@@ -124,7 +124,7 @@ Og smart nok, husker det for dig. Du behøver altså aldrig mere at huske en kod
 
 ### Tips til dig der sidder med en sølvpapirshat på.
 
-*Flyt wp-config.php filen*
+**Flyt wp-config.php filen**
 
 Ofte bliver sider hacket, udelukkende for at sende tusindivs af spam-mails ud fra den tilknyttede mail. Ofte uden at ejeren aner uråd.
 Symptomerne kommer først, når Google har blacklistet domænet. Hvilket i såfald betyder, ingen organiske besøgende via Google. 
@@ -133,7 +133,7 @@ Et godt råd er derfor at flytte *wp-config.php* filen en mappe længere ud, da 
 
 Så flyt du blot, den fil en mappe tilbage, ligesom hvis du skulle flytte en fil fra dit Skrivebord til Dokumenter.
 
-*Gør det umuligt at redigere i filer direkte fra WordPress*
+**Gør det umuligt at redigere i filer direkte fra WordPress**
 
 Nu vi alligevel har fat i *wp-config.php* filen, er der lige en ting mere. Under *Editor* på de fleste WordPress sider, er det muligt at redigere i alle filerne.
 Hvilket også gør det muligt for personer med dårlige intensioner, bare at slette løs.
@@ -146,7 +146,7 @@ Ligesom herunder.
 define( 'DISALLOW_FILE_EDIT', true );
 ```
 
-*Installer Better WP Security*
+**Installer Better WP Security**
 
 Better WP Security er et glimrende plugin.
 
