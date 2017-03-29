@@ -88,7 +88,7 @@ Start med at hente [Move Login pluginet](https://da.wordpress.org/plugins/sf-mov
 
 Her kan du så vælge, hvad du vil kalde adressen.
 
-![Move login](http://pasteboard.co/PkwntsoYQ.png)
+![Move login](http://i.imgur.com/5ksvtxw.png)
 
 Du behøver på ingen måde, at være lige så kreativ som overstående. Jeg er selv stor tilhænger af at benytte */log-ind/*.
 
