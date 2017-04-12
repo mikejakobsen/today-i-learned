@@ -51,13 +51,13 @@ Da WpScan er skrevet i Ruby, skal vi bruge Ruby interpreteren. Derfor starter vi
 
 For at starte med at hacke siden, smider vi dernæst adressen til siden, du øsnker at hacke ind.
 
-```bash
-ruby wpscan.rb --url http://wordpress-site.com
-```
+
+For at få info omkring evt. sikkerhedsmæssige svagheder ved siden, skriv følgende.
 
 ```bash
 ruby wpscan.rb --url http://wordpress-site.com --enumerate u
 ```
+
 Eller du kan navigere til **http://wordpress-site.com/?author=1** i din browser.
 
 Er du nysgerrig, omkring hvilken WordPress version du har med at gøre, kan du næsten altid blot navigere til **http://wordpress-site.com/readme.html** for at se nærmere.
@@ -74,4 +74,4 @@ ruby wpscan.rb --url http://wordpress-site.com --wordlist ~/dictionary-attack/ro
 ```
 Her erstatter du selvfølgelig admin med et af de brugernavne, som din første scan viste.
 
-NB: Afhængig af din Internet forbindelse, og hosten du angriber. Tager det 8-9 timer at 
+NB: Afhængig af din Internet forbindelse, og hosten du angriber. Tager det 8-9 timer at prøve 500.000 kodeordskombinationer op imod en WordPress side.
