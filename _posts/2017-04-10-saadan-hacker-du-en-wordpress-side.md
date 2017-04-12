@@ -6,7 +6,7 @@ category: WordPress, Hack
 tags: [WordPress, Hack]
 ---
 
-WordPress udgør små [25%](https://w3techs.com/blog/entry/wordpress-powers-25-percent-of-all-websites) af internettet, vi bevæger os rundt på til dagligt. Så hvordan hacker du de små 25% af internetter? Det er overraskende nemt.
+WordPress udgør små [25%](https://w3techs.com/blog/entry/wordpress-powers-25-percent-of-all-websites) af internettet, vi bevæger os rundt på til dagligt. Så hvordan hacker du de små 25% af internettet? Det er overraskende nemt.
 
 Hvis du har problemer med at finde en WordPress side, så kan en simpel Google søgning være behjælpelig.
 
@@ -14,7 +14,7 @@ Hvis du har problemer med at finde en WordPress side, så kan en simpel Google s
 "index of" inurl:wp-content
 ```
 
-Til denne exploit benytter vi [WpScan](https://github.com/wpscanteam/wpscan). Som er en af de bedste vulnerability testere til WordPress. Et tools som Hydra eller Jack-the-ripper, ville også have været en mulighed, men for simpliciteten skyld benytter vi WpScan.
+Til denne exploit benytter vi [WpScan](https://github.com/wpscanteam/wpscan). Som er en af de bedste vulnerability testere til WordPress. Et tool som Hydra eller Jack-The-Ripper - ville også have været en mulighed, men for simpliciteten skyld benytter vi WpScan.
 
 Udover skal vi bruge en god *wordlist*, til det man kalder et *dictinary attack*. Der ganske enkelte går ud på at prøve en samling af kodeord op imod WordPress siden. Du finder en samling på min Github her.
 
@@ -38,7 +38,7 @@ gem install bundler
 bundle install --without test
 ```
 
-Her du Ruby og RVM sat op, kan du nøjes med nedenstående.
+Har du Ruby og RVM sat op, kan du nøjes med nedenstående.
 
 ```bash
 git clone https://github.com/wpscanteam/wpscan.git

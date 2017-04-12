@@ -16,4 +16,4 @@ Git repositoriet findes ofte som en .git mappe, i roden af webhotellet.
 
 (Eksempel: 216.58.211.142/.git/)
 
-Vi kan dermed clone the p
+Vi kan dermed clone hele *Git repoet*
