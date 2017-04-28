@@ -1,9 +1,9 @@
 ---
-title: Frozen SSH session
+title: Kill Frozen SSH session
 layout: post
 date: 2016-10-19 19:21:29
-category: Unix
-tags: [Unix]
+category: Unix, Tmux
+tags: [Unix, Tmux]
 ---
 
 Whenever an SSH session freezes, I usually mash the keyboard in desperation
@@ -17,4 +17,12 @@ listen for the following kill command:
 This will kill the frozen SSH session and leave you in the terminal where
 you were before you SSH'd.
 
-source: [Jack C.](http://hashrocket.com/team/jack-christensen)
+### Inside Tmux
+
+If the session is running inside a Tmux instance.
+
+```
+prefix+x
+```
+
+Will do the trick.
