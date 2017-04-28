@@ -75,3 +75,11 @@ ruby wpscan.rb --url http://wordpress-site.com --wordlist ~/dictionary-attack/ro
 Her erstatter du selvfølgelig admin med et af de brugernavne, som din første scan viste.
 
 NB: Afhængig af din Internet forbindelse, og hosten du angriber. Tager det 8-9 timer at prøve 500.000 kodeordskombinationer op imod en WordPress side.
+
+## Sådan beskytter du dig
+
+Efter at have *hacket* adskillige WordPress, har jeg forsøgt at lave en plugin der lukker ned for netop den fremgangsmåde, jeg ville benytte.
+
+Du finder den herunder. Kopier blot koden til din *wp-content/plugins* mappe og aktiver den, så vil jeg personligt garantere dig for, at du aldrig skal bekymre dig om at få din WordPress side hacket igen.
+
+{% gist mikejakobsen/fb257223c7aeb0244a2044e27dd08b3f %}
