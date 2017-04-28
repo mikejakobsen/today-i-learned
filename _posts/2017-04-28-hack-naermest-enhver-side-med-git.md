@@ -1,12 +1,12 @@
 ---
-title: Hack nærmest enhver side der har brugt git
+title: Hack nærmest enhver side med hjælp fra git
 layout: post
 date: 2017-04-28 23:21:29
 category: Git, Hacking
 tags: [Git, Hacking]
 ---
 
-Enhver udvikler med respekt for sig selv, benytter selvfølgelig *Git*, under udvikling. Eller en anden form for version control.
+Enhver udvikler med respekt for sig selv, benytter selvfølgelig *Git*, under udvikling. Eller en anden form for version control. Men har de mon husket at fjerne git filerne igen?
 
 En meget udbredt fejl disse udviklere laver, er at efterlade deres *.git* repo filer. Når de uploader deres arbejde til serveren.
 
