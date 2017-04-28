@@ -40,4 +40,7 @@ Dernæst kommer du langt med en kombination af *git log* og *git diff*.
 
 Med lidt held, vil du hurtigt støde på et git output. I stil med *.env added*
 
-Og du kan dernæst køre en *git diff* og se hvor de følsomme informationer denne *.env* fil indeholder, stammer fra. Og dernæst se dem
+Og du kan dernæst køre en *git diff* og se hvor de følsomme informationer denne *.env* fil indeholder, stammer fra.
+
+Til slut kan du køre en *git reset --hard*.
+
