@@ -1,5 +1,5 @@
 ---
-title: Hack nærmest enhver side med hjælp fra git
+title: Hack nærmest enhver side med hjælp fra Git
 layout: post
 date: 2017-04-28 23:21:29
 category: Git, Hacking
