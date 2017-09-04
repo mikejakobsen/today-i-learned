@@ -6,7 +6,6 @@ category:
 tags:
 ---
 You should learn to do ONE thing at a time, and ONLY one thing. No texting. No Facebooking. No twittering. Just the current task.
-
 There's really no such thing as multitasking. Out brain is simply incapable of focusing on multiple things simultaneously.
 
 ## Eliminate distractions
